@@ -1,0 +1,27 @@
+{
+  "name": "engineer-manager",
+  "version": "1.0.0",
+  "description": "A list of resources for engineering managers (Books, Videos, Podcasts, Articles)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanburgess/engineer-manager.git"
+  },
+  "keywords": [
+    "managers",
+    "engineering",
+    "engineers",
+    "resources",
+    "links",
+    "learning"
+  ],
+  "author": "Ryan Burgess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanburgess/engineer-manager/issues"
+  },
+  "homepage": "https://github.com/ryanburgess/engineer-manager#readme"
+}
