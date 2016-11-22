@@ -55,69 +55,68 @@
         "cat": "video"
     },
     {
-        "title": "",
-        "url": "",
+        "title": "Radical Candor",
+        "url": "http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/",
         "cat": "article"
     },
     {
-        "title": "",
-        "url": "",
+        "title": "Forget Technical Debt — Here's How to Build Technical Wealth",
+        "url": "http://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/",
         "cat": "article"
     },
     {
-        "title": "",
-        "url": "",
+        "title": "10 things you should never put in your inmails",
+        "url": "http://www.socialtalent.co/blog/10-things-never-put-inmails-like-ever",
         "cat": "article"
     },
     {
-        "title": "",
-        "url": "",
+        "title": "The Pivotal Stories Every Startup Leader Should Be Able to Tell",
+        "url": "http://firstround.com/review/the-pivotal-stories-every-startup-leader-should-be-able-to-tell/",
         "cat": "article"
     },
     {
-        "title": "",
-        "url": "",
+        "title": "Becoming the Boss",
+        "url": "https://hbr.org/2007/01/becoming-the-boss",
         "cat": "article"
     },
     {
-        "title": "",
-        "url": "",
+        "title": "Resilience Is About How You Recharge, Not How You Endure",
+        "url": "https://hbr.org/2016/06/resilience-is-about-how-you-recharge-not-how-you-endure",
         "cat": "article"
     },
     {
-        "title": "",
-        "url": "",
+        "title": "Medium’s engineering interview process",
+        "url": "https://medium.engineering/mediums-engineering-interview-process-b8d6b67927c4#.j3e7zf2on",
         "cat": "article"
     },
     {
-        "title": "",
-        "url": "",
+        "title": "The One Cost Engineers and Product Managers Don't Consider",
+        "url": "http://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/",
         "cat": "article"
     },
     {
-        "title": "",
-        "url": "",
+        "title": "Here’s Google’s Secret to Hiring the Best People",
+        "url": "https://www.wired.com/2015/04/hire-like-google/",
         "cat": "article"
     },
     {
-        "title": "",
-        "url": "",
+        "title": "F*** You, I Quit — Hiring Is Broken",
+        "url": "https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324#.hp646x4g9",
         "cat": "article"
     },
     {
-        "title": "",
-        "url": "",
+        "title": "The best coding interview I ever took",
+        "url": "https://medium.com/code-like-a-girl/the-best-coding-interview-i-ever-took-2d12ee332077#.n013pl6cm",
         "cat": "article"
     },
     {
-        "title": "",
-        "url": "",
+        "title": "Want to Be an Outstanding Leader? Keep a Journal.",
+        "url": "https://hbr.org/2016/01/want-to-be-an-outstanding-leader-keep-a-journal",
         "cat": "article"
     },
     {
-        "title": "",
-        "url": "",
+        "title": "Technical interview performance is kind of arbitrary. Here’s the data.",
+        "url": "http://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/",
         "cat": "article"
-    },
-
+    }
 ]
