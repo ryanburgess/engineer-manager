@@ -19,6 +19,7 @@
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
  * [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en)
+ * [Female Career Advancement Summed up in One Usable Diagram // Janice Fraser // Calibrate 2016](https://www.youtube.com/watch?v=SDIV8XV6Qrg&t=1s)
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/)
@@ -56,3 +57,4 @@
  * [What's More Distracting Than A Noisy Co-Worker? Turns Out, Not Much](http://www.npr.org/2016/10/26/498850659/what-s-more-distracting-than-a-noisy-coworker-not-much)
  * [This is what work-life balance looks like at a company with 100% retention of moms](http://qz.com/806516/the-secret-to-patagonias-success-keeping-moms-and-onsite-child-care-and-paid-parental-leave/)
  * [If there's a tech skills shortage, why are so many computer graduates unemployed?](http://www.techrepublic.com/article/if-theres-a-tech-skills-shortage-why-are-so-many-computer-graduates-unemployed/)
+ * [Research: We Drop People Who Give Us Critical Feedback](https://hbr.org/2016/09/research-we-drop-people-who-give-us-critical-feedback)
