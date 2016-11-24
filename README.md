@@ -2,12 +2,12 @@
  A list of engineering manager resource links.
 ## Contributing 
 1. Fork it
-2. Add your resource to `list.json`
-3. Run `node index` to update `README.md` with your changes
-4. Create your feature branch (`git checkout -b my-new-feature`)
-5. Commit your changes (`git commit -am "Add some feature"`)
-6. Push to the branch (`git push origin my-new-feature`)
-7. Create new Pull Request
+2. Run `npm install`3. Add your resource to `list.json`
+4. Run `node index` to update `README.md` with your changes
+5. Create your feature branch (`git checkout -b my-new-feature`)
+6. Commit your changes (`git commit -am "Add some feature"`)
+7. Push to the branch (`git push origin my-new-feature`)
+8. Create new Pull Request
 
 ## Books
  * [The Advantage](https://www.amazon.com/dp/0470941529/?tag=googhydr-20&hvadid=30910543821&hvpos=1t1&hvnetw=g&hvrand=15028267282039044489&hvpone=&hvptwo=32&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032142&hvtargid=kwd-47506015307&ref=pd_sl_20vzz2ba7z_b)
@@ -58,3 +58,4 @@
  * [This is what work-life balance looks like at a company with 100% retention of moms](http://qz.com/806516/the-secret-to-patagonias-success-keeping-moms-and-onsite-child-care-and-paid-parental-leave/)
  * [If there's a tech skills shortage, why are so many computer graduates unemployed?](http://www.techrepublic.com/article/if-theres-a-tech-skills-shortage-why-are-so-many-computer-graduates-unemployed/)
  * [Research: We Drop People Who Give Us Critical Feedback](https://hbr.org/2016/09/research-we-drop-people-who-give-us-critical-feedback)
+ * [Netflix CEO reveals how much vacation he takes, and it's a lot more than most people take off](http://www.businessinsider.com/reed-hastings-vacation-2015-11)
