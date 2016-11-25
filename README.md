@@ -1,15 +1,5 @@
 # Engineering Manager Resources 
  A list of engineering manager resource links.
-## Contributing 
-1. Fork it
-2. Run `npm install`
-3. Add your resource to `list.json`
-4. Run `node index` to update `README.md` with your changes
-5. Create your feature branch (`git checkout -b my-new-feature`)
-6. Commit your changes (`git commit -am "Add some feature"`)
-7. Push to the branch (`git push origin my-new-feature`)
-8. Create new Pull Request
-
 ## Books
  * [The Advantage](https://www.amazon.com/dp/0470941529/?tag=googhydr-20&hvadid=30910543821&hvpos=1t1&hvnetw=g&hvrand=15028267282039044489&hvpone=&hvptwo=32&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032142&hvtargid=kwd-47506015307&ref=pd_sl_20vzz2ba7z_b)
  * [Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
@@ -74,3 +64,12 @@
  * [How Loss Aversion and Conformity Threaten Organizational Change](https://hbr.org/2016/11/how-loss-aversion-and-conformity-threaten-organizational-change)
  * [10 Candidate Questions That’ll Make You Squirm (But Earn)](http://theundercoverrecruiter.com/make-you-squirm/)
  * [The Future of Tech Recruitment: Sourcing, Hiring and Retaining Top Talent](http://theundercoverrecruiter.com/future-of-tech-recruitment/)
+## Contributing 
+1. Fork it
+2. Run `npm install`
+3. Add your resource to `list.json`
+4. Run `node index` to update `README.md` with your changes
+5. Create your feature branch (`git checkout -b my-new-feature`)
+6. Commit your changes (`git commit -am "Add some feature"`)
+7. Push to the branch (`git push origin my-new-feature`)
+8. Create new Pull Request
