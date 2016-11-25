@@ -59,3 +59,6 @@
  * [If there's a tech skills shortage, why are so many computer graduates unemployed?](http://www.techrepublic.com/article/if-theres-a-tech-skills-shortage-why-are-so-many-computer-graduates-unemployed/)
  * [Research: We Drop People Who Give Us Critical Feedback](https://hbr.org/2016/09/research-we-drop-people-who-give-us-critical-feedback)
  * [Netflix CEO reveals how much vacation he takes, and it's a lot more than most people take off](http://www.businessinsider.com/reed-hastings-vacation-2015-11)
+ * [How Loss Aversion and Conformity Threaten Organizational Change](https://hbr.org/2016/11/how-loss-aversion-and-conformity-threaten-organizational-change)
+ * [10 Candidate Questions That’ll Make You Squirm (But Earn)](http://theundercoverrecruiter.com/make-you-squirm/)
+ * [The Future of Tech Recruitment: Sourcing, Hiring and Retaining Top Talent](http://theundercoverrecruiter.com/future-of-tech-recruitment/)
