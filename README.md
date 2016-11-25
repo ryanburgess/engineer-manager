@@ -20,6 +20,7 @@
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
  * [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en)
  * [Female Career Advancement Summed up in One Usable Diagram // Janice Fraser // Calibrate 2016](https://www.youtube.com/watch?v=SDIV8XV6Qrg&t=1s)
+ * [The Vegetable Talk (Leadership. By the numbers.) // Michael Lopp // Calibrate 2016](https://youtu.be/AGJaqQ0b8AE?t=3m13s)
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/)
