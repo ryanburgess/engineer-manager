@@ -59,7 +59,7 @@ let content = '# Engineering Manager Resources \n A list of engineering manager 
  }
 
 // create contributing instructions
-content += ('\n## Contributing \n' +
+content += ('\n\n## Contributing \n' +
 '1. Fork it\n' +
 '2. Run `npm install`\n' +
 '3. Add your resource to `list.json`\n' +
