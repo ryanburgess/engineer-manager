@@ -15,6 +15,16 @@
  * [Thanks for the Feedback](https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0670014664)
  * [Good Boss, Bad Boss](https://www.amazon.com/Good-Boss-Bad-Learn-Worst/dp/0446556076)
  * [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507)
+ * [The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma](https://www.amazon.com/dp/0143127748/ref=wl_it_dp_v_nS_ttl)
+ * [How to Win Friends & Infl​uence People](https://www.amazon.com/dp/0671027034/ref=wl_it_dp_v_nS_ttl)
+ * [Search Inside Yourself](https://www.amazon.com/dp/0062116932/ref=wl_it_dp_v_nS_ttl)
+ * [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/dp/0884271951/ref=wl_it_dp_v_nS_ttl)
+ * [Rising Strong](https://www.amazon.com/dp/0812995821/ref=wl_it_dp_v_nS_ttl)
+ * [What Works for Women at Work](https://www.amazon.com/dp/1479835455/ref=wl_it_dp_v_nS_ttl)
+ * [Boyd: The Fighter Pilot Who Changed the Art of War](https://www.amazon.com/dp/0316796883/ref=wl_it_dp_v_nS_ttl)
+ * [Difficult Conversations: How to Discuss What Matters Most](https://www.amazon.com/dp/B004CR6ALA/ref=wl_it_dp_v_nS_ttl)
+ * [Influence: How and Why People Agree to Things](https://www.amazon.com/dp/0688015603/ref=wl_it_dp_v_nS_ttl)
+ * [Crucial Conversations](https://www.amazon.com/dp/1469266822/ref=wl_it_dp_v_nS_ttl)
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
