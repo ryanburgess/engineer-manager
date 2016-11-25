@@ -12,7 +12,7 @@ let content = '# Engineering Manager Resources \n A list of engineering manager 
 // create contributing instructions
 content += ('\n## Contributing \n' +
 '1. Fork it\n' +
-'2. Run `npm install`' +
+'2. Run `npm install`\n' +
 '3. Add your resource to `list.json`\n' +
 '4. Run `node index` to update `README.md` with your changes\n' +
 '5. Create your feature branch (`git checkout -b my-new-feature`)\n' +
