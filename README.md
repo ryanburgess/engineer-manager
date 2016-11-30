@@ -16,6 +16,9 @@
  * [Difficult Conversations: How to Discuss What Matters Most](https://www.amazon.com/dp/B004CR6ALA/ref=wl_it_dp_v_nS_ttl)
  * [Influence: How and Why People Agree to Things](https://www.amazon.com/dp/0688015603/ref=wl_it_dp_v_nS_ttl)
  * [Crucial Conversations](https://www.amazon.com/dp/1469266822/ref=wl_it_dp_v_nS_ttl)
+ * [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco-ebook/dp/B00DY5A8X2)
+ * [Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams](https://www.amazon.com/Managing-Unmanageable-Insights-Software-People-ebook/dp/B009CFV8BY)
+ * [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency-ebook/dp/B004SOVC2Y)
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
