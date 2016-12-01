@@ -285,8 +285,18 @@
         "cat": "book"
     },
     {
+        "title": "Peopleware: Productive Projects and Teams",
+        "url": "https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco-ebook/dp/B00DY5A8X2",
+        "cat": "book"
+    },
+    {
+        "title": "Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams",
+        "url": "https://www.amazon.com/Managing-Unmanageable-Insights-Software-People-ebook/dp/B009CFV8BY",
+        "cat": "book"
+    },
+    {
         "title": "Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency",
-        "url": "https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698",
+        "url": "https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency-ebook/dp/B004SOVC2Y",
         "cat": "book"
     }
 ]
