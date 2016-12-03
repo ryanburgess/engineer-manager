@@ -26,37 +26,25 @@ let content = '# Engineering Manager Resources \n A list of engineering manager 
    }
  }
 
- // display list of books
- content += '\n## Books';
- for (const bookItem of books) {
-   content += (
-     `\n * [${bookItem.title}](${bookItem.url})`
-   );
- }
+ // create content of the list of links
+const ouputLinks = (obj, title) => {
+  content += `\n\n## ${title}`;
+  const duplicates = [];
+  for (const out of obj) {
+    // avoid duplicates
+    if (duplicates.indexOf(out.url) === -1) {
+      duplicates.push(out.url);
+      content += (
+       `\n * [${out.title}](${out.url})`
+     );
+    }
+  }
+}
 
- // display list of videos
- content += '\n\n## Videos';
- for (const videoItem of videos) {
-   content += (
-     `\n * [${videoItem.title}](${videoItem.url})`
-   );
- }
-
- // display list of Podcasts
- content += '\n\n## Podcasts';
- for (const podcastItem of podcasts) {
-   content += (
-     `\n * [${podcastItem.title}](${podcastItem.url})`
-   );
- }
-
- // display list of Articles
- content += '\n\n## Articles';
- for (const articleItem of articles) {
-   content += (
-     `\n * [${articleItem.title}](${articleItem.url})`
-   );
- }
+ouputLinks(books, 'Books');
+ouputLinks(videos, 'Videos');
+ouputLinks(podcasts, 'Podcasts');
+ouputLinks(articles, 'Articles');
 
 // create contributing instructions
 content += ('\n\n## Contributing \n' +
