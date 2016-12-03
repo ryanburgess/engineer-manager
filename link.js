@@ -8,7 +8,7 @@ prompt.start();
 
 // prompt questions
 prompt.get(['title', 'url', 'category'], function (err, result) {
-   const obj = {'title': result.title, 'url': result.url, 'cat': result.category};
+   const obj = {'title': result.title.trim(), 'url': result.url.trim(), 'cat': result.category.trim()};
    fullList.push(obj);
    fs.writeFileSync('./list.json', JSON.stringify(fullList, null, 4));
    console.log('New link added!');

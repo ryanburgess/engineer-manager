@@ -6,7 +6,6 @@ const podcasts = [];
 const books = [];
 const articles = [];
 
-
 let content = '# Engineering Manager Resources \n A list of engineering manager resource links.';
 
  // create lists of resources
