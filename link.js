@@ -19,7 +19,7 @@ const schema = {
   properties: {
     title: {
       description: 'Link title',
-      pattern: /^[a-zA-Z\s\-]+$/,
+      pattern: /([^\s]+)/g,
       message: 'Name must be only letters, spaces, or dashes',
       required: true
     },
