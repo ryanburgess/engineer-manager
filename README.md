@@ -72,6 +72,8 @@
  * [The Future of Tech Recruitment: Sourcing, Hiring and Retaining Top Talent](http://theundercoverrecruiter.com/future-of-tech-recruitment/)
  * [Why time management is ruining our lives](https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives)
  * [Regardless of seniority, every good manager will](http://randsinrepose.com/links/2017/01/05/regardless-of-seniority-every-good-manager-will/)
+ * [W.A.I.S.T. The art of opening your ears and listening has never been so powerful](https://ibenstewart.com/w-a-i-s-t-68e9e5998da2)
+ * [How to Improve, Not Kill the Annual Performance Review](https://www.radicalcandor.com/blog/improve-annual-performance-review/)
 
 ## Contributing 
 1. Fork it
