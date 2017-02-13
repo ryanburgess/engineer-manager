@@ -77,6 +77,7 @@
  * [How Lever Got To 50–50 Women and Men](https://medium.com/initialized-capital/how-lever-got-to-50-50-between-women-men-b8db05b7d3ee#.k8h1l47qx)
  * [Force-feeding your hiring managers diversity is a bad idea](http://venturebeat.com/2017/01/29/force-feeding-your-hiring-managers-diversity-is-a-bad-idea/)
  * [Why Diversity Programs Fail](https://hbr.org/2016/07/why-diversity-programs-fail)
+ * [Leadership Comes From Everywhere](https://medium.com/@rands/leadership-comes-from-everywhere-61c2e555f8e7)
 
 ## Contributing 
 1. Fork it
