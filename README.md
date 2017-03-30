@@ -78,6 +78,9 @@
  * [Force-feeding your hiring managers diversity is a bad idea](http://venturebeat.com/2017/01/29/force-feeding-your-hiring-managers-diversity-is-a-bad-idea/)
  * [Why Diversity Programs Fail](https://hbr.org/2016/07/why-diversity-programs-fail)
  * [Leadership Comes From Everywhere](https://medium.com/@rands/leadership-comes-from-everywhere-61c2e555f8e7)
+ * [How These Seven Tech Leaders Are Tackling Diversity in 2017](https://www.fastcompany.com/3069251/how-these-seven-tech-leaders-are-tackling-diversity-in-2017)
+ * [Diversity Doesn’t Stick Without Inclusion](https://hbr.org/2017/02/diversity-doesnt-stick-without-inclusion)
+ * [Culture is the Behavior You Reward and Punish](https://jocelyngoldfein.com/culture-is-the-behavior-you-reward-and-punish-7e8e75c6543e)
 
 ## Contributing 
 1. Fork it
