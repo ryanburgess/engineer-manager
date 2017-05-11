@@ -2,6 +2,7 @@
  A list of engineering manager resource links.
 
 ## Books
+ * [Talking with Tech Leads: From Novices to Practitioners](https://www.amazon.com/Talking-Tech-Leads-Novices-Practitioners/dp/150581748X)
  * [The Advantage](https://www.amazon.com/dp/0470941529/?tag=googhydr-20&hvadid=30910543821&hvpos=1t1&hvnetw=g&hvrand=15028267282039044489&hvpone=&hvptwo=32&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032142&hvtargid=kwd-47506015307&ref=pd_sl_20vzz2ba7z_b)
  * [Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
  * [Thanks for the Feedback](https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0670014664)
