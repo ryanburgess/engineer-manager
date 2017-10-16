@@ -83,6 +83,7 @@
  * [How These Seven Tech Leaders Are Tackling Diversity in 2017](https://www.fastcompany.com/3069251/how-these-seven-tech-leaders-are-tackling-diversity-in-2017)
  * [Diversity Doesn’t Stick Without Inclusion](https://hbr.org/2017/02/diversity-doesnt-stick-without-inclusion)
  * [Culture is the Behavior You Reward and Punish](https://jocelyngoldfein.com/culture-is-the-behavior-you-reward-and-punish-7e8e75c6543e)
+ * [First Round Management Articles](http://firstround.com/review/management/)
 
 ## Contributing 
 1. Fork it
