@@ -84,6 +84,7 @@
  * [Diversity Doesn’t Stick Without Inclusion](https://hbr.org/2017/02/diversity-doesnt-stick-without-inclusion)
  * [Culture is the Behavior You Reward and Punish](https://jocelyngoldfein.com/culture-is-the-behavior-you-reward-and-punish-7e8e75c6543e)
  * [First Round Management Articles](http://firstround.com/review/management/)
+ * [First Round Review's 6 Must Reads to Run Fast, Efficient Meetings](http://firstround.com/review/first-round-reviews-6-must-reads-to-run-fast-efficient-meetings/)
 
 ## Contributing 
 1. Fork it
