@@ -9,7 +9,6 @@
  * [Thanks for the Feedback](https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0670014664)
  * [Good Boss, Bad Boss](https://www.amazon.com/Good-Boss-Bad-Learn-Worst/dp/0446556076)
  * [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507)
- * [The Phoenix Project](https://www.bookdepository.com/The-Phoenix-Project/9780988262508)
  * [The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma](https://www.amazon.com/dp/0143127748/ref=wl_it_dp_v_nS_ttl)
  * [How to Win Friends & Infl​uence People](https://www.amazon.com/dp/0671027034/ref=wl_it_dp_v_nS_ttl)
  * [Search Inside Yourself](https://www.amazon.com/dp/0062116932/ref=wl_it_dp_v_nS_ttl)
@@ -23,6 +22,7 @@
  * [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco-ebook/dp/B00DY5A8X2)
  * [Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams](https://www.amazon.com/Managing-Unmanageable-Insights-Software-People-ebook/dp/B009CFV8BY)
  * [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency-ebook/dp/B004SOVC2Y)
+ * [The Phoenix Project](https://www.bookdepository.com/The-Phoenix-Project/9780988262508)
  * [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around)
 
 ## Videos
