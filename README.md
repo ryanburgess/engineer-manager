@@ -23,6 +23,8 @@
  * [Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams](https://www.amazon.com/Managing-Unmanageable-Insights-Software-People-ebook/dp/B009CFV8BY)
  * [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency-ebook/dp/B004SOVC2Y)
  * [Drive: The Surprising Truth About What Motivates Us](http://www.danpink.com/books/drive/)
+ * [The Phoenix Project](https://www.bookdepository.com/The-Phoenix-Project/9780988262508)
+ * [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around)
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
