@@ -22,6 +22,7 @@
  * [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco-ebook/dp/B00DY5A8X2)
  * [Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams](https://www.amazon.com/Managing-Unmanageable-Insights-Software-People-ebook/dp/B009CFV8BY)
  * [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency-ebook/dp/B004SOVC2Y)
+ * [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around)
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
