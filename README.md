@@ -36,6 +36,7 @@
  * [Female Career Advancement Summed up in One Usable Diagram // Janice Fraser // Calibrate 2016](https://www.youtube.com/watch?v=SDIV8XV6Qrg&t=1s)
  * [The Vegetable Talk (Leadership. By the numbers.) // Michael Lopp // Calibrate 2016](https://youtu.be/AGJaqQ0b8AE?t=3m13s)
  * [Lara Hogan - Demystifying Public Speaking](https://www.youtube.com/watch?v=20GYQcBhXDo)
+ * [Camille Fournier - Cloning Yourself Isn’t an Option](https://vimeo.com/139907569)
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/)
