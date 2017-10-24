@@ -41,6 +41,7 @@
  * [Manager Tools](https://itunes.apple.com/us/podcast/manager-tools/id74198801?mt=2)
  * [HBR episode on interviews](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135?mt=2&i=363677863)
  * [HBR episode on feedback](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135?mt=2#episodeGuid=5f93f6ea0140dc92ea655196e51be183)
+ * [Endless Rewrites and Fake Deadlines](https://softskills.audio/2017/10/13/episode-78-endless-rewrites-and-fake-deadlines/)
  * [The Full Ratchet: VC | Venture Capital | Angel Investors | Startup Investing | Fundraising | Crowdfunding | Pitch | Private Equ](https://itunes.apple.com/ca/podcast/118.-economic-theory-in-venture/id888084300?i=1000378448924&mt=2)
 
 ## Articles
