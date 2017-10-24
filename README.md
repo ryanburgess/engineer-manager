@@ -1,4 +1,4 @@
-# Engineering Manager Resources 
+# Engineering Manager Resources
  A list of engineering manager resource links.
 
 ## Books
@@ -26,6 +26,7 @@
  * [Drive: The Surprising Truth About What Motivates Us](http://www.danpink.com/books/drive/)
  * [The Phoenix Project](https://www.bookdepository.com/The-Phoenix-Project/9780988262508)
  * [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around)
+ * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
  * [Building Great Startup Teams](https://www.amazon.co.uk/Building-Great-Startup-Teams-Attracting-ebook/dp/B01BVQS62A/)
  * [Leading Snowflakes: The Engineering Manager Handbook](http://leadingsnowflakes.com)
 
@@ -94,7 +95,7 @@
  * [First Round Review's 6 Must Reads to Run Fast, Efficient Meetings](http://firstround.com/review/first-round-reviews-6-must-reads-to-run-fast-efficient-meetings/)
  * [Emotional Intelligence Needs a Rewrite](http://nautil.us/issue/51/limits/emotional-intelligence-needs-a-rewrite)
 
-## Contributing 
+## Contributing
 1. Fork it
 2. Run `npm install`
 3. Add your resource to `list.json`
