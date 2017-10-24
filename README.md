@@ -27,6 +27,8 @@
  * [The Phoenix Project](https://www.bookdepository.com/The-Phoenix-Project/9780988262508)
  * [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around)
  * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+ * [Building Great Startup Teams](https://www.amazon.co.uk/Building-Great-Startup-Teams-Attracting-ebook/dp/B01BVQS62A/)
+ * [Leading Snowflakes: The Engineering Manager Handbook](http://leadingsnowflakes.com)
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
@@ -40,6 +42,7 @@
  * [Manager Tools](https://itunes.apple.com/us/podcast/manager-tools/id74198801?mt=2)
  * [HBR episode on interviews](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135?mt=2&i=363677863)
  * [HBR episode on feedback](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135?mt=2#episodeGuid=5f93f6ea0140dc92ea655196e51be183)
+ * [Endless Rewrites and Fake Deadlines](https://softskills.audio/2017/10/13/episode-78-endless-rewrites-and-fake-deadlines/)
  * [The Full Ratchet: VC | Venture Capital | Angel Investors | Startup Investing | Fundraising | Crowdfunding | Pitch | Private Equ](https://itunes.apple.com/ca/podcast/118.-economic-theory-in-venture/id888084300?i=1000378448924&mt=2)
 
 ## Articles
