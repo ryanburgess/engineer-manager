@@ -26,6 +26,7 @@
  * [Drive: The Surprising Truth About What Motivates Us](http://www.danpink.com/books/drive/)
  * [The Phoenix Project](https://www.bookdepository.com/The-Phoenix-Project/9780988262508)
  * [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around)
+ * [Building Great Startup Teams](https://www.amazon.co.uk/Building-Great-Startup-Teams-Attracting-ebook/dp/B01BVQS62A/)
  * [Leading Snowflakes: The Engineering Manager Handbook](http://leadingsnowflakes.com)
 
 ## Videos
