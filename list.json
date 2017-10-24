@@ -55,6 +55,11 @@
         "cat": "podcast"
     },
     {
+        "title": "Endless Rewrites and Fake Deadlines",
+        "url": "https://softskills.audio/2017/10/13/episode-78-endless-rewrites-and-fake-deadlines/",
+        "cat": "podcast"
+    },
+    {
         "title": "David Grady: How to save the world (or at least yourself) from bad meetings",
         "url": "https://www.youtube.com/watch?v=F6Qo8IDsVNg",
         "cat": "video"
@@ -413,5 +418,25 @@
         "title": "Camille Fournier - Building and Motivating Engineering Teams",
         "url": "https://www.youtube.com/watch?v=7R-Y2DwWOr0",
         "cat": "video"
+    },
+    {
+        "title": "Cloning Yourself Isn’t an Option – Camille Fournier at The Lead Developer 2015",
+        "url": "https://vimeo.com/139907569",
+        "cat": "video"
+     },
+     {
+        "title": "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change",
+        "url": "https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897",
+        "cat": "book"
+    },
+    {
+        "title": "Building Great Startup Teams",
+        "url": "https://www.amazon.co.uk/Building-Great-Startup-Teams-Attracting-ebook/dp/B01BVQS62A/",
+        "cat": "book"
+    },
+    {
+        "title": "Leading Snowflakes: The Engineering Manager Handbook",
+        "url": "http://leadingsnowflakes.com",
+        "cat": "book"
     }
 ]
