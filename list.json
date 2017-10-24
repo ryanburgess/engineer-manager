@@ -413,5 +413,10 @@
         "title": "Building Great Startup Teams",
         "url": "https://www.amazon.co.uk/Building-Great-Startup-Teams-Attracting-ebook/dp/B01BVQS62A/",
         "cat": "book"
+    },
+    {
+        "title": "Leading Snowflakes: The Engineering Manager Handbook",
+        "url": "http://leadingsnowflakes.com",
+        "cat": "book"
     }
 ]
