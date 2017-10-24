@@ -98,6 +98,9 @@
  * [First Round Review's 6 Must Reads to Run Fast, Efficient Meetings](http://firstround.com/review/first-round-reviews-6-must-reads-to-run-fast-efficient-meetings/)
  * [Emotional Intelligence Needs a Rewrite](http://nautil.us/issue/51/limits/emotional-intelligence-needs-a-rewrite)
 
+## Newsletters
+ * [Software Lead Weekly](http://softwareleadweekly.com/)
+
 ## Contributing
 1. Fork it
 2. Run `npm install`

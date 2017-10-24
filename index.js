@@ -5,6 +5,7 @@ const videos = [];
 const podcasts = [];
 const books = [];
 const articles = [];
+const newsletters = [];
 
 let content = '# Engineering Manager Resources \n A list of engineering manager resource links.';
 
@@ -22,6 +23,8 @@ let content = '# Engineering Manager Resources \n A list of engineering manager 
      podcasts.push({'title': title, 'url': url});
    }else if(cat === 'article') {
      articles.push({'title': title, 'url': url});
+   }else if(cat === 'newsletter') {
+     newsletters.push({'title': title, 'url': url});
    }
  }
 
@@ -44,6 +47,7 @@ ouputLinks(books, 'Books');
 ouputLinks(videos, 'Videos');
 ouputLinks(podcasts, 'Podcasts');
 ouputLinks(articles, 'Articles');
+ouputLinks(newsletters, 'Newsletters');
 
 // create contributing instructions
 content += ('\n\n## Contributing \n' +

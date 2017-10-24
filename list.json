@@ -443,5 +443,10 @@
         "title": "Leading Snowflakes: The Engineering Manager Handbook",
         "url": "http://leadingsnowflakes.com",
         "cat": "book"
+    },
+    {
+        "title": "Software Lead Weekly",
+        "url": "http://softwareleadweekly.com/",
+        "cat": "newsletter"
     }
 ]
