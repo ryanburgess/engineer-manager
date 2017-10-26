@@ -39,6 +39,8 @@
  * [Lara Hogan - Demystifying Public Speaking](https://www.youtube.com/watch?v=20GYQcBhXDo)
  * [Camille Fournier - Building a High-Performance Team is Everyone's Job](https://www.youtube.com/watch?v=pTf5mqOrwvY)
  * [Camille Fournier - Building and Motivating Engineering Teams](https://www.youtube.com/watch?v=7R-Y2DwWOr0)
+ * [Camille Fournier - Cloning Yourself Isn’t an Option](https://vimeo.com/139907569)
+ * [Rethinking the Developer Career Path](https://youtu.be/yIPbE7BssOs)
  * [Cloning Yourself Isn’t an Option – Camille Fournier at The Lead Developer 2015](https://vimeo.com/139907569)
 
 ## Podcasts
