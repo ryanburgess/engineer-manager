@@ -35,9 +35,12 @@
  * [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en)
  * [Female Career Advancement Summed up in One Usable Diagram // Janice Fraser // Calibrate 2016](https://www.youtube.com/watch?v=SDIV8XV6Qrg&t=1s)
  * [The Vegetable Talk (Leadership. By the numbers.) // Michael Lopp // Calibrate 2016](https://youtu.be/AGJaqQ0b8AE?t=3m13s)
+ * [Rory Vaden - How To Multiply Your Time](https://www.youtube.com/watch?v=y2X7c9TUQJ8)
  * [Lara Hogan - Demystifying Public Speaking](https://www.youtube.com/watch?v=20GYQcBhXDo)
  * [Camille Fournier - Building a High-Performance Team is Everyone's Job](https://www.youtube.com/watch?v=pTf5mqOrwvY)
  * [Camille Fournier - Building and Motivating Engineering Teams](https://www.youtube.com/watch?v=7R-Y2DwWOr0)
+ * [Camille Fournier - Cloning Yourself Isn’t an Option](https://vimeo.com/139907569)
+ * [Rethinking the Developer Career Path](https://youtu.be/yIPbE7BssOs)
  * [Cloning Yourself Isn’t an Option – Camille Fournier at The Lead Developer 2015](https://vimeo.com/139907569)
 
 ## Podcasts
@@ -98,6 +101,9 @@
  * [First Round Management Articles](http://firstround.com/review/management/)
  * [First Round Review's 6 Must Reads to Run Fast, Efficient Meetings](http://firstround.com/review/first-round-reviews-6-must-reads-to-run-fast-efficient-meetings/)
  * [Emotional Intelligence Needs a Rewrite](http://nautil.us/issue/51/limits/emotional-intelligence-needs-a-rewrite)
+
+## Newsletters
+ * [Software Lead Weekly](http://softwareleadweekly.com/)
 
 ## Contributing 
 1. Fork it

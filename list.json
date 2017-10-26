@@ -80,6 +80,11 @@
         "cat": "video"
     },
     {
+        "title": "Rory Vaden - How To Multiply Your Time",
+        "url": "https://www.youtube.com/watch?v=y2X7c9TUQJ8",
+        "cat": "video"
+    },
+    {
         "title": "Radical Candor",
         "url": "http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/",
         "cat": "article"
@@ -448,5 +453,15 @@
         "title": "Leading Snowflakes: The Engineering Manager Handbook",
         "url": "http://leadingsnowflakes.com",
         "cat": "book"
+    },
+    {
+        "title": "Rethinking the Developer Career Path",
+        "url": "https://youtu.be/yIPbE7BssOs",
+        "cat": "video"
+    },
+    {
+        "title": "Software Lead Weekly",
+        "url": "http://softwareleadweekly.com/",
+        "cat": "newsletter"
     }
 ]
