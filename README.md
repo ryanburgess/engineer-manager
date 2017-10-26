@@ -39,8 +39,9 @@
  * [Lara Hogan - Demystifying Public Speaking](https://www.youtube.com/watch?v=20GYQcBhXDo)
  * [Camille Fournier - Building a High-Performance Team is Everyone's Job](https://www.youtube.com/watch?v=pTf5mqOrwvY)
  * [Camille Fournier - Building and Motivating Engineering Teams](https://www.youtube.com/watch?v=7R-Y2DwWOr0)
- * [Cloning Yourself Isn’t an Option – Camille Fournier at The Lead Developer 2015](https://vimeo.com/139907569)
+ * [Camille Fournier - Cloning Yourself Isn’t an Option](https://vimeo.com/139907569)
  * [Rethinking the Developer Career Path](https://youtu.be/yIPbE7BssOs)
+ * [Cloning Yourself Isn’t an Option – Camille Fournier at The Lead Developer 2015](https://vimeo.com/139907569)
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/)
@@ -85,6 +86,7 @@
  * [How Loss Aversion and Conformity Threaten Organizational Change](https://hbr.org/2016/11/how-loss-aversion-and-conformity-threaten-organizational-change)
  * [10 Candidate Questions That’ll Make You Squirm (But Earn)](http://theundercoverrecruiter.com/make-you-squirm/)
  * [The Future of Tech Recruitment: Sourcing, Hiring and Retaining Top Talent](http://theundercoverrecruiter.com/future-of-tech-recruitment/)
+ * [Engineering Growth Framework](https://medium.com/s/engineering-growth-framework)
  * [Why time management is ruining our lives](https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives)
  * [Regardless of seniority, every good manager will](http://randsinrepose.com/links/2017/01/05/regardless-of-seniority-every-good-manager-will/)
  * [W.A.I.S.T. The art of opening your ears and listening has never been so powerful](https://ibenstewart.com/w-a-i-s-t-68e9e5998da2)
