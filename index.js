@@ -15,17 +15,14 @@ let content = '# Engineering Manager Resources \n A list of engineering manager 
    const url = resource.url;
    const cat = resource.cat;
 
-   if(cat === 'book') {
-     books.push({'title': title, 'url': url});
-   }else if(cat === 'video') {
-     videos.push({'title': title, 'url': url});
-   }else if(cat === 'podcast') {
-     podcasts.push({'title': title, 'url': url});
-   }else if(cat === 'article') {
-     articles.push({'title': title, 'url': url});
-   }else if(cat === 'newsletter') {
-     newsletters.push({'title': title, 'url': url});
-   }
+   const categoryMap = {
+     book: books,
+     video: videos,
+     podcast: podcasts,
+     article: articles
+   };
+
+   categoryMap[cat].push({'title': title, 'url': url});
  }
 
  // create content of the list of links
