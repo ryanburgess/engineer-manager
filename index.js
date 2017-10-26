@@ -5,6 +5,7 @@ const videos = [];
 const podcasts = [];
 const books = [];
 const articles = [];
+const newsletters = [];
 
 let content = '# Engineering Manager Resources \n A list of engineering manager resource links.';
 
@@ -43,6 +44,7 @@ ouputLinks(books, 'Books');
 ouputLinks(videos, 'Videos');
 ouputLinks(podcasts, 'Podcasts');
 ouputLinks(articles, 'Articles');
+ouputLinks(newsletters, 'Newsletters');
 
 // create contributing instructions
 content += ('\n\n## Contributing \n' +
