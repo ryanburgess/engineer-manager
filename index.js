@@ -19,7 +19,8 @@ let content = '# Engineering Manager Resources \n A list of engineering manager 
      book: books,
      video: videos,
      podcast: podcasts,
-     article: articles
+     article: articles,
+     newsletter: newsletters
    };
 
    categoryMap[cat].push({'title': title, 'url': url});
