@@ -463,5 +463,10 @@
         "title": "Software Lead Weekly",
         "url": "http://softwareleadweekly.com/",
         "cat": "newsletter"
+    },
+    {
+        "title": "The Mythical Man-Month: Essays on Software Engineering",
+        "url": "https://www.amazon.com/dp/0201835959/",
+        "cat": "book"
     }
 ]

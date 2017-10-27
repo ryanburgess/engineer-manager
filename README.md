@@ -29,6 +29,7 @@
  * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
  * [Building Great Startup Teams](https://www.amazon.co.uk/Building-Great-Startup-Teams-Attracting-ebook/dp/B01BVQS62A/)
  * [Leading Snowflakes: The Engineering Manager Handbook](http://leadingsnowflakes.com)
+ * [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.com/dp/0201835959/)
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
@@ -39,9 +40,8 @@
  * [Lara Hogan - Demystifying Public Speaking](https://www.youtube.com/watch?v=20GYQcBhXDo)
  * [Camille Fournier - Building a High-Performance Team is Everyone's Job](https://www.youtube.com/watch?v=pTf5mqOrwvY)
  * [Camille Fournier - Building and Motivating Engineering Teams](https://www.youtube.com/watch?v=7R-Y2DwWOr0)
- * [Camille Fournier - Cloning Yourself Isn’t an Option](https://vimeo.com/139907569)
- * [Rethinking the Developer Career Path](https://youtu.be/yIPbE7BssOs)
  * [Cloning Yourself Isn’t an Option – Camille Fournier at The Lead Developer 2015](https://vimeo.com/139907569)
+ * [Rethinking the Developer Career Path](https://youtu.be/yIPbE7BssOs)
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/)
