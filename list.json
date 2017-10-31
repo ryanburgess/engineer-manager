@@ -473,5 +473,10 @@
         "title": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
         "url": "https://www.amazon.com/dp/0062273205/",
         "cat": "book"
+    },
+    {
+        "title": "Joel on Software: Tech Lead reading list",
+        "url": "https://www.joelonsoftware.com/category/reading-lists/tech-lead/",
+        "cat": "article"
     }
 ]

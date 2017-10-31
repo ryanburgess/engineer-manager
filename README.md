@@ -101,6 +101,7 @@
  * [First Round Management Articles](http://firstround.com/review/management/)
  * [First Round Review's 6 Must Reads to Run Fast, Efficient Meetings](http://firstround.com/review/first-round-reviews-6-must-reads-to-run-fast-efficient-meetings/)
  * [Emotional Intelligence Needs a Rewrite](http://nautil.us/issue/51/limits/emotional-intelligence-needs-a-rewrite)
+ * [Joel on Software: Tech Lead reading list](https://www.joelonsoftware.com/category/reading-lists/tech-lead/)
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
