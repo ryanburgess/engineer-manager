@@ -468,5 +468,10 @@
         "title": "The Mythical Man-Month: Essays on Software Engineering",
         "url": "https://www.amazon.com/dp/0201835959/",
         "cat": "book"
+    },
+    {
+        "title": "Joel on Software: Tech Lead reading list",
+        "url": "https://www.joelonsoftware.com/category/reading-lists/tech-lead/",
+        "cat": "article"
     }
 ]
