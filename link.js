@@ -45,6 +45,6 @@ prompt.start();
 prompt.get(schema, function (err, result) {
    const obj = {'title': result.title.trim(), 'url': result.url.trim(), 'cat': result.category.trim()};
    fullList.push(obj);
-   fs.writeFileSync('./list.json', JSON.stringify(fullList, null, 4));
+   fs.writeFileSync('./list.json', JSON.stringify(fullList, null, 4) + '\n');
    console.log('New link added!');
 });
