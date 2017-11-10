@@ -6,6 +6,7 @@ const podcasts = [];
 const books = [];
 const articles = [];
 const newsletters = [];
+const mentoring = [];
 
 let content = '# Engineering Manager Resources \n A list of engineering manager resource links.';
 
@@ -20,7 +21,8 @@ let content = '# Engineering Manager Resources \n A list of engineering manager 
      video: videos,
      podcast: podcasts,
      article: articles,
-     newsletter: newsletters
+     newsletter: newsletters,
+     mentoring: mentoring,
    };
 
    categoryMap[cat].push({'title': title, 'url': url});
@@ -41,6 +43,7 @@ const ouputLinks = (obj, title) => {
   }
 }
 
+ouputLinks(mentoring, 'Mentoring');
 ouputLinks(books, 'Books');
 ouputLinks(videos, 'Videos');
 ouputLinks(podcasts, 'Podcasts');

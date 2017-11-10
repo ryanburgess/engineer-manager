@@ -1,6 +1,10 @@
 # Engineering Manager Resources 
  A list of engineering manager resource links.
 
+## Mentoring
+ * [Plato](https://www.platohq.com/)
+ * [SCORE Business Mentoring](https://www.score.org/)
+
 ## Books
  * [Talking with Tech Leads: From Novices to Practitioners](https://www.amazon.com/Talking-Tech-Leads-Novices-Practitioners/dp/150581748X)
  * [Behind Closed Doors: Secrets of Great Management](https://www.amazon.com/Behind-Closed-Doors-Management-Programmers-ebook/dp/B00A4OA6UQ/ref=mt_kindle?_encoding=UTF8&me=)
