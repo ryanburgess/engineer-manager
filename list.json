@@ -478,5 +478,15 @@
         "title": "Joel on Software: Tech Lead reading list",
         "url": "https://www.joelonsoftware.com/category/reading-lists/tech-lead/",
         "cat": "article"
+    },
+    {
+        "title": "Plato",
+        "url": "https://www.platohq.com/",
+        "cat": "mentoring"
+    },
+    {
+        "title": "SCORE",
+        "url": "https://www.score.org/",
+        "cat": "mentoring"
     }
 ]
