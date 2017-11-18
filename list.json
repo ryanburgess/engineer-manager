@@ -493,5 +493,25 @@
         "title": "SCORE",
         "url": "https://www.score.org/",
         "cat": "mentoring"
+    },
+    {
+        "title": "Quiet Leadership",
+        "url": "https://www.amazon.com/Quiet-Leadership-Steps-Transforming-Performance/dp/0060835915",
+        "cat": "book"
+    },
+    {
+        "title": "HBR's 10 Must Reads on Managing Yourself",
+        "url": "ttps://www.amazon.com/Managing-Yourself-Measure-Clayton-Christensen/dp/1422157997",
+        "cat": "book"
+    },
+    {
+        "title": "Originals - How Non-Conformists Move the World",
+        "url": "https://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/0525429565",
+        "cat": "book"
+    },
+    {
+        "title": "What Every Body Is Saying",
+        "url": "https://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294",
+        "cat": "book"
     }
 ]
