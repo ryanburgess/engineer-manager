@@ -36,6 +36,10 @@
  * [Leading Snowflakes: The Engineering Manager Handbook](http://leadingsnowflakes.com)
  * [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.com/dp/0201835959/)
  * [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/dp/0062273205/)
+ * [Quiet Leadership](https://www.amazon.com/Quiet-Leadership-Steps-Transforming-Performance/dp/0060835915)
+ * [HBR's 10 Must Reads on Managing Yourself](ttps://www.amazon.com/Managing-Yourself-Measure-Clayton-Christensen/dp/1422157997)
+ * [Originals - How Non-Conformists Move the World](https://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/0525429565)
+ * [What Every Body Is Saying](https://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294)
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
