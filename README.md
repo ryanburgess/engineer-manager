@@ -55,6 +55,7 @@
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/)
+ * [UNSTUCK: The Tech Lead Q&A Show](http://marcusblankenship.com/unstuck)
  * [Manager Tools](https://itunes.apple.com/us/podcast/manager-tools/id74198801?mt=2)
  * [HBR episode on interviews](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135?mt=2&i=363677863)
  * [HBR episode on feedback](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135?mt=2#episodeGuid=5f93f6ea0140dc92ea655196e51be183)
