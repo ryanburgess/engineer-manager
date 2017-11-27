@@ -4,6 +4,7 @@
 ## Mentoring
  * [Plato](https://www.platohq.com/)
  * [SCORE](https://www.score.org/)
+ * [Tech Leader Mentoring Group](https://marcusblankenship.com/tech-lead-mentoring-group/)
 
 ## Books
  * [Talking with Tech Leads: From Novices to Practitioners](https://www.amazon.com/Talking-Tech-Leads-Novices-Practitioners/dp/150581748X)
@@ -115,6 +116,7 @@
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
+ * [Marcus Blankenship's Tech Leader Newsletter](http://marcusblankenship.com)
 
 ## Contributing 
 1. Fork it

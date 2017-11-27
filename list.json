@@ -470,6 +470,11 @@
         "cat": "newsletter"
     },
     {
+        "title": "Marcus Blankenship's Tech Leader Newsletter",
+        "url": "http://marcusblankenship.com",
+        "cat": "newsletter"
+    },
+    {
         "title": "The Mythical Man-Month: Essays on Software Engineering",
         "url": "https://www.amazon.com/dp/0201835959/",
         "cat": "book"
@@ -492,6 +497,11 @@
     {
         "title": "SCORE",
         "url": "https://www.score.org/",
+        "cat": "mentoring"
+    },
+    {
+        "title": "Tech Leader Mentoring Group",
+        "url": "https://marcusblankenship.com/tech-lead-mentoring-group/",
         "cat": "mentoring"
     },
     {
