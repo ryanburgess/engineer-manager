@@ -52,6 +52,7 @@
  * [Camille Fournier - Building and Motivating Engineering Teams](https://www.youtube.com/watch?v=7R-Y2DwWOr0)
  * [Cloning Yourself Isn’t an Option – Camille Fournier at The Lead Developer 2015](https://vimeo.com/139907569)
  * [Rethinking the Developer Career Path](https://youtu.be/yIPbE7BssOs)
+ * [Collaborative Development: The Only CD That Matters - Brent Beer (GitHub) at Codemotion Italy 2017](https://www.youtube.com/watch?v=XyqeKmefgYw)
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/)
