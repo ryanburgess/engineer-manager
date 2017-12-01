@@ -114,6 +114,7 @@
  * [How I share information with my team](http://www.mikemcgarr.com/blog/week-in-review.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Tech%20People%20Leadership)
  * [Emotional Intelligence Needs a Rewrite](http://nautil.us/issue/51/limits/emotional-intelligence-needs-a-rewrite)
  * [Joel on Software: Tech Lead reading list](https://www.joelonsoftware.com/category/reading-lists/tech-lead/)
+ * [Gallup’s Profound Discovery: Engagement Is Driven By Good Managers With Rare Talents](https://talentculture.com/gallups-profound-discovery-engagement-is-driven-by-good-managers-with-rare-talents/)
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
