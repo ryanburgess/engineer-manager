@@ -448,8 +448,8 @@
         "title": "Cloning Yourself Isn’t an Option – Camille Fournier at The Lead Developer 2015",
         "url": "https://vimeo.com/139907569",
         "cat": "video"
-     },
-     {
+    },
+    {
         "title": "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change",
         "url": "https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897",
         "cat": "book"
@@ -528,5 +528,10 @@
         "title": "What Every Body Is Saying",
         "url": "https://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294",
         "cat": "book"
+    },
+    {
+        "title": "Collaborative Development: The Only CD That Matters - Brent Beer (GitHub) at Codemotion Italy 2017",
+        "url": "https://www.youtube.com/watch?v=XyqeKmefgYw",
+        "cat": "video"
     }
 ]
