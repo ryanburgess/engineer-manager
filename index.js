@@ -15,6 +15,7 @@ let content = '# Engineering Manager Resources \n A list of engineering manager 
    const title = resource.title;
    const url = resource.url;
    const cat = resource.cat;
+   const reason = resource.reason;
 
    const categoryMap = {
      book: books,
@@ -25,7 +26,7 @@ let content = '# Engineering Manager Resources \n A list of engineering manager 
      mentoring: mentoring,
    };
 
-   categoryMap[cat].push({'title': title, 'url': url});
+   categoryMap[cat].push({'title': title, 'url': url, 'reason': reason});
  }
 
  // create content of the list of links
@@ -36,8 +37,16 @@ const ouputLinks = (obj, title) => {
     // avoid duplicates
     if (duplicates.indexOf(out.url) === -1) {
       duplicates.push(out.url);
+
+      // provide a reason why the resource is helpful
+      let reasonDetails = '';
+      // if there isn't a reason provided in list.json keep reasonDetails blank
+      if (out.reason !== undefined && out.reason !== '') {
+        reasonDetails = ` - ${out.reason}`
+      }
+      // create the content that will be output to the Readme
       content += (
-       `\n * [${out.title}](${out.url})`
+       `\n * [${out.title}](${out.url})${reasonDetails}`
      );
     }
   }

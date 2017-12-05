@@ -2,536 +2,643 @@
     {
         "title": "Talking with Tech Leads: From Novices to Practitioners",
         "url": "https://www.amazon.com/Talking-Tech-Leads-Novices-Practitioners/dp/150581748X",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Behind Closed Doors: Secrets of Great Management",
         "url": "https://www.amazon.com/Behind-Closed-Doors-Management-Programmers-ebook/dp/B00A4OA6UQ/ref=mt_kindle?_encoding=UTF8&me=",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "The Advantage",
         "url": "https://www.amazon.com/dp/0470941529/?tag=googhydr-20&hvadid=30910543821&hvpos=1t1&hvnetw=g&hvrand=15028267282039044489&hvpone=&hvptwo=32&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032142&hvtargid=kwd-47506015307&ref=pd_sl_20vzz2ba7z_b",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Managing Humans",
         "url": "https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1430243147",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Thanks for the Feedback",
         "url": "https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0670014664",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Good Boss, Bad Boss",
         "url": "https://www.amazon.com/Good-Boss-Bad-Learn-Worst/dp/0446556076",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "The Culture Map: Breaking Through the Invisible Boundaries of Global Business",
         "url": "https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507",
+        "reason": "This is a great book if you work with people from other countries.",
         "cat": "book"
     },
     {
         "title": "Front End Happy Hour Episode 17 - managers",
         "url": "http://frontendhappyhour.com/episodes/managing-our-drinks/",
+        "reason": "",
         "cat": "podcast"
     },
     {
         "title": "UNSTUCK: The Tech Lead Q&A Show",
         "url": "http://marcusblankenship.com/unstuck",
+        "reason": "",
         "cat": "podcast"
     },
     {
         "title": "Manager Tools",
         "url": "https://itunes.apple.com/us/podcast/manager-tools/id74198801?mt=2",
+        "reason": "",
         "cat": "podcast"
     },
     {
         "title": "HBR episode on interviews",
         "url": "https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135?mt=2&i=363677863",
+        "reason": "",
         "cat": "podcast"
     },
     {
         "title": "HBR episode on feedback",
         "url": "https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135?mt=2#episodeGuid=5f93f6ea0140dc92ea655196e51be183",
+        "reason": "",
         "cat": "podcast"
     },
     {
         "title": "Endless Rewrites and Fake Deadlines",
         "url": "https://softskills.audio/2017/10/13/episode-78-endless-rewrites-and-fake-deadlines/",
+        "reason": "",
         "cat": "podcast"
     },
     {
         "title": "David Grady: How to save the world (or at least yourself) from bad meetings",
         "url": "https://www.youtube.com/watch?v=F6Qo8IDsVNg",
+        "reason": "",
         "cat": "video"
     },
     {
         "title": "How great leaders inspire action",
         "url": "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en",
+        "reason": "",
         "cat": "video"
     },
     {
         "title": "Female Career Advancement Summed up in One Usable Diagram // Janice Fraser // Calibrate 2016",
         "url": "https://www.youtube.com/watch?v=SDIV8XV6Qrg&t=1s",
+        "reason": "",
         "cat": "video"
     },
     {
         "title": "The Vegetable Talk (Leadership. By the numbers.) // Michael Lopp // Calibrate 2016",
         "url": "https://youtu.be/AGJaqQ0b8AE?t=3m13s",
+        "reason": "",
         "cat": "video"
     },
     {
         "title": "Rory Vaden - How To Multiply Your Time",
         "url": "https://www.youtube.com/watch?v=y2X7c9TUQJ8",
+        "reason": "",
         "cat": "video"
     },
     {
         "title": "Radical Candor",
         "url": "http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Forget Technical Debt — Here's How to Build Technical Wealth",
         "url": "http://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "10 things you should never put in your inmails",
         "url": "http://www.socialtalent.co/blog/10-things-never-put-inmails-like-ever",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "The Pivotal Stories Every Startup Leader Should Be Able to Tell",
         "url": "http://firstround.com/review/the-pivotal-stories-every-startup-leader-should-be-able-to-tell/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Becoming the Boss",
         "url": "https://hbr.org/2007/01/becoming-the-boss",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Resilience Is About How You Recharge, Not How You Endure",
         "url": "https://hbr.org/2016/06/resilience-is-about-how-you-recharge-not-how-you-endure",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Medium’s engineering interview process",
         "url": "https://medium.engineering/mediums-engineering-interview-process-b8d6b67927c4#.j3e7zf2on",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "The One Cost Engineers and Product Managers Don't Consider",
         "url": "http://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Here’s Google’s Secret to Hiring the Best People",
         "url": "https://www.wired.com/2015/04/hire-like-google/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "F*** You, I Quit — Hiring Is Broken",
         "url": "https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324#.hp646x4g9",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "The best coding interview I ever took",
         "url": "https://medium.com/code-like-a-girl/the-best-coding-interview-i-ever-took-2d12ee332077#.n013pl6cm",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Want to Be an Outstanding Leader? Keep a Journal.",
         "url": "https://hbr.org/2016/01/want-to-be-an-outstanding-leader-keep-a-journal",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Technical interview performance is kind of arbitrary. Here’s the data.",
         "url": "http://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "What Google Learned From Its Quest to Build the Perfect Team",
         "url": "http://mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Facebook’s HR chief conducted a company-wide study to find its best managers — and 7 behaviors stood out",
         "url": "http://www.businessinsider.com/facebook-best-managers-exhibit-these-7-behaviors-2016-1",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "The Magic of Doing One Thing at a Time",
         "url": "https://hbr.org/2012/03/the-magic-of-doing-one-thing-a.html",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Should Companies Get Rid of Performance Reviews?",
         "url": "https://readthink.com/should-companies-get-rid-of-performance-reviews-1e03b7726cc1#.vscg4lp2f",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "How to Spot and Magnify the Powers of Your Engineering Superheroes",
         "url": "http://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "The Keys to Scaling Yourself as a Technology Leader",
         "url": "http://firstround.com/review/the-keys-to-scaling-yourself-as-a-technology-leader/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Meetings that don't suck",
         "url": "https://library.gv.com/meetings-that-don-t-suck-959b8b5df3a4#.vdhm03k8i",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "The Art of the Awkward 1:1",
         "url": "https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c#.53msecvc3",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "101 Questions to Ask in One on Ones",
         "url": "https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Hire a Top Performer Every Time with These Interview Questions",
         "url": "http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "The biggest lie in HR: “People quit managers",
         "url": "https://42hire.com/the-biggest-lie-in-hr-people-quit-managers-592e68ee6623#.yj669qfn2",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Want to hire faster? Write about “learning,” not “brilliance”",
         "url": "https://textio.ai/growth-mindset-language-41d51c91432#.ru880yn61",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Shocker: Tech’s widening gender gap is all about the bro-ification of Silicon Valley",
         "url": "https://pando.com/2016/11/02/g/457135241861957dc2581423ed125004e5360096/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "What's More Distracting Than A Noisy Co-Worker? Turns Out, Not Much",
         "url": "http://www.npr.org/2016/10/26/498850659/what-s-more-distracting-than-a-noisy-coworker-not-much",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "This is what work-life balance looks like at a company with 100% retention of moms",
         "url": "http://qz.com/806516/the-secret-to-patagonias-success-keeping-moms-and-onsite-child-care-and-paid-parental-leave/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "If there's a tech skills shortage, why are so many computer graduates unemployed?",
         "url": "http://www.techrepublic.com/article/if-theres-a-tech-skills-shortage-why-are-so-many-computer-graduates-unemployed/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Research: We Drop People Who Give Us Critical Feedback",
         "url": "https://hbr.org/2016/09/research-we-drop-people-who-give-us-critical-feedback",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Netflix CEO reveals how much vacation he takes, and it's a lot more than most people take off",
         "url": "http://www.businessinsider.com/reed-hastings-vacation-2015-11",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "How Loss Aversion and Conformity Threaten Organizational Change",
         "url": "https://hbr.org/2016/11/how-loss-aversion-and-conformity-threaten-organizational-change",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "10 Candidate Questions That’ll Make You Squirm (But Earn)",
         "url": "http://theundercoverrecruiter.com/make-you-squirm/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "The Future of Tech Recruitment: Sourcing, Hiring and Retaining Top Talent",
         "url": "http://theundercoverrecruiter.com/future-of-tech-recruitment/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Engineering Growth Framework",
         "url": "https://medium.com/s/engineering-growth-framework",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
         "url": "https://www.amazon.com/dp/0143127748/ref=wl_it_dp_v_nS_ttl",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "How to Win Friends & Infl​uence People",
         "url": "https://www.amazon.com/dp/0671027034/ref=wl_it_dp_v_nS_ttl",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Search Inside Yourself",
         "url": "https://www.amazon.com/dp/0062116932/ref=wl_it_dp_v_nS_ttl",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "The Goal: A Process of Ongoing Improvement",
         "url": "https://www.amazon.com/dp/0884271951/ref=wl_it_dp_v_nS_ttl",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Rising Strong",
         "url": "https://www.amazon.com/dp/0812995821/ref=wl_it_dp_v_nS_ttl",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "What Works for Women at Work",
         "url": "https://www.amazon.com/dp/1479835455/ref=wl_it_dp_v_nS_ttl",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Boyd: The Fighter Pilot Who Changed the Art of War",
         "url": "https://www.amazon.com/dp/0316796883/ref=wl_it_dp_v_nS_ttl",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Difficult Conversations: How to Discuss What Matters Most",
         "url": "https://www.amazon.com/dp/B004CR6ALA/ref=wl_it_dp_v_nS_ttl",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Influence: How and Why People Agree to Things",
         "url": "https://www.amazon.com/dp/0688015603/ref=wl_it_dp_v_nS_ttl",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Crucial Conversations",
         "url": "https://www.amazon.com/dp/1469266822/ref=wl_it_dp_v_nS_ttl",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Peopleware: Productive Projects and Teams",
         "url": "https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco-ebook/dp/B00DY5A8X2",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams",
         "url": "https://www.amazon.com/Managing-Unmanageable-Insights-Software-People-ebook/dp/B009CFV8BY",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency",
         "url": "https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency-ebook/dp/B004SOVC2Y",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Lara Hogan - Demystifying Public Speaking",
         "url": "https://www.youtube.com/watch?v=20GYQcBhXDo",
+        "reason": "",
         "cat": "video"
     },
     {
         "title": "The Full Ratchet: VC | Venture Capital | Angel Investors | Startup Investing | Fundraising | Crowdfunding | Pitch | Private Equ",
         "url": "https://itunes.apple.com/ca/podcast/118.-economic-theory-in-venture/id888084300?i=1000378448924&mt=2",
+        "reason": "",
         "cat": "podcast"
     },
     {
         "title": "Why time management is ruining our lives",
         "url": "https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Regardless of seniority, every good manager will",
         "url": "http://randsinrepose.com/links/2017/01/05/regardless-of-seniority-every-good-manager-will/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "W.A.I.S.T. The art of opening your ears and listening has never been so powerful",
         "url": "https://ibenstewart.com/w-a-i-s-t-68e9e5998da2",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "How to Improve, Not Kill the Annual Performance Review",
         "url": "https://www.radicalcandor.com/blog/improve-annual-performance-review/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "How Lever Got To 50–50 Women and Men",
         "url": "https://medium.com/initialized-capital/how-lever-got-to-50-50-between-women-men-b8db05b7d3ee#.k8h1l47qx",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Force-feeding your hiring managers diversity is a bad idea",
         "url": "http://venturebeat.com/2017/01/29/force-feeding-your-hiring-managers-diversity-is-a-bad-idea/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Why Diversity Programs Fail",
         "url": "https://hbr.org/2016/07/why-diversity-programs-fail",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Leadership Comes From Everywhere",
         "url": "https://medium.com/@rands/leadership-comes-from-everywhere-61c2e555f8e7",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "How These Seven Tech Leaders Are Tackling Diversity in 2017",
         "url": "https://www.fastcompany.com/3069251/how-these-seven-tech-leaders-are-tackling-diversity-in-2017",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Diversity Doesn’t Stick Without Inclusion",
         "url": "https://hbr.org/2017/02/diversity-doesnt-stick-without-inclusion",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Culture is the Behavior You Reward and Punish",
         "url": "https://jocelyngoldfein.com/culture-is-the-behavior-you-reward-and-punish-7e8e75c6543e",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "First Round Management Articles",
         "url": "http://firstround.com/review/management/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "First Round Review's 6 Must Reads to Run Fast, Efficient Meetings",
         "url": "http://firstround.com/review/first-round-reviews-6-must-reads-to-run-fast-efficient-meetings/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "How I share information with my team",
         "url": "http://www.mikemcgarr.com/blog/week-in-review.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Tech%20People%20Leadership",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "The Principles of Product Development Flow: Second Generation Lean Product Development",
         "url": "https://www.amazon.com/Principles-Product-Development-Flow-Generation-ebook/dp/B007TKU0O0",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Drive: The Surprising Truth About What Motivates Us",
         "url": "http://www.danpink.com/books/drive/",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "The Phoenix Project",
         "url": "https://www.bookdepository.com/The-Phoenix-Project/9780988262508",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Turn the Ship Around!: A True Story of Turning Followers into Leaders",
         "url": "https://www.goodreads.com/book/show/16158601-turn-the-ship-around",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Emotional Intelligence Needs a Rewrite",
         "url": "http://nautil.us/issue/51/limits/emotional-intelligence-needs-a-rewrite",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Camille Fournier - Building a High-Performance Team is Everyone's Job",
         "url": "https://www.youtube.com/watch?v=pTf5mqOrwvY",
+        "reason": "",
         "cat": "video"
     },
     {
         "title": "Camille Fournier - Building and Motivating Engineering Teams",
         "url": "https://www.youtube.com/watch?v=7R-Y2DwWOr0",
+        "reason": "",
         "cat": "video"
     },
     {
         "title": "Cloning Yourself Isn’t an Option – Camille Fournier at The Lead Developer 2015",
         "url": "https://vimeo.com/139907569",
+        "reason": "",
         "cat": "video"
     },
     {
         "title": "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change",
         "url": "https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Building Great Startup Teams",
         "url": "https://www.amazon.co.uk/Building-Great-Startup-Teams-Attracting-ebook/dp/B01BVQS62A/",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Leading Snowflakes: The Engineering Manager Handbook",
         "url": "http://leadingsnowflakes.com",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Rethinking the Developer Career Path",
         "url": "https://youtu.be/yIPbE7BssOs",
+        "reason": "",
         "cat": "video"
     },
     {
         "title": "Software Lead Weekly",
         "url": "http://softwareleadweekly.com/",
+        "reason": "",
         "cat": "newsletter"
     },
     {
         "title": "Marcus Blankenship's Tech Leader Newsletter",
         "url": "http://marcusblankenship.com",
+        "reason": "",
         "cat": "newsletter"
     },
     {
         "title": "The Mythical Man-Month: Essays on Software Engineering",
         "url": "https://www.amazon.com/dp/0201835959/",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
         "url": "https://www.amazon.com/dp/0062273205/",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Joel on Software: Tech Lead reading list",
         "url": "https://www.joelonsoftware.com/category/reading-lists/tech-lead/",
+        "reason": "",
         "cat": "article"
     },
     {
         "title": "Plato",
         "url": "https://www.platohq.com/",
+        "reason": "",
         "cat": "mentoring"
     },
     {
         "title": "SCORE",
         "url": "https://www.score.org/",
+        "reason": "",
         "cat": "mentoring"
     },
     {
         "title": "Tech Leader Mentoring Group",
         "url": "https://marcusblankenship.com/tech-lead-mentoring-group/",
+        "reason": "",
         "cat": "mentoring"
     },
     {
         "title": "Quiet Leadership",
         "url": "https://www.amazon.com/Quiet-Leadership-Steps-Transforming-Performance/dp/0060835915",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "HBR's 10 Must Reads on Managing Yourself",
         "url": "https://www.amazon.com/Managing-Yourself-Measure-Clayton-Christensen/dp/1422157997",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Originals - How Non-Conformists Move the World",
         "url": "https://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/0525429565",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "What Every Body Is Saying",
         "url": "https://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294",
+        "reason": "",
         "cat": "book"
     },
     {
         "title": "Collaborative Development: The Only CD That Matters - Brent Beer (GitHub) at Codemotion Italy 2017",
         "url": "https://www.youtube.com/watch?v=XyqeKmefgYw",
+        "reason": "",
         "cat": "video"
     }
 ]

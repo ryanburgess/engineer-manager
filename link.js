@@ -29,9 +29,16 @@ const schema = {
       message: 'Must be a valid URL',
       required: true
     },
+    ,
+    reason: {
+      description: `Why are you recommending this link?)`,
+      pattern: /([^\s]+)/g,
+      message: `You must provide a reason why this link is useful`,
+      required: true
+    }
     category: {
       description: `Category (${categories})`,
-      pattern: /^(book|video|podcast|article)/,
+      pattern: /^(book|video|podcast|article|newsletter|mentoring)/,
       message: 'Must be of the valid categories',
       required: true
     }
@@ -43,7 +50,7 @@ prompt.start();
 
 // prompt questions
 prompt.get(schema, function (err, result) {
-   const obj = {'title': result.title.trim(), 'url': result.url.trim(), 'cat': result.category.trim()};
+   const obj = {'title': result.title.trim(), 'url': result.url.trim(), 'reason': result.reason.trim(), 'cat': result.category.trim()};
    fullList.push(obj);
    fs.writeFileSync('./list.json', JSON.stringify(fullList, null, 4) + '\n');
    console.log('New link added!');
