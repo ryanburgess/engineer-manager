@@ -29,13 +29,12 @@ const schema = {
       message: 'Must be a valid URL',
       required: true
     },
-    ,
     reason: {
       description: `Why are you recommending this link?)`,
       pattern: /([^\s]+)/g,
       message: `You must provide a reason why this link is useful`,
       required: true
-    }
+    },
     category: {
       description: `Category (${categories})`,
       pattern: /^(book|video|podcast|article|newsletter|mentoring)/,
