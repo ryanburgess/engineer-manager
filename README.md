@@ -40,6 +40,7 @@
  * [HBR's 10 Must Reads on Managing Yourself](https://www.amazon.com/Managing-Yourself-Measure-Clayton-Christensen/dp/1422157997) - A book with HBR's 10 must read articles on managing yourself.
  * [Originals - How Non-Conformists Move the World](https://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/0525429565)
  * [What Every Body Is Saying](https://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294)
+ * [What Got You Here Won't Get You There: How successful people become even more successful](https://www.amazon.com/What-Got-Here-Wont-There/dp/1781251568)
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
