@@ -646,5 +646,11 @@
         "url": "https://www.amazon.com/What-Got-Here-Wont-There/dp/1781251568", 
         "reason": "", 
         "cat": "book"
+    },
+    {
+        "title": "Should engineering managers write code? Wrong question",
+        "url": "https://building.coursera.org/blog/2016/12/01/should-engineering-managers-write-code-wrong-question/",
+        "reason": "",
+        "cat": "article"
     }
 ]
