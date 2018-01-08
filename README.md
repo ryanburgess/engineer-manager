@@ -116,6 +116,7 @@
  * [How I share information with my team](http://www.mikemcgarr.com/blog/week-in-review.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Tech%20People%20Leadership)
  * [Emotional Intelligence Needs a Rewrite](http://nautil.us/issue/51/limits/emotional-intelligence-needs-a-rewrite)
  * [Joel on Software: Tech Lead reading list](https://www.joelonsoftware.com/category/reading-lists/tech-lead/)
+ * [Should engineering managers write code? Wrong question](https://building.coursera.org/blog/2016/12/01/should-engineering-managers-write-code-wrong-question/)
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
