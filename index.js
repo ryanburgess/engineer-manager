@@ -30,7 +30,7 @@ let content = '# Engineering Manager Resources \n A list of engineering manager 
  }
 
  // create content of the list of links
-const ouputLinks = (obj, title) => {
+const outputLinks = (obj, title) => {
   content += `\n\n## ${title}`;
   const duplicates = [];
   for (const out of obj) {
@@ -52,12 +52,12 @@ const ouputLinks = (obj, title) => {
   }
 }
 
-ouputLinks(mentoring, 'Mentoring');
-ouputLinks(books, 'Books');
-ouputLinks(videos, 'Videos');
-ouputLinks(podcasts, 'Podcasts');
-ouputLinks(articles, 'Articles');
-ouputLinks(newsletters, 'Newsletters');
+outputLinks(mentoring, 'Mentoring');
+outputLinks(books, 'Books');
+outputLinks(videos, 'Videos');
+outputLinks(podcasts, 'Podcasts');
+outputLinks(articles, 'Articles');
+outputLinks(newsletters, 'Newsletters');
 
 // create contributing instructions
 content += ('\n\n## Contributing \n' +
