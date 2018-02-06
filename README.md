@@ -117,6 +117,7 @@
  * [Emotional Intelligence Needs a Rewrite](http://nautil.us/issue/51/limits/emotional-intelligence-needs-a-rewrite)
  * [Joel on Software: Tech Lead reading list](https://www.joelonsoftware.com/category/reading-lists/tech-lead/)
  * [Should engineering managers write code? Wrong question](https://building.coursera.org/blog/2016/12/01/should-engineering-managers-write-code-wrong-question/)
+ * [Manager Energy Drain](http://larahogan.me/blog/manager-energy-drain/) - This is a good article sharing ideas to avoid burnout as a manager
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
