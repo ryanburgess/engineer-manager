@@ -121,6 +121,7 @@
  * [Should engineering managers write code? Wrong question](https://building.coursera.org/blog/2016/12/01/should-engineering-managers-write-code-wrong-question/)
  * [Manager Energy Drain](http://larahogan.me/blog/manager-energy-drain/) - This is a good article sharing ideas to avoid burnout as a manager
  * [We Need to Talk About Servant Leadership](https://mfbt.ca/we-need-to-talk-about-servant-leadership-a719c4c05434) - An interesting article on leadership
+ * [How to Run Inclusive Meetings](https://thisisfranklin.com/2018/02/22/how-to-run-inclusive-meetings.html) - Helpful tips to run more inclusive meetings at your company
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
