@@ -106,6 +106,7 @@
  * [Regardless of seniority, every good manager will](http://randsinrepose.com/links/2017/01/05/regardless-of-seniority-every-good-manager-will/)
  * [W.A.I.S.T. The art of opening your ears and listening has never been so powerful](https://ibenstewart.com/w-a-i-s-t-68e9e5998da2)
  * [How to Improve, Not Kill the Annual Performance Review](https://www.radicalcandor.com/blog/improve-annual-performance-review/)
+ * [Things I have learnt as the software engineering lead of a multinational](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/)
  * [How Lever Got To 50–50 Women and Men](https://medium.com/initialized-capital/how-lever-got-to-50-50-between-women-men-b8db05b7d3ee#.k8h1l47qx)
  * [Force-feeding your hiring managers diversity is a bad idea](http://venturebeat.com/2017/01/29/force-feeding-your-hiring-managers-diversity-is-a-bad-idea/)
  * [Why Diversity Programs Fail](https://hbr.org/2016/07/why-diversity-programs-fail)
