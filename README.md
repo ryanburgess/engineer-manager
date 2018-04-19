@@ -124,6 +124,7 @@
  * [We Need to Talk About Servant Leadership](https://mfbt.ca/we-need-to-talk-about-servant-leadership-a719c4c05434) - An interesting article on leadership
  * [How to Run Inclusive Meetings](https://thisisfranklin.com/2018/02/22/how-to-run-inclusive-meetings.html) - Helpful tips to run more inclusive meetings at your company
  * [Clean Up Corrosive Interpersonal Dynamics on Your Team with This System](http://firstround.com/review/clean-up-corrosive-interpersonal-dynamics-on-your-team-with-this-system) - A good article on how to help foster a good culture for your team
+ * [The latest trend for tech interviews: Days of unpaid homework](https://work.qz.com/1254663/job-interviews-for-programmers-now-often-come-with-days-of-unpaid-homework) - A good perspective on take-home exercises for interviews
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)

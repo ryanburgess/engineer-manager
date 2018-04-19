@@ -694,5 +694,11 @@
         "url": "http://firstround.com/review/clean-up-corrosive-interpersonal-dynamics-on-your-team-with-this-system",
         "reason": "A good article on how to help foster a good culture for your team",
         "cat": "article"
+    },
+    {
+        "title": "The latest trend for tech interviews: Days of unpaid homework",
+        "url": "https://work.qz.com/1254663/job-interviews-for-programmers-now-often-come-with-days-of-unpaid-homework",
+        "reason": "A good perspective on take-home exercises for interviews",
+        "cat": "article"
     }
 ]
