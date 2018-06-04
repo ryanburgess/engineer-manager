@@ -41,6 +41,7 @@
  * [Originals - How Non-Conformists Move the World](https://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/0525429565)
  * [What Every Body Is Saying](https://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294)
  * [What Got You Here Won't Get You There: How successful people become even more successful](https://www.amazon.com/What-Got-Here-Wont-There/dp/1781251568)
+ * [Brotopia: Breaking Up the Boys' Club of Silicon Valley](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534) - Provides insight into D&I history
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
