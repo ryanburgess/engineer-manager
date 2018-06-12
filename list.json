@@ -712,5 +712,11 @@
         "url": "https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534",
         "reason": "Provides insight into D&I history",
         "cat": "book"
+    },
+    {
+        "title": "Say the Hard Thing",
+        "url": "http://randsinrepose.com/archives/say-the-hard-thing/",
+        "reason": "The article provides some good insights into how to deliver direct feedback, but also how to receive feedback",
+        "cat": "article"
     }
 ]
