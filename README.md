@@ -128,6 +128,9 @@
  * [The latest trend for tech interviews: Days of unpaid homework](https://work.qz.com/1254663/job-interviews-for-programmers-now-often-come-with-days-of-unpaid-homework) - A good perspective on take-home exercises for interviews
  * [Managers Can’t Be Great Coaches All by Themselves](https://hbr.org/2018/05/managers-cant-be-great-coaches-all-by-themselves) - A good article outlining ways to grow as a manager and as a team coaches
  * [Say the Hard Thing](http://randsinrepose.com/archives/say-the-hard-thing/) - The article provides some good insights into how to deliver direct feedback, but also how to receive feedback
+ * [Reaching Peak Meeting Efficiency](https://medium.learningbyshipping.com/reaching-peak-meeting-efficiency-f8e47c93317a) - Some helpful tips on improving your meeting efficiency
+ * [Research: To Be a Good Leader, Start By Being a Good Follower](https://hbr.org/2018/08/research-to-be-a-good-leader-start-by-being-a-good-follower) - Some good points to be more relatable with your team
+ * [Why You Should Stop Caring What Other People Think](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html) - Why it's important to not get caught up about what others think
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)

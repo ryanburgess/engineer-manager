@@ -718,5 +718,23 @@
         "url": "http://randsinrepose.com/archives/say-the-hard-thing/",
         "reason": "The article provides some good insights into how to deliver direct feedback, but also how to receive feedback",
         "cat": "article"
+    },
+    {
+        "title": "Reaching Peak Meeting Efficiency",
+        "url": "https://medium.learningbyshipping.com/reaching-peak-meeting-efficiency-f8e47c93317a",
+        "reason": "Some helpful tips on improving your meeting efficiency",
+        "cat": "article"
+    },
+    {
+        "title": "Research: To Be a Good Leader, Start By Being a Good Follower",
+        "url": "https://hbr.org/2018/08/research-to-be-a-good-leader-start-by-being-a-good-follower",
+        "reason": "Some good points to be more relatable with your team",
+        "cat": "article"
+    },
+    {
+        "title": "Why You Should Stop Caring What Other People Think",
+        "url": "https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html",
+        "reason": "Why it's important to not get caught up about what others think",
+        "cat": "article"
     }
 ]
