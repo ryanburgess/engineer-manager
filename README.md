@@ -131,6 +131,7 @@
  * [Reaching Peak Meeting Efficiency](https://medium.learningbyshipping.com/reaching-peak-meeting-efficiency-f8e47c93317a) - Some helpful tips on improving your meeting efficiency
  * [Research: To Be a Good Leader, Start By Being a Good Follower](https://hbr.org/2018/08/research-to-be-a-good-leader-start-by-being-a-good-follower) - Some good points to be more relatable with your team
  * [Why You Should Stop Caring What Other People Think](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html) - Why it's important to not get caught up about what others think
+ * [How to Give Feedback to People Who Cry, Yell, or Get Defensive](https://hbr.org/2016/09/how-to-give-feedback-to-people-who-cry-yell-or-get-defensive) - A good article on helpful tips for giving feedback
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
