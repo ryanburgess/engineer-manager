@@ -754,5 +754,11 @@
         "url": "https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790",
         "reason": "Work at Google",
         "cat": "book"
+    },
+    {
+        "title": "WorkLife with Adam Grant",
+        "url": "https://itunes.apple.com/nz/podcast/how-to-love-criticism/id1346314086?i=1000404159792&mt=2",
+        "reason": "A great podcast episode around how important it is to give critical feedback",
+        "cat": "podcast"
     }
 ]

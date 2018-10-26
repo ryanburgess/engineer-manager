@@ -43,7 +43,7 @@
  * [What Got You Here Won't Get You There: How successful people become even more successful](https://www.amazon.com/What-Got-Here-Wont-There/dp/1781251568)
  * [Brotopia: Breaking Up the Boys' Club of Silicon Valley](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534) - Provides insight into D&I history
  * [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation-ebook/dp/B078FZ9SYB)
- * [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790)
+ * [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790) - Work at Google
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
@@ -68,6 +68,7 @@
  * [The Full Ratchet: VC | Venture Capital | Angel Investors | Startup Investing | Fundraising | Crowdfunding | Pitch | Private Equ](https://itunes.apple.com/ca/podcast/118.-economic-theory-in-venture/id888084300?i=1000378448924&mt=2)
  * [HBR Ideacast - Hiring the Best People](https://overcast.fm/+DiCC8OA) - Patty McCord, Netflix’s former Chief Talent Officer, talks about how to hire and retain top talent
  * [CTO Think - How important is a work-life or non-tech balance for a technology career?](https://www.ctothink.com/episodes/2018-01-27-7.html) - This episode talks about the importance of work-life or non-tech balance for someone building a career in technology
+ * [WorkLife with Adam Grant](https://itunes.apple.com/nz/podcast/how-to-love-criticism/id1346314086?i=1000404159792&mt=2) - A great podcast episode around how important it is to give critical feedback
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
