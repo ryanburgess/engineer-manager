@@ -5,3 +5,4 @@
 *.log
 node_modules/
 test-output/
+package-lock.json
