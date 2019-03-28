@@ -44,6 +44,7 @@
  * [Brotopia: Breaking Up the Boys' Club of Silicon Valley](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534) - Provides insight into D&I history
  * [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation-ebook/dp/B078FZ9SYB)
  * [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790) - Work at Google
+ * [Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y) - A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
@@ -135,6 +136,7 @@
  * [Research: To Be a Good Leader, Start By Being a Good Follower](https://hbr.org/2018/08/research-to-be-a-good-leader-start-by-being-a-good-follower) - Some good points to be more relatable with your team
  * [Why You Should Stop Caring What Other People Think](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html) - Why it's important to not get caught up about what others think
  * [How to Give Feedback to People Who Cry, Yell, or Get Defensive](https://hbr.org/2016/09/how-to-give-feedback-to-people-who-cry-yell-or-get-defensive) - A good article on helpful tips for giving feedback
+ * [How to counteract 3 types of bias and run inclusive meetings](https://www.atlassian.com/blog/teamwork/how-to-run-inclusive-meetings) - A good article to help run more inclusive meetings
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
