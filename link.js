@@ -2,6 +2,7 @@
 const fs = require('fs');
 const prompt = require('prompt');
 const list = fs.readFileSync('./list.json');
+const update = require('./lib/update');
 const fullList = JSON.parse(list);
 const categories = [];
 
@@ -53,4 +54,7 @@ prompt.get(schema, function (err, result) {
    fullList.push(obj);
    fs.writeFileSync('./list.json', JSON.stringify(fullList, null, 4) + '\n');
    console.log('New link added!');
+
+   // update readme
+   update();
 });

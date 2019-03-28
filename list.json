@@ -748,7 +748,7 @@
         "url": "https://www.amazon.com/Measure-What-Matters-Google-Foundation-ebook/dp/B078FZ9SYB",
         "reason": "",
         "cat": "book"
-    }, 
+    },
     {
         "title": "Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead",
         "url": "https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790",
@@ -760,5 +760,17 @@
         "url": "https://itunes.apple.com/nz/podcast/how-to-love-criticism/id1346314086?i=1000404159792&mt=2",
         "reason": "A great podcast episode around how important it is to give critical feedback",
         "cat": "podcast"
+    },
+    {
+        "title": "How to counteract 3 types of bias and run inclusive meetings",
+        "url": "https://www.atlassian.com/blog/teamwork/how-to-run-inclusive-meetings",
+        "reason": "A good article to help run more inclusive meetings",
+        "cat": "article"
+    },
+    {
+        "title": "Turn the Ship Around!",
+        "url": "https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y",
+        "reason": "A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.",
+        "cat": "book"
     }
 ]
