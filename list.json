@@ -778,5 +778,11 @@
         "url": "https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352145/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1553742703&sr=8-2",
         "reason": "A book with helpful information on leading introverts",
         "cat": "book"
+    },
+    {
+        "title": "The power of vulnerability - Brene Brown",
+        "url": "https://www.youtube.com/watch?v=iCvmsMzlF7o&feature=youtu.be",
+        "reason": "A video that helps outline why it's important as a leader to be vulnerabile with your team",
+        "cat": "video"
     }
 ]

@@ -59,6 +59,7 @@
  * [Cloning Yourself Isn’t an Option – Camille Fournier at The Lead Developer 2015](https://vimeo.com/139907569)
  * [Rethinking the Developer Career Path](https://youtu.be/yIPbE7BssOs)
  * [Collaborative Development: The Only CD That Matters - Brent Beer (GitHub) at Codemotion Italy 2017](https://www.youtube.com/watch?v=XyqeKmefgYw)
+ * [The power of vulnerability - Brene Brown](https://www.youtube.com/watch?v=iCvmsMzlF7o&feature=youtu.be) - A video that helps outline why it's important as a leader to be vulnerabile with your team
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/) - In this episode of FEHH the panelists talk about being an engineering manager. A lot of great insights!
