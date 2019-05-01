@@ -46,6 +46,7 @@
  * [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790) - Work at Google
  * [Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y) - A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.
  * [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352145/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1553742703&sr=8-2) - A book with helpful information on leading introverts
+ * [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Overcoming-Five-Dysfunctions-Team-first/dp/B004O2JWHC/ref=sr_1_3?keywords=The+Five+Dysfunctions+of+a+Team%3A+A+Leadership+Fable&qid=1556729373&s=gateway&sr=8-3) - This book highlights what causes a dysfunctional team and how you can improve a team's relationships
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)

@@ -784,5 +784,11 @@
         "url": "https://www.youtube.com/watch?v=iCvmsMzlF7o&feature=youtu.be",
         "reason": "A video that helps outline why it's important as a leader to be vulnerabile with your team",
         "cat": "video"
+    },
+    {
+        "title": "The Five Dysfunctions of a Team: A Leadership Fable",
+        "url": "https://www.amazon.com/Overcoming-Five-Dysfunctions-Team-first/dp/B004O2JWHC/ref=sr_1_3?keywords=The+Five+Dysfunctions+of+a+Team%3A+A+Leadership+Fable&qid=1556729373&s=gateway&sr=8-3",
+        "reason": "This book highlights what causes a dysfunctional team and how you can improve a team's relationships",
+        "cat": "book"
     }
 ]
