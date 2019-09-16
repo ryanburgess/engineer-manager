@@ -796,5 +796,11 @@
         "url": "https://angel.co/blog/is-your-hiring-process-hurting-diversity",
         "reason": "There are some good ideas on making sure the hiring process is helping diversity",
         "cat": "article"
+    },
+    {
+        "title": "Randy Shoup on Creating High-Performance Cultures",
+        "url": "https://www.infoq.com/podcasts/high-performance-cultures/",
+        "reason": "A podcast episode on how to build high performance cultures",
+        "cat": "podcast"
     }
 ]
