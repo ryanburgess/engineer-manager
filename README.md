@@ -128,7 +128,7 @@
  * [How I share information with my team](http://www.mikemcgarr.com/blog/week-in-review.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Tech%20People%20Leadership)
  * [Emotional Intelligence Needs a Rewrite](http://nautil.us/issue/51/limits/emotional-intelligence-needs-a-rewrite)
  * [Joel on Software: Tech Lead reading list](https://www.joelonsoftware.com/category/reading-lists/tech-lead/)
- * [Should engineering managers write code? Wrong question](https://building.coursera.org/blog/2016/12/01/should-engineering-managers-write-code-wrong-question/)
+ * [Should engineering managers write code? Wrong question](https://medium.com/coursera-engineering/should-engineering-managers-write-code-wrong-question-ec5fc54d3903)
  * [Manager Energy Drain](http://larahogan.me/blog/manager-energy-drain/) - This is a good article sharing ideas to avoid burnout as a manager
  * [We Need to Talk About Servant Leadership](https://mfbt.ca/we-need-to-talk-about-servant-leadership-a719c4c05434) - An interesting article on leadership
  * [How to Run Inclusive Meetings](https://thisisfranklin.com/2018/02/22/how-to-run-inclusive-meetings.html) - Helpful tips to run more inclusive meetings at your company
