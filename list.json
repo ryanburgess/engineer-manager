@@ -802,5 +802,17 @@
         "url": "https://www.infoq.com/podcasts/high-performance-cultures/",
         "reason": "A podcast episode on how to build high performance cultures",
         "cat": "podcast"
+    },
+    {
+        "title": "Everybody Matters",
+        "url": "https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/",
+        "reason": "This is an excellent book for how to think about treating people in your organization with more empathy",
+        "cat": "book"
+    },
+    {
+        "title": "Manager's Table",
+        "url": "https://managerstable.com/",
+        "reason": "A podcast talking with engineering managers and the challenges they face",
+        "cat": "podcast"
     }
 ]

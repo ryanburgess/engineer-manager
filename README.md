@@ -47,6 +47,7 @@
  * [Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y) - A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.
  * [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352145/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1553742703&sr=8-2) - A book with helpful information on leading introverts
  * [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Overcoming-Five-Dysfunctions-Team-first/dp/B004O2JWHC/ref=sr_1_3?keywords=The+Five+Dysfunctions+of+a+Team%3A+A+Leadership+Fable&qid=1556729373&s=gateway&sr=8-3) - This book highlights what causes a dysfunctional team and how you can improve a team's relationships
+ * [Everybody Matters](https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/) - This is an excellent book for how to think about treating people in your organization with more empathy
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
@@ -74,6 +75,7 @@
  * [CTO Think - How important is a work-life or non-tech balance for a technology career?](https://www.ctothink.com/episodes/7-work-life-or-non-tech-balance-is-it-worth-the-hype) - This episode talks about the importance of work-life or non-tech balance for someone building a career in technology
  * [WorkLife with Adam Grant](https://itunes.apple.com/nz/podcast/how-to-love-criticism/id1346314086?i=1000404159792&mt=2) - A great podcast episode around how important it is to give critical feedback
  * [Randy Shoup on Creating High-Performance Cultures](https://www.infoq.com/podcasts/high-performance-cultures/) - A podcast episode on how to build high performance cultures
+ * [Manager's Table](https://managerstable.com/) - A podcast talking with engineering managers and the challenges they face
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
