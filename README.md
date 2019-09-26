@@ -78,17 +78,17 @@
  * [Manager's Table](https://managerstable.com/) - A podcast talking with engineering managers and the challenges they face
 
 ## Articles
- * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
- * [Forget Technical Debt — Here's How to Build Technical Wealth](http://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/)
- * [10 things you should never put in your inmails](http://www.socialtalent.co/blog/10-things-never-put-inmails-like-ever)
+ * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback
+ * [Forget Technical Debt — Here's How to Build Technical Wealth](http://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/) - An article with some good ideas on how to avoid tech debt in your team's work
+ * [10 things you should never put in your inmails](http://www.socialtalent.co/blog/10-things-never-put-inmails-like-ever) - 10 useful pieces of feedback that may save you from getting into trouble
  * [The Pivotal Stories Every Startup Leader Should Be Able to Tell](http://firstround.com/review/the-pivotal-stories-every-startup-leader-should-be-able-to-tell/)
  * [Becoming the Boss](https://hbr.org/2007/01/becoming-the-boss)
  * [Resilience Is About How You Recharge, Not How You Endure](https://hbr.org/2016/06/resilience-is-about-how-you-recharge-not-how-you-endure)
  * [Medium’s engineering interview process](https://medium.engineering/mediums-engineering-interview-process-b8d6b67927c4#.j3e7zf2on)
  * [The One Cost Engineers and Product Managers Don't Consider](http://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/)
- * [Here’s Google’s Secret to Hiring the Best People](https://www.wired.com/2015/04/hire-like-google/)
+ * [Here’s Google’s Secret to Hiring the Best People](https://www.wired.com/2015/04/hire-like-google/) - Some useful tips on how Google hires hire performers
  * [F*** You, I Quit — Hiring Is Broken](https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324#.hp646x4g9)
- * [The best coding interview I ever took](https://medium.com/code-like-a-girl/the-best-coding-interview-i-ever-took-2d12ee332077#.n013pl6cm)
+ * [The best coding interview I ever took](https://medium.com/code-like-a-girl/the-best-coding-interview-i-ever-took-2d12ee332077#.n013pl6cm) - An article about what a good code interview should look like
  * [Want to Be an Outstanding Leader? Keep a Journal.](https://hbr.org/2016/01/want-to-be-an-outstanding-leader-keep-a-journal)
  * [Technical interview performance is kind of arbitrary. Here’s the data.](http://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/)
  * [What Google Learned From Its Quest to Build the Perfect Team](http://mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0)
