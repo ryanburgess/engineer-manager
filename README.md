@@ -95,17 +95,17 @@
  * [Want to Be an Outstanding Leader? Keep a Journal.](https://hbr.org/2016/01/want-to-be-an-outstanding-leader-keep-a-journal)
  * [Technical interview performance is kind of arbitrary. Here’s the data.](http://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/)
  * [What Google Learned From Its Quest to Build the Perfect Team](http://mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0)
- * [Facebook’s HR chief conducted a company-wide study to find its best managers — and 7 behaviors stood out](http://www.businessinsider.com/facebook-best-managers-exhibit-these-7-behaviors-2016-1)
- * [The Magic of Doing One Thing at a Time](https://hbr.org/2012/03/the-magic-of-doing-one-thing-a.html)
- * [Should Companies Get Rid of Performance Reviews?](https://readthink.com/should-companies-get-rid-of-performance-reviews-1e03b7726cc1#.vscg4lp2f)
+ * [Facebook’s HR chief conducted a company-wide study to find its best managers — and 7 behaviors stood out](http://www.businessinsider.com/facebook-best-managers-exhibit-these-7-behaviors-2016-1) - A good article about the best managers at Facebook and the behavior they exhibit.
+ * [The Magic of Doing One Thing at a Time](https://hbr.org/2012/03/the-magic-of-doing-one-thing-a.html) - Some good advice for focusing on one task at a time.
+ * [Should Companies Get Rid of Performance Reviews?](https://readthink.com/should-companies-get-rid-of-performance-reviews-1e03b7726cc1#.vscg4lp2f) - A good article talking about the pros and cons of performance reviews.
  * [How to Spot and Magnify the Powers of Your Engineering Superheroes](http://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/)
- * [The Keys to Scaling Yourself as a Technology Leader](http://firstround.com/review/the-keys-to-scaling-yourself-as-a-technology-leader/)
- * [Meetings that don't suck](https://library.gv.com/meetings-that-don-t-suck-959b8b5df3a4#.vdhm03k8i)
- * [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c#.53msecvc3)
- * [101 Questions to Ask in One on Ones](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/)
- * [Hire a Top Performer Every Time with These Interview Questions](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/)
- * [The biggest lie in HR: “People quit managers](https://42hire.com/the-biggest-lie-in-hr-people-quit-managers-592e68ee6623#.yj669qfn2)
- * [Want to hire faster? Write about “learning,” not “brilliance”](https://textio.ai/growth-mindset-language-41d51c91432#.ru880yn61)
+ * [The Keys to Scaling Yourself as a Technology Leader](http://firstround.com/review/the-keys-to-scaling-yourself-as-a-technology-leader/) - Some good tips on ways to help scale yourself as a leader.
+ * [Meetings that don't suck](https://library.gv.com/meetings-that-don-t-suck-959b8b5df3a4#.vdhm03k8i) - Some good tips on how to improve meetings.
+ * [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c#.53msecvc3) - A good article on improving 1:1s
+ * [101 Questions to Ask in One on Ones](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/) - Some helpful ideas for what questions to ask in a one on one.
+ * [Hire a Top Performer Every Time with These Interview Questions](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/) - Example interview questions to help find the top performers.
+ * [The biggest lie in HR: “People quit managers](https://42hire.com/the-biggest-lie-in-hr-people-quit-managers-592e68ee6623#.yj669qfn2) - This article shares some good insights into how important a manager is for people.
+ * [Want to hire faster? Write about “learning,” not “brilliance”](https://textio.ai/growth-mindset-language-41d51c91432#.ru880yn61) - This article has some great advice to help you communicate in your job posts to reflect your company culture.
  * [Shocker: Tech’s widening gender gap is all about the bro-ification of Silicon Valley](https://pando.com/2016/11/02/g/457135241861957dc2581423ed125004e5360096/)
  * [What's More Distracting Than A Noisy Co-Worker? Turns Out, Not Much](http://www.npr.org/2016/10/26/498850659/what-s-more-distracting-than-a-noisy-coworker-not-much)
  * [This is what work-life balance looks like at a company with 100% retention of moms](http://qz.com/806516/the-secret-to-patagonias-success-keeping-moms-and-onsite-child-care-and-paid-parental-leave/)
