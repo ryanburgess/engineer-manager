@@ -826,5 +826,11 @@
         "url": "https://frontendhappyhour.com/episodes/tech-lead-engineer-herding-cats-&-drinks/",
         "reason": "This episode has a lot of great insights into what it's like to be a lead and how it's different than a manager",
         "cat": "podcast"
+    },
+    {
+        "title": "Manager's Table - Growing Engineers",
+        "url": "https://managerstable.com/episodes/growing-engineers/",
+        "reason": "A good discussion on ways to grow engineers on your team",
+        "cat": "podcast"
     }
 ]

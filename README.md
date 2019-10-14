@@ -78,6 +78,7 @@
  * [Manager's Table](https://managerstable.com/) - A podcast talking with engineering managers and the challenges they face
  * [Freakonomics - How to Make Meetings Less Terrible](http://freakonomics.com/podcast/meetings/) - This podcast episode has some great ideas for improving meetings
  * [Front End Happy Hour - Tech lead engineer - herding cats & drinks](https://frontendhappyhour.com/episodes/tech-lead-engineer-herding-cats-&-drinks/) - This episode has a lot of great insights into what it's like to be a lead and how it's different than a manager
+ * [Manager's Table - Growing Engineers](https://managerstable.com/episodes/growing-engineers/) - A good discussion on ways to grow engineers on your team
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback
