@@ -76,6 +76,8 @@
  * [WorkLife with Adam Grant](https://itunes.apple.com/nz/podcast/how-to-love-criticism/id1346314086?i=1000404159792&mt=2) - A great podcast episode around how important it is to give critical feedback
  * [Randy Shoup on Creating High-Performance Cultures](https://www.infoq.com/podcasts/high-performance-cultures/) - A podcast episode on how to build high performance cultures
  * [Manager's Table](https://managerstable.com/) - A podcast talking with engineering managers and the challenges they face
+ * [Freakonomics - How to Make Meetings Less Terrible](http://freakonomics.com/podcast/meetings/) - This podcast episode has some great ideas for improving meetings
+ * [Front End Happy Hour - Tech lead engineer - herding cats & drinks](https://frontendhappyhour.com/episodes/tech-lead-engineer-herding-cats-&-drinks/) - This episode has a lot of great insights into what it's like to be a lead and how it's different than a manager
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback

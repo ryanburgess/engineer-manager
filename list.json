@@ -814,5 +814,17 @@
         "url": "https://managerstable.com/",
         "reason": "A podcast talking with engineering managers and the challenges they face",
         "cat": "podcast"
+    },
+    {
+        "title": "Freakonomics - How to Make Meetings Less Terrible",
+        "url": "http://freakonomics.com/podcast/meetings/",
+        "reason": "This podcast episode has some great ideas for improving meetings",
+        "cat": "podcast"
+    },
+    {
+        "title": "Front End Happy Hour - Tech lead engineer - herding cats & drinks",
+        "url": "https://frontendhappyhour.com/episodes/tech-lead-engineer-herding-cats-&-drinks/",
+        "reason": "This episode has a lot of great insights into what it's like to be a lead and how it's different than a manager",
+        "cat": "podcast"
     }
 ]
