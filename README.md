@@ -15,7 +15,7 @@
  * [Good Boss, Bad Boss](https://www.amazon.com/Good-Boss-Bad-Learn-Worst/dp/0446556076)
  * [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507) - This is a great book if you work with people from other countries.
  * [The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma](https://www.amazon.com/dp/0143127748/ref=wl_it_dp_v_nS_ttl)
- * [How to Win Friends & Infl​uence People](https://www.amazon.com/dp/0671027034/ref=wl_it_dp_v_nS_ttl)
+ * [How to Win Friends & Infl​uence People](https://www.amazon.com/dp/0671027034/ref=wl_it_dp_v_nS_ttl) - This is a great book for helping you to lead and influence others.
  * [Search Inside Yourself](https://www.amazon.com/dp/0062116932/ref=wl_it_dp_v_nS_ttl)
  * [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/dp/0884271951/ref=wl_it_dp_v_nS_ttl)
  * [Rising Strong](https://www.amazon.com/dp/0812995821/ref=wl_it_dp_v_nS_ttl)
@@ -87,8 +87,8 @@
  * [The Pivotal Stories Every Startup Leader Should Be Able to Tell](http://firstround.com/review/the-pivotal-stories-every-startup-leader-should-be-able-to-tell/)
  * [Becoming the Boss](https://hbr.org/2007/01/becoming-the-boss)
  * [Resilience Is About How You Recharge, Not How You Endure](https://hbr.org/2016/06/resilience-is-about-how-you-recharge-not-how-you-endure)
- * [Medium’s engineering interview process](https://medium.engineering/mediums-engineering-interview-process-b8d6b67927c4#.j3e7zf2on)
- * [The One Cost Engineers and Product Managers Don't Consider](http://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/)
+ * [Medium’s engineering interview process](https://medium.engineering/mediums-engineering-interview-process-b8d6b67927c4#.j3e7zf2on) - Medium shares some insights into their engineering interview process.
+ * [The One Cost Engineers and Product Managers Don't Consider](http://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/) - This article talks a lot about how code complexity can be a large expense to a team and their ability to be productive.
  * [Here’s Google’s Secret to Hiring the Best People](https://www.wired.com/2015/04/hire-like-google/) - Some useful tips on how Google hires hire performers
  * [F*** You, I Quit — Hiring Is Broken](https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324#.hp646x4g9)
  * [The best coding interview I ever took](https://medium.com/code-like-a-girl/the-best-coding-interview-i-ever-took-2d12ee332077#.n013pl6cm) - An article about what a good code interview should look like
@@ -107,15 +107,15 @@
  * [The biggest lie in HR: “People quit managers](https://42hire.com/the-biggest-lie-in-hr-people-quit-managers-592e68ee6623#.yj669qfn2) - This article shares some good insights into how important a manager is for people.
  * [Want to hire faster? Write about “learning,” not “brilliance”](https://textio.ai/growth-mindset-language-41d51c91432#.ru880yn61) - This article has some great advice to help you communicate in your job posts to reflect your company culture.
  * [Shocker: Tech’s widening gender gap is all about the bro-ification of Silicon Valley](https://pando.com/2016/11/02/g/457135241861957dc2581423ed125004e5360096/)
- * [What's More Distracting Than A Noisy Co-Worker? Turns Out, Not Much](http://www.npr.org/2016/10/26/498850659/what-s-more-distracting-than-a-noisy-coworker-not-much)
- * [This is what work-life balance looks like at a company with 100% retention of moms](http://qz.com/806516/the-secret-to-patagonias-success-keeping-moms-and-onsite-child-care-and-paid-parental-leave/)
+ * [What's More Distracting Than A Noisy Co-Worker? Turns Out, Not Much](http://www.npr.org/2016/10/26/498850659/what-s-more-distracting-than-a-noisy-coworker-not-much) - This article talks about how noise can be a big distraction in open concept offices.
+ * [This is what work-life balance looks like at a company with 100% retention of moms](http://qz.com/806516/the-secret-to-patagonias-success-keeping-moms-and-onsite-child-care-and-paid-parental-leave/) - This article does a good job outlining ways to foster a good work-life balance for parents.
  * [If there's a tech skills shortage, why are so many computer graduates unemployed?](http://www.techrepublic.com/article/if-theres-a-tech-skills-shortage-why-are-so-many-computer-graduates-unemployed/)
  * [Research: We Drop People Who Give Us Critical Feedback](https://hbr.org/2016/09/research-we-drop-people-who-give-us-critical-feedback)
- * [Netflix CEO reveals how much vacation he takes, and it's a lot more than most people take off](http://www.businessinsider.com/reed-hastings-vacation-2015-11)
+ * [Netflix CEO reveals how much vacation he takes, and it's a lot more than most people take off](http://www.businessinsider.com/reed-hastings-vacation-2015-11) - An important reminder that it's important for everyone to take vacation to recharge.
  * [How Loss Aversion and Conformity Threaten Organizational Change](https://hbr.org/2016/11/how-loss-aversion-and-conformity-threaten-organizational-change)
- * [10 Candidate Questions That’ll Make You Squirm (But Earn)](http://theundercoverrecruiter.com/make-you-squirm/)
+ * [10 Candidate Questions That’ll Make You Squirm (But Earn)](http://theundercoverrecruiter.com/make-you-squirm/) - This article has some good questions you might want to ask of a candidate who's interviewing for an opportunity on your team.
  * [The Future of Tech Recruitment: Sourcing, Hiring and Retaining Top Talent](http://theundercoverrecruiter.com/future-of-tech-recruitment/)
- * [Engineering Growth Framework](https://medium.com/s/engineering-growth-framework)
+ * [Engineering Growth Framework](https://medium.com/s/engineering-growth-framework) - A series of articles around how to think about growth for engineers on your team.
  * [Why time management is ruining our lives](https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives)
  * [Regardless of seniority, every good manager will](http://randsinrepose.com/links/2017/01/05/regardless-of-seniority-every-good-manager-will/)
  * [W.A.I.S.T. The art of opening your ears and listening has never been so powerful](https://ibenstewart.com/w-a-i-s-t-68e9e5998da2)
