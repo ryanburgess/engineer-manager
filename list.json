@@ -832,5 +832,11 @@
         "url": "https://managerstable.com/episodes/growing-engineers/",
         "reason": "A good discussion on ways to grow engineers on your team",
         "cat": "podcast"
+    },
+    {
+        "title": "The Elegant System of Management /w Will Larson",
+        "url": "https://egghead.io/podcasts/the-elegant-system-of-management-with-will-larson",
+        "reason": "Joel Hooks, from Egghead.io, sits down with Will Larson to discuss systems for engineering management",
+        "cat": "podcast"
     }
 ]
