@@ -48,6 +48,7 @@
  * [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352145/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1553742703&sr=8-2) - A book with helpful information on leading introverts
  * [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Overcoming-Five-Dysfunctions-Team-first/dp/B004O2JWHC/ref=sr_1_3?keywords=The+Five+Dysfunctions+of+a+Team%3A+A+Leadership+Fable&qid=1556729373&s=gateway&sr=8-3) - This book highlights what causes a dysfunctional team and how you can improve a team's relationships
  * [Everybody Matters](https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/) - This is an excellent book for how to think about treating people in your organization with more empathy
+ * [Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework](https://amzn.to/2r86Gng) - The book helps understand software delivery metrics and how to measure them to organize software teams around the value stream
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)

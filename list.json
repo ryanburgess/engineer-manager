@@ -838,5 +838,11 @@
         "url": "https://egghead.io/podcasts/the-elegant-system-of-management-with-will-larson",
         "reason": "Joel Hooks, from Egghead.io, sits down with Will Larson to discuss systems for engineering management",
         "cat": "podcast"
+    },
+    {
+        "title": "Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework",
+        "url": "https://amzn.to/2r86Gng",
+        "reason": "The book helps understand software delivery metrics and how to measure them to organize software teams around the value stream",
+        "cat": "book"
     }
 ]
