@@ -838,5 +838,11 @@
         "url": "https://egghead.io/podcasts/the-elegant-system-of-management-with-will-larson",
         "reason": "Joel Hooks, from Egghead.io, sits down with Will Larson to discuss systems for engineering management",
         "cat": "podcast"
+    },
+    {
+        "title": "The Feedback Fallacy",
+        "url": "https://hbr.org/2019/03/the-feedback-fallacy",
+        "reason": "This article outlines some interesting perspectives on the positives and negatives of providing real time feedback",
+        "cat": "article"
     }
 ]

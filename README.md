@@ -148,6 +148,7 @@
  * [How to Give Feedback to People Who Cry, Yell, or Get Defensive](https://hbr.org/2016/09/how-to-give-feedback-to-people-who-cry-yell-or-get-defensive) - A good article on helpful tips for giving feedback
  * [How to counteract 3 types of bias and run inclusive meetings](https://www.atlassian.com/blog/teamwork/how-to-run-inclusive-meetings) - A good article to help run more inclusive meetings
  * [Is Your Hiring Process Hurting Diversity?](https://angel.co/blog/is-your-hiring-process-hurting-diversity) - There are some good ideas on making sure the hiring process is helping diversity
+ * [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy) - This article outlines some interesting perspectives on the positives and negatives of providing real time feedback
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
