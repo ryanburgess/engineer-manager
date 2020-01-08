@@ -844,5 +844,11 @@
         "url": "https://hbr.org/2019/03/the-feedback-fallacy",
         "reason": "This article outlines some interesting perspectives on the positives and negatives of providing real time feedback",
         "cat": "article"
+    },
+    {
+        "title": "Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework",
+        "url": "https://amzn.to/2r86Gng",
+        "reason": "The book helps understand software delivery metrics and how to measure them to organize software teams around the value stream",
+        "cat": "book"
     }
 ]
