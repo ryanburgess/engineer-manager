@@ -850,5 +850,11 @@
         "url": "https://amzn.to/2r86Gng",
         "reason": "The book helps understand software delivery metrics and how to measure them to organize software teams around the value stream",
         "cat": "book"
+    },
+    {
+        "title": "Teams at Work Episode 3 - How to build successful engineering teams",
+        "url": "https://bunch.ai/teamsatwork-podcast",
+        "reason": "Dizzy Smith, VP Engineering of Packet, shares insights from his 15+ year career in engineering about culture building, communication structures and diverse leadership in distributed teams.",
+        "cat": "podcast"
     }
 ]

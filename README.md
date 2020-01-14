@@ -81,7 +81,7 @@
  * [Front End Happy Hour - Tech lead engineer - herding cats & drinks](https://frontendhappyhour.com/episodes/tech-lead-engineer-herding-cats-&-drinks/) - This episode has a lot of great insights into what it's like to be a lead and how it's different than a manager
  * [Manager's Table - Growing Engineers](https://managerstable.com/episodes/growing-engineers/) - A good discussion on ways to grow engineers on your team
  * [The Elegant System of Management /w Will Larson](https://egghead.io/podcasts/the-elegant-system-of-management-with-will-larson) - Joel Hooks, from Egghead.io, sits down with Will Larson to discuss systems for engineering management
- * [Teams at Work Episode 3 - How to build successful engineering teams](https://bunch.ai/teamsatwork-podcast) - Dizzy Smith, VP Engineering of Packet, shares insights from his 15+ year career in engineering about culture building, communication structures and diverse leadership in distributed teams. 
+ * [Teams at Work Episode 3 - How to build successful engineering teams](https://bunch.ai/teamsatwork-podcast) - Dizzy Smith, VP Engineering of Packet, shares insights from his 15+ year career in engineering about culture building, communication structures and diverse leadership in distributed teams.
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback
