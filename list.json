@@ -856,5 +856,23 @@
         "url": "https://bunch.ai/teamsatwork-podcast",
         "reason": "Dizzy Smith, VP Engineering of Packet, shares insights from his 15+ year career in engineering about culture building, communication structures and diverse leadership in distributed teams.",
         "cat": "podcast"
+    },
+    {
+        "title": "Dare to Disagree",
+        "url": "https://www.ted.com/talks/margaret_heffernan_dare_to_disagree",
+        "reason": "This is a good TED talk on how to avoid the echo chamber and learn to disagree to help improve ideas",
+        "cat": "video"
+    },
+    {
+        "title": "On being wrong",
+        "url": "https://www.ted.com/talks/kathryn_schulz_on_being_wrong",
+        "reason": "This is a great TED talk on highlighting how it's ok to be wrong",
+        "cat": "video"
+    },
+    {
+        "title": "How People with Different Conflict Styles Can Work Together",
+        "url": "https://hbr.org/2017/07/how-people-with-different-conflict-styles-can-work-together",
+        "reason": "This is a good article to help dealing with various types of conflict when working with others",
+        "cat": "article"
     }
 ]
