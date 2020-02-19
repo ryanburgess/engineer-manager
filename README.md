@@ -65,6 +65,7 @@
  * [The power of vulnerability - Brene Brown](https://www.youtube.com/watch?v=iCvmsMzlF7o&feature=youtu.be) - A video that helps outline why it's important as a leader to be vulnerabile with your team
  * [Dare to Disagree](https://www.ted.com/talks/margaret_heffernan_dare_to_disagree) - This is a good TED talk on how to avoid the echo chamber and learn to disagree to help improve ideas
  * [On being wrong](https://www.ted.com/talks/kathryn_schulz_on_being_wrong) - This is a great TED talk on highlighting how it's ok to be wrong
+ * [Ignite the Fire - How Managers Can Spark New Leaders](https://www.infoq.com/presentations/managers-launch-leaders/) - A video of a talk about three ingredients for inspiring non-manager leaders to emerge and provides simple techniques any team member can apply
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/) - In this episode of FEHH the panelists talk about being an engineering manager. A lot of great insights!

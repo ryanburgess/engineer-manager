@@ -880,5 +880,11 @@
         "url": "https://frontendhappyhour.com/episodes/shot-for-shot-one-on-ones/",
         "reason": "This is a good podcast episode discussing how to make one on one meetings more effective",
         "cat": "podcast"
+    },
+    {
+        "title": "Ignite the Fire - How Managers Can Spark New Leaders",
+        "url": "https://www.infoq.com/presentations/managers-launch-leaders/",
+        "reason": "A video of a talk about three ingredients for inspiring non-manager leaders to emerge and provides simple techniques any team member can apply",
+        "cat": "video"
     }
 ]
