@@ -886,5 +886,11 @@
         "url": "https://www.infoq.com/presentations/managers-launch-leaders/",
         "reason": "A video of a talk about three ingredients for inspiring non-manager leaders to emerge and provides simple techniques any team member can apply",
         "cat": "video"
+    },
+    {
+        "title": "Give Compassionate Feedback While Still Being Constructive",
+        "url": "https://www.nytimes.com/2020/02/24/smarter-living/how-to-give-helpful-feedback.html",
+        "reason": "A good article with helpful tips on how to give constructive feedback while being conpassionate",
+        "cat": "article"
     }
 ]
