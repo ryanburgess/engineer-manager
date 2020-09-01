@@ -892,5 +892,11 @@
         "url": "https://www.nytimes.com/2020/02/24/smarter-living/how-to-give-helpful-feedback.html",
         "reason": "A good article with helpful tips on how to give constructive feedback while being conpassionate",
         "cat": "article"
+    },
+    {
+        "title": "Indistractable",
+        "url": "https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/1526610205/ref=asc_df_1526610205",
+        "reason": "A great book with helpful tips on how to manage your attention.",
+        "cat": "book"
     }
 ]
