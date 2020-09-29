@@ -898,5 +898,11 @@
         "url": "https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/1526610205/ref=asc_df_1526610205",
         "reason": "A great book with helpful tips on how to manage your attention.",
         "cat": "book"
+    },
+    {
+        "title": "What most managers don’t know about leading diverse teams",
+        "url": "https://qz.com/work/1901448/how-to-lead-a-diverse-team-effectively/",
+        "reason": "Some helpful insights in leading more diverse teams",
+        "cat": "article"
     }
 ]

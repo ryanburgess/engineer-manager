@@ -158,6 +158,7 @@
  * [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy) - This article outlines some interesting perspectives on the positives and negatives of providing real time feedback
  * [How People with Different Conflict Styles Can Work Together](https://hbr.org/2017/07/how-people-with-different-conflict-styles-can-work-together) - This is a good article to help dealing with various types of conflict when working with others
  * [Give Compassionate Feedback While Still Being Constructive](https://www.nytimes.com/2020/02/24/smarter-living/how-to-give-helpful-feedback.html) - A good article with helpful tips on how to give constructive feedback while being conpassionate
+ * [What most managers don’t know about leading diverse teams](https://qz.com/work/1901448/how-to-lead-a-diverse-team-effectively/) - Some helpful insights in leading more diverse teams
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
