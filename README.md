@@ -160,6 +160,7 @@
  * [Give Compassionate Feedback While Still Being Constructive](https://www.nytimes.com/2020/02/24/smarter-living/how-to-give-helpful-feedback.html) - A good article with helpful tips on how to give constructive feedback while being conpassionate
  * [What most managers don’t know about leading diverse teams](https://qz.com/work/1901448/how-to-lead-a-diverse-team-effectively/) - Some helpful insights in leading more diverse teams
  * [Twitter Chief Design Officer Dantley Davis on building the most diverse team in tech](https://www.protocol.com/twitter-dantley-davis-interview) - Some interesting thoughts on why it's important to have a diverse team and how to build a diverse team.
+ * [How to decide when to fire someone](https://practicebusiness.co.uk/how-to-decide-when-to-fire-someone) - This is never an easy decision to make, and this article has some helpful tips on when to decide to let someone go.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
