@@ -922,5 +922,23 @@
         "url": "https://www.insights.com/resources/coaching-people-through-the-change-curve/",
         "reason": "A helpful article that provides insights into how to prepare teams for an organizational structure change",
         "cat": "article"
+    },
+    {
+        "title": "The Feedback Fallacy",
+        "url": "https://hbr.org/2019/03/the-feedback-fallacy",
+        "reason": "This article provides an interesting perspective on how to approach giving feedback that actually helps people grow",
+        "cat": "article"
+    },
+    {
+        "title": "What most managers don’t know about leading diverse teams",
+        "url": "https://qz.com/work/1901448/how-to-lead-a-diverse-team-effectively/",
+        "reason": "Building a diverse team is great, but how do you lead a diverse team? This article helps provide insights into leading a diverse team.",
+        "cat": "article"
+    },
+    {
+        "title": "Better Allies",
+        "url": "https://betterallies.us19.list-manage.com/subscribe?u=cc808df089bf312fc1a37916d&id=575137cdc6",
+        "reason": "This is a must have resource in your inbox. Each week there are five great tips to help foster a more inclusive environment.",
+        "cat": "newsletter"
     }
 ]

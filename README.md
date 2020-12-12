@@ -166,6 +166,7 @@
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
  * [Marcus Blankenship's Tech Leader Newsletter](http://marcusblankenship.com)
+ * [Better Allies](https://betterallies.us19.list-manage.com/subscribe?u=cc808df089bf312fc1a37916d&id=575137cdc6) - This is a must have resource in your inbox. Each week there are five great tips to help foster a more inclusive environment.
 
 ## Contributing 
 1. Fork it
