@@ -50,6 +50,7 @@
  * [Everybody Matters](https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/) - This is an excellent book for how to think about treating people in your organization with more empathy
  * [Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework](https://amzn.to/2r86Gng) - The book helps understand software delivery metrics and how to measure them to organize software teams around the value stream
  * [Indistractable](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/1526610205/ref=asc_df_1526610205) - A great book with helpful tips on how to manage your attention.
+ * [The Art of Leadership: Small Things, Done Well](https://www.amazon.com/Art-Leadership-Small-Things-Done/dp/1492045691) - Another great book from Michael Lopp on leadership
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
