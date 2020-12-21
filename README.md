@@ -88,6 +88,7 @@
  * [The Elegant System of Management /w Will Larson](https://egghead.io/podcasts/the-elegant-system-of-management-with-will-larson) - Joel Hooks, from Egghead.io, sits down with Will Larson to discuss systems for engineering management
  * [Teams at Work Episode 3 - How to build successful engineering teams](https://bunch.ai/teamsatwork-podcast) - Dizzy Smith, VP Engineering of Packet, shares insights from his 15+ year career in engineering about culture building, communication structures and diverse leadership in distributed teams.
  * [Front End Happy Hour - One on ones](https://frontendhappyhour.com/episodes/shot-for-shot-one-on-ones/) - This is a good podcast episode discussing how to make one on one meetings more effective
+ * [Front End Happy Hour - Good manager, bad manager - tasty drink, bland drink](https://frontendhappyhour.com/episodes/good-manager-bad-manager-tasty-drink-bland-drink/) - A panel discussion sharing opinions on what makes good and bad managers
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback

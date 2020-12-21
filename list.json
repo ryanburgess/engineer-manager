@@ -952,5 +952,11 @@
         "url": "https://www.amazon.com/Art-Leadership-Small-Things-Done/dp/1492045691",
         "reason": "Another great book from Michael Lopp on leadership",
         "cat": "book"
+    },
+    {
+        "title": "Front End Happy Hour - Good manager, bad manager - tasty drink, bland drink",
+        "url": "https://frontendhappyhour.com/episodes/good-manager-bad-manager-tasty-drink-bland-drink/",
+        "reason": "A panel discussion sharing opinions on what makes good and bad managers",
+        "cat": "podcast"
     }
 ]
