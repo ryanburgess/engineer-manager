@@ -53,6 +53,7 @@
  * [The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612/) - This is an excellent book if you're starting a new role.
  * [The Experimental Leader: Be a New Kind of Boss to Cultivate an Organization of Innovators](https://www.amazon.com/Experimental-Leader-Cultivate-Organization-Innovators/dp/1989603149) - Helpful tips on how to be an innovative leader and avoid the faults of historical leadership
  * [The Alliance: Managing Talent in the Networked Age](https://www.amazon.com/Alliance-Managing-Talent-Networked-Age/dp/1625275773) - A new way of thinking about management and thinking of your employees as allies
+ * [Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/40745.Mindset) - Learning how to overcome obstacles is no small thing. This book is about how to develop the right mindset to help you become better every day. Daniel Pink cites Carol Dweck in a book on this list - Drive
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
