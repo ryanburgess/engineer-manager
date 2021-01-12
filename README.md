@@ -30,7 +30,7 @@
  * [The Principles of Product Development Flow: Second Generation Lean Product Development](https://www.amazon.com/Principles-Product-Development-Flow-Generation-ebook/dp/B007TKU0O0)
  * [Drive: The Surprising Truth About What Motivates Us](http://www.danpink.com/books/drive/)
  * [The Phoenix Project](https://www.bookdepository.com/The-Phoenix-Project/9780988262508)
- * [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around)
+ * [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around) - A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.
  * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
  * [Building Great Startup Teams](https://www.amazon.co.uk/Building-Great-Startup-Teams-Attracting-ebook/dp/B01BVQS62A/)
  * [Leading Snowflakes: The Engineering Manager Handbook](http://leadingsnowflakes.com)
@@ -44,7 +44,6 @@
  * [Brotopia: Breaking Up the Boys' Club of Silicon Valley](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534) - Provides insight into D&I history
  * [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation-ebook/dp/B078FZ9SYB)
  * [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790) - Work at Google
- * [Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y) - A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.
  * [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352145/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1553742703&sr=8-2) - A book with helpful information on leading introverts
  * [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Overcoming-Five-Dysfunctions-Team-first/dp/B004O2JWHC/ref=sr_1_3?keywords=The+Five+Dysfunctions+of+a+Team%3A+A+Leadership+Fable&qid=1556729373&s=gateway&sr=8-3) - This book highlights what causes a dysfunctional team and how you can improve a team's relationships
  * [Everybody Matters](https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/) - This is an excellent book for how to think about treating people in your organization with more empathy
