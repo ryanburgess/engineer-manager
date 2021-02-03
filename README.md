@@ -168,6 +168,7 @@
  * [How to decide when to fire someone](https://practicebusiness.co.uk/how-to-decide-when-to-fire-someone) - This is never an easy decision to make, and this article has some helpful tips on when to decide to let someone go.
  * [Coaching people through the Change Curve](https://www.insights.com/resources/coaching-people-through-the-change-curve/) - A helpful article that provides insights into how to prepare teams for an organizational structure change
  * [How I Approach the Toughest Decisions](https://barackobama.medium.com/how-i-approach-the-toughest-decisions-dc1b165cdf2d) - A great article from Barack Obama about how he approaches making tough decisions.
+ * [Feedback In Times of Crisis](https://www.linkedin.com/pulse/feedback-times-crisis-karen-casella/) - Some great insights into providing feedback during times of a crisis.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
