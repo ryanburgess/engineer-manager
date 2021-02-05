@@ -170,6 +170,7 @@
  * [How I Approach the Toughest Decisions](https://barackobama.medium.com/how-i-approach-the-toughest-decisions-dc1b165cdf2d) - A great article from Barack Obama about how he approaches making tough decisions.
  * [Feedback In Times of Crisis](https://www.linkedin.com/pulse/feedback-times-crisis-karen-casella/) - Some great insights into providing feedback during times of a crisis.
  * [Why Constraints Are Good for Innovation](https://hbr.org/2019/11/why-constraints-are-good-for-innovation) - An article that suggests that managers can innovate better by embracing constraints.
+ * [Are You Leading Through the Crisis … or Managing the Response?](https://hbr.org/2020/03/are-you-leading-through-the-crisis-or-managing-the-response) - Helpful tips and insights into how to lead during a crisis.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
