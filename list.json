@@ -994,5 +994,11 @@
         "url": "https://hbr.org/2020/03/are-you-leading-through-the-crisis-or-managing-the-response",
         "reason": "Helpful tips and insights into how to lead during a crisis.",
         "cat": "article"
+    },
+    {
+        "title": "CTO Insights with Tosho Trajanov",
+        "url": "https://insights.toshotrajanov.com/",
+        "reason": "Weekly reading on software engineering & technical leadership.",
+        "cat": "newsletter"
     }
 ]
