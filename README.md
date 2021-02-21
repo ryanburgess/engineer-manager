@@ -180,6 +180,7 @@
  * [Marcus Blankenship's Tech Leader Newsletter](http://marcusblankenship.com)
  * [Better Allies](https://betterallies.us19.list-manage.com/subscribe?u=cc808df089bf312fc1a37916d&id=575137cdc6) - This is a must have resource in your inbox. Each week there are five great tips to help foster a more inclusive environment.
  * [CTO Insights with Tosho Trajanov](https://insights.toshotrajanov.com/) - Weekly reading on software engineering & technical leadership.
+ * [Fellow TLDR newsletter](https://fellow.app/newsletter/) - Helpful leadership tips in a regular newsletter.
 
 ## Contributing 
 1. Fork it

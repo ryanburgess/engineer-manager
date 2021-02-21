@@ -1018,5 +1018,11 @@
         "url": "https://frontendhappyhour.com/episodes/remote-interviewing-drinking-on-video-calls/",
         "reason": "An episode talking about remote interviewing during COVID.",
         "cat": "podcast"
+    },
+    {
+        "title": "Fellow TLDR newsletter",
+        "url": "https://fellow.app/newsletter/",
+        "reason": "Helpful leadership tips in a regular newsletter.",
+        "cat": "newsletter"
     }
 ]
