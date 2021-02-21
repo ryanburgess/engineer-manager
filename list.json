@@ -1024,5 +1024,11 @@
         "url": "https://fellow.app/newsletter/",
         "reason": "Helpful leadership tips in a regular newsletter.",
         "cat": "newsletter"
+    },
+    {
+        "title": "How Great Managers Give and Receive Feedback",
+        "url": "https://fellow.app/blog/2019/how-managers-give-and-receive-feedback",
+        "reason": "Helpful tips on giving and receiving feedback.",
+        "cat": "article"
     }
 ]
