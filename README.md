@@ -171,6 +171,7 @@
  * [Feedback In Times of Crisis](https://www.linkedin.com/pulse/feedback-times-crisis-karen-casella/) - Some great insights into providing feedback during times of a crisis.
  * [Why Constraints Are Good for Innovation](https://hbr.org/2019/11/why-constraints-are-good-for-innovation) - An article that suggests that managers can innovate better by embracing constraints.
  * [Are You Leading Through the Crisis … or Managing the Response?](https://hbr.org/2020/03/are-you-leading-through-the-crisis-or-managing-the-response) - Helpful tips and insights into how to lead during a crisis.
+ * [Mistakes I’ve Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) - Vulnerability as a leader goes a long way. This article shares mistakes to avoid.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)

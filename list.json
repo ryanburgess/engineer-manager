@@ -1000,5 +1000,11 @@
         "url": "https://insights.toshotrajanov.com/",
         "reason": "Weekly reading on software engineering & technical leadership.",
         "cat": "newsletter"
+    },
+    {
+        "title": "Mistakes I’ve Made as an Engineering Manager",
+        "url": "https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/",
+        "reason": "Vulnerability as a leader goes a long way. This article shares mistakes to avoid.",
+        "cat": "article"
     }
 ]
