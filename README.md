@@ -92,6 +92,8 @@
  * [Teams at Work Episode 3 - How to build successful engineering teams](https://bunch.ai/teamsatwork-podcast) - Dizzy Smith, VP Engineering of Packet, shares insights from his 15+ year career in engineering about culture building, communication structures and diverse leadership in distributed teams.
  * [Front End Happy Hour - One on ones](https://frontendhappyhour.com/episodes/shot-for-shot-one-on-ones/) - This is a good podcast episode discussing how to make one on one meetings more effective
  * [Front End Happy Hour - Good manager, bad manager - tasty drink, bland drink](https://frontendhappyhour.com/episodes/good-manager-bad-manager-tasty-drink-bland-drink/) - A panel discussion sharing opinions on what makes good and bad managers
+ * [Front End Happy Hour - Transitioning to a new role](https://frontendhappyhour.com/episodes/transitioning-to-a-new-role-bar-hopping/) - There's some good information on preparing for a new role.
+ * [Front End Happy Hour - Remote interviewing](https://frontendhappyhour.com/episodes/remote-interviewing-drinking-on-video-calls/) - An episode talking about remote interviewing during COVID.
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback

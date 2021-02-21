@@ -1000,5 +1000,17 @@
         "url": "https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/",
         "reason": "Vulnerability as a leader goes a long way. This article shares mistakes to avoid.",
         "cat": "article"
+    },
+    {
+        "title": "Front End Happy Hour - Transitioning to a new role",
+        "url": "https://frontendhappyhour.com/episodes/transitioning-to-a-new-role-bar-hopping/",
+        "reason": "There's some good information on preparing for a new role.",
+        "cat": "podcast"
+    },
+    {
+        "title": "Front End Happy Hour - Remote interviewing",
+        "url": "https://frontendhappyhour.com/episodes/remote-interviewing-drinking-on-video-calls/",
+        "reason": "An episode talking about remote interviewing during COVID.",
+        "cat": "podcast"
     }
 ]
