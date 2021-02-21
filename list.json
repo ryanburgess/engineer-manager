@@ -994,5 +994,11 @@
         "url": "https://hbr.org/2020/03/are-you-leading-through-the-crisis-or-managing-the-response",
         "reason": "Helpful tips and insights into how to lead during a crisis.",
         "cat": "article"
+    },
+    {
+        "title": "Mistakes I’ve Made as an Engineering Manager",
+        "url": "https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/",
+        "reason": "Vulnerability as a leader goes a long way. This article shares mistakes to avoid.",
+        "cat": "article"
     }
 ]
