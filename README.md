@@ -175,6 +175,7 @@
  * [Are You Leading Through the Crisis … or Managing the Response?](https://hbr.org/2020/03/are-you-leading-through-the-crisis-or-managing-the-response) - Helpful tips and insights into how to lead during a crisis.
  * [Mistakes I’ve Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) - Vulnerability as a leader goes a long way. This article shares mistakes to avoid.
  * [How Great Managers Give and Receive Feedback](https://fellow.app/blog/2019/how-managers-give-and-receive-feedback) - Helpful tips on giving and receiving feedback.
+ * [Should You Rehire an Employee Who Left Your Company?](https://hbr.org/2021/02/should-you-rehire-an-employee-who-left-your-company) - Interesting perspectives on thinking about hiring someone who had previously left the company.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
