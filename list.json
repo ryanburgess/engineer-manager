@@ -1038,9 +1038,33 @@
         "cat": "article"
     },
     {
-      "title": "Rands Leadership Slack",
-      "url": "https://randsinrepose.com/welcome-to-rands-leadership-slack",
-      "reason": "Created by Michael Lopp, the Rands Leadership Slack exists to help longtime, new, and aspiring leaders to learn through conversation and sharing of ideas.",
-      "cat": "community"
+        "title": "Rands Leadership Slack",
+        "url": "https://randsinrepose.com/welcome-to-rands-leadership-slack",
+        "reason": "Created by Michael Lopp, the Rands Leadership Slack exists to help longtime, new, and aspiring leaders to learn through conversation and sharing of ideas.",
+        "cat": "community"
+    },
+    {
+        "title": "No, I’m not fine: A leader’s guide to building a culture where it’s ok to not be ok",
+        "url": "https://fellow.app/blog/2021/building-a-culture-where-its-ok-to-not-be-ok/",
+        "reason": "This article shares some helpful insights into building trust and vulnerability in your team.",
+        "cat": "article"
+    },
+    {
+        "title": "How to Build a Culture of Ownership, and Other Engineering Leadership Tips from Plaid & Dropbox",
+        "url": "https://review.firstround.com/how-to-build-a-culture-of-ownership-and-other-engineering-leadership-tips-from-plaid-and-dropbox",
+        "reason": "This article shares tips for getting alignment in a team.",
+        "cat": "article"
+    },
+    {
+        "title": "9 Tips for Effectively Sharing Peer Feedback in the Workplace",
+        "url": "https://fellow.app/blog/2021/tips-for-effectively-sharing-peer-feedback-in-the-workplace",
+        "reason": "Helpful tips for giving someone feedback.",
+        "cat": "article"
+    },
+    {
+        "title": "1 Top Priority About Remote Work That Most Managers Are Forgetting",
+        "url": "https://www.inc.com/marcel-schwantes/1-top-priority-about-remote-work-that-most-managers-are-forgetting.html",
+        "reason": "How to improve remote work for your team.",
+        "cat": "article"
     }
 ]

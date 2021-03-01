@@ -176,6 +176,10 @@
  * [Mistakes I’ve Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) - Vulnerability as a leader goes a long way. This article shares mistakes to avoid.
  * [How Great Managers Give and Receive Feedback](https://fellow.app/blog/2019/how-managers-give-and-receive-feedback) - Helpful tips on giving and receiving feedback.
  * [Should You Rehire an Employee Who Left Your Company?](https://hbr.org/2021/02/should-you-rehire-an-employee-who-left-your-company) - Interesting perspectives on thinking about hiring someone who had previously left the company.
+ * [No, I’m not fine: A leader’s guide to building a culture where it’s ok to not be ok](https://fellow.app/blog/2021/building-a-culture-where-its-ok-to-not-be-ok/) - This article shares some helpful insights into building trust and vulnerability in your team.
+ * [How to Build a Culture of Ownership, and Other Engineering Leadership Tips from Plaid & Dropbox](https://review.firstround.com/how-to-build-a-culture-of-ownership-and-other-engineering-leadership-tips-from-plaid-and-dropbox) - This article shares tips for getting alignment in a team.
+ * [9 Tips for Effectively Sharing Peer Feedback in the Workplace](https://fellow.app/blog/2021/tips-for-effectively-sharing-peer-feedback-in-the-workplace) - Helpful tips for giving someone feedback.
+ * [1 Top Priority About Remote Work That Most Managers Are Forgetting](https://www.inc.com/marcel-schwantes/1-top-priority-about-remote-work-that-most-managers-are-forgetting.html) - How to improve remote work for your team.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
