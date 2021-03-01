@@ -94,6 +94,7 @@
  * [Front End Happy Hour - Good manager, bad manager - tasty drink, bland drink](https://frontendhappyhour.com/episodes/good-manager-bad-manager-tasty-drink-bland-drink/) - A panel discussion sharing opinions on what makes good and bad managers
  * [Front End Happy Hour - Transitioning to a new role](https://frontendhappyhour.com/episodes/transitioning-to-a-new-role-bar-hopping/) - There's some good information on preparing for a new role.
  * [Front End Happy Hour - Remote interviewing](https://frontendhappyhour.com/episodes/remote-interviewing-drinking-on-video-calls/) - An episode talking about remote interviewing during COVID.
+ * [Super Managers](https://fellow.app/supermanagers) - A podcast from Fellow that focuses on management topics.
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback

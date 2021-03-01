@@ -1066,5 +1066,11 @@
         "url": "https://www.inc.com/marcel-schwantes/1-top-priority-about-remote-work-that-most-managers-are-forgetting.html",
         "reason": "How to improve remote work for your team.",
         "cat": "article"
+    },
+    {
+        "title": "Super Managers",
+        "url": "https://fellow.app/supermanagers",
+        "reason": "A podcast from Fellow that focuses on management topics.",
+        "cat": "podcast"
     }
 ]
