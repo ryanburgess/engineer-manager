@@ -117,7 +117,7 @@
  * [Should Companies Get Rid of Performance Reviews?](https://readthink.com/should-companies-get-rid-of-performance-reviews-1e03b7726cc1#.vscg4lp2f) - A good article talking about the pros and cons of performance reviews.
  * [How to Spot and Magnify the Powers of Your Engineering Superheroes](http://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/)
  * [The Keys to Scaling Yourself as a Technology Leader](http://firstround.com/review/the-keys-to-scaling-yourself-as-a-technology-leader/) - Some good tips on ways to help scale yourself as a leader.
- * [Meetings that don't suck](https://library.gv.com/meetings-that-don-t-suck-959b8b5df3a4#.vdhm03k8i) - Some good tips on how to improve meetings.
+ * [Meetings that don't suck](https://techcrunch.com/2015/07/17/meetings-that-dont-suck) - Some good tips on how to improve meetings.
  * [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c#.53msecvc3) - A good article on improving 1:1s
  * [101 Questions to Ask in One on Ones](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/) - Some helpful ideas for what questions to ask in a one on one.
  * [Hire a Top Performer Every Time with These Interview Questions](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/) - Example interview questions to help find the top performers.
