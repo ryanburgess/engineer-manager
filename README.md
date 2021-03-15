@@ -182,6 +182,7 @@
  * [How to Build a Culture of Ownership, and Other Engineering Leadership Tips from Plaid & Dropbox](https://review.firstround.com/how-to-build-a-culture-of-ownership-and-other-engineering-leadership-tips-from-plaid-and-dropbox) - This article shares tips for getting alignment in a team.
  * [9 Tips for Effectively Sharing Peer Feedback in the Workplace](https://fellow.app/blog/2021/tips-for-effectively-sharing-peer-feedback-in-the-workplace) - Helpful tips for giving someone feedback.
  * [1 Top Priority About Remote Work That Most Managers Are Forgetting](https://www.inc.com/marcel-schwantes/1-top-priority-about-remote-work-that-most-managers-are-forgetting.html) - How to improve remote work for your team.
+ * [You're not just a manager, you're also a boss](https://leaddev.com/professional-development/youre-not-just-manager-youre-also-boss) - This article helps to identify the power dynamics that come with being a manager.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
