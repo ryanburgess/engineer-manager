@@ -55,6 +55,7 @@
  * [The Alliance: Managing Talent in the Networked Age](https://www.amazon.com/Alliance-Managing-Talent-Networked-Age/dp/1625275773) - A new way of thinking about management and thinking of your employees as allies
  * [Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/40745.Mindset) - Learning how to overcome obstacles is no small thing. This book is about how to develop the right mindset to help you become better every day. Daniel Pink cites Carol Dweck in a book on this list - Drive
  * [The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567) - Great book for those moving into a leadership or management role. It provides helpful tactical advice for management
+ * [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186) - Written by a fellow Engineering Manager, Will Larson shows the challenges and demands of the discipline of engineering management viewed through the prism of systems thinking
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
