@@ -1102,5 +1102,17 @@
         "url": "https://www.amazon.com/Better-Allies-Everyday-Inclusive-Workplaces/dp/1732723303",
         "reason": "The Better Allies is a great read on how to help build a more inclusive environment.",
         "cat": "book"
+    },
+    {
+        "title": "Closing the gap: A manager’s guide to advancing gender equity in the workplace",
+        "url": "https://fellow.app/blog/management/closing-the-gap-managers-guide-to-gender-equity-in-the-workplace",
+        "reason": "Suggestions for managers to help reduce gender gaps in the workplace.",
+        "cat": "article"
+    },
+    {
+        "title": "Super Managers - Embracing Transparency, Iteration, and Asynchronous Workflows in a Remote World",
+        "url": "https://fellow.app/supermanagers/darren-murph-gitlab-transparency-iteration-asynchronous-workflows",
+        "reason": "Darren Murph, from GitLab, shares how remote work empowers people at work, and also in their everyday lives.",
+        "cat": "podcast"
     }
 ]

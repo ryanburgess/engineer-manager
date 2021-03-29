@@ -97,6 +97,7 @@
  * [Front End Happy Hour - Transitioning to a new role](https://frontendhappyhour.com/episodes/transitioning-to-a-new-role-bar-hopping/) - There's some good information on preparing for a new role.
  * [Front End Happy Hour - Remote interviewing](https://frontendhappyhour.com/episodes/remote-interviewing-drinking-on-video-calls/) - An episode talking about remote interviewing during COVID.
  * [Super Managers](https://fellow.app/supermanagers) - A podcast from Fellow that focuses on management topics.
+ * [Super Managers - Embracing Transparency, Iteration, and Asynchronous Workflows in a Remote World](https://fellow.app/supermanagers/darren-murph-gitlab-transparency-iteration-asynchronous-workflows) - Darren Murph, from GitLab, shares how remote work empowers people at work, and also in their everyday lives.
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback
@@ -186,6 +187,7 @@
  * [You're not just a manager, you're also a boss](https://leaddev.com/professional-development/youre-not-just-manager-youre-also-boss) - This article helps to identify the power dynamics that come with being a manager.
  * [Too Many Meetings? Here’s How to Scale Back](https://fellow.app/blog/2021/too-many-meetings-heres-how-to-scale-back) - There are some good tips for scaling back on the number of meetings you attend.
  * [How can managers create a culture for women to thrive?](https://www.thefemalelead.com/post/how-can-managers-create-a-culture-for-women-to-thrive) - Tips to be more inclusive to women in your teams.
+ * [Closing the gap: A manager’s guide to advancing gender equity in the workplace](https://fellow.app/blog/management/closing-the-gap-managers-guide-to-gender-equity-in-the-workplace) - Suggestions for managers to help reduce gender gaps in the workplace.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
