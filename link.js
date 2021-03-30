@@ -50,11 +50,24 @@ prompt.start();
 
 // prompt questions
 prompt.get(schema, function (err, result) {
-   const obj = {'title': result.title.trim(), 'url': result.url.trim(), 'reason': result.reason.trim(), 'cat': result.category.trim()};
-   fullList.push(obj);
-   fs.writeFileSync('./list.json', JSON.stringify(fullList, null, 4) + '\n');
-   console.log('New link added!');
+  const newUrl = result.url.trim();
+  const obj = {'title': result.title.trim(), 'url': newUrl, 'reason': result.reason.trim(), 'cat': result.category.trim()};
+  
+  // check if the resource URL has previously been added to prevent duplicate links being added
+  if (!fullList.some(item => item.url === newUrl)) {
+    // add new resource to the list
+    fullList.push(obj);
 
-   // update readme
-   update();
+    //update the JSON file
+    fs.writeFileSync('./list.json', JSON.stringify(fullList, null, 4) + '\n');
+    //success message
+    console.log('New link added!');
+
+    // update readme
+    update();
+  }else {
+    // message to let user know the URL has previously been added to the resource list
+    console.log('This link already exists');
+  }
+  
 });

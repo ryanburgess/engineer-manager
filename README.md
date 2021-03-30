@@ -56,6 +56,8 @@
  * [Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/40745.Mindset) - Learning how to overcome obstacles is no small thing. This book is about how to develop the right mindset to help you become better every day. Daniel Pink cites Carol Dweck in a book on this list - Drive
  * [The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567) - Great book for those moving into a leadership or management role. It provides helpful tactical advice for management
  * [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186) - Written by a fellow Engineering Manager, Will Larson shows the challenges and demands of the discipline of engineering management viewed through the prism of systems thinking
+ * [Better Allies: Everyday Actions to Create Inclusive, Engaging Workplaces](https://www.amazon.com/Better-Allies-Everyday-Inclusive-Workplaces/dp/1732723303) - The Better Allies is a great read on how to help build a more inclusive environment.
+
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
@@ -97,6 +99,7 @@
  * [Front End Happy Hour - Transitioning to a new role](https://frontendhappyhour.com/episodes/transitioning-to-a-new-role-bar-hopping/) - There's some good information on preparing for a new role.
  * [Front End Happy Hour - Remote interviewing](https://frontendhappyhour.com/episodes/remote-interviewing-drinking-on-video-calls/) - An episode talking about remote interviewing during COVID.
  * [Super Managers](https://fellow.app/supermanagers) - A podcast from Fellow that focuses on management topics.
+ * [Super Managers - Embracing Transparency, Iteration, and Asynchronous Workflows in a Remote World](https://fellow.app/supermanagers/darren-murph-gitlab-transparency-iteration-asynchronous-workflows) - Darren Murph, from GitLab, shares how remote work empowers people at work, and also in their everyday lives.
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback
@@ -186,6 +189,7 @@
  * [You're not just a manager, you're also a boss](https://leaddev.com/professional-development/youre-not-just-manager-youre-also-boss) - This article helps to identify the power dynamics that come with being a manager.
  * [Too Many Meetings? Here’s How to Scale Back](https://fellow.app/blog/2021/too-many-meetings-heres-how-to-scale-back) - There are some good tips for scaling back on the number of meetings you attend.
  * [How can managers create a culture for women to thrive?](https://www.thefemalelead.com/post/how-can-managers-create-a-culture-for-women-to-thrive) - Tips to be more inclusive to women in your teams.
+ * [Closing the gap: A manager’s guide to advancing gender equity in the workplace](https://fellow.app/blog/management/closing-the-gap-managers-guide-to-gender-equity-in-the-workplace) - Suggestions for managers to help reduce gender gaps in the workplace.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
