@@ -57,7 +57,7 @@
  * [The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567) - Great book for those moving into a leadership or management role. It provides helpful tactical advice for management
  * [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186) - Written by a fellow Engineering Manager, Will Larson shows the challenges and demands of the discipline of engineering management viewed through the prism of systems thinking
  * [Better Allies: Everyday Actions to Create Inclusive, Engaging Workplaces](https://www.amazon.com/Better-Allies-Everyday-Inclusive-Workplaces/dp/1732723303) - The Better Allies is a great read on how to help build a more inclusive environment.
-
+ * [Resilient Management](https://resilient-management.com/) - Fantastic, quick read on people management. Especially effective for new managers, but great for all levels.
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
@@ -75,6 +75,7 @@
  * [Dare to Disagree](https://www.ted.com/talks/margaret_heffernan_dare_to_disagree) - This is a good TED talk on how to avoid the echo chamber and learn to disagree to help improve ideas
  * [On being wrong](https://www.ted.com/talks/kathryn_schulz_on_being_wrong) - This is a great TED talk on highlighting how it's ok to be wrong
  * [Ignite the Fire - How Managers Can Spark New Leaders](https://www.infoq.com/presentations/managers-launch-leaders/) - A video of a talk about three ingredients for inspiring non-manager leaders to emerge and provides simple techniques any team member can apply
+ * [How vulnerability makes you a better leader | Tracy Young](https://www.youtube.com/watch?v=uOvK8roYVUU&ab_channel=TED) - TED Talk video on why it's so important to be vulnerable as a leader.
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/) - In this episode of FEHH the panelists talk about being an engineering manager. A lot of great insights!

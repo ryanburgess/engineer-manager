@@ -1120,10 +1120,17 @@
         "url": "https://fellow.app/supermanagers/darren-murph-gitlab-transparency-iteration-asynchronous-workflows",
         "reason": "Darren Murph, from GitLab, shares how remote work empowers people at work, and also in their everyday lives.",
         "cat": "podcast"
-    },{
-        "title": "Resilient Management,
+    },
+    {
+        "title": "Resilient Management",
         "url": "https://resilient-management.com/",
         "reason": "Fantastic, quick read on people management. Especially effective for new managers, but great for all levels.",
         "cat": "book"
+    },
+    {
+        "title": "How vulnerability makes you a better leader | Tracy Young",
+        "url": "https://www.youtube.com/watch?v=uOvK8roYVUU&ab_channel=TED",
+        "reason": "TED Talk video on why it's so important to be vulnerable as a leader.",
+        "cat": "video"
     }
 ]
