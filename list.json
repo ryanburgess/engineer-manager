@@ -1132,5 +1132,11 @@
         "url": "https://www.youtube.com/watch?v=uOvK8roYVUU&ab_channel=TED",
         "reason": "TED Talk by Tracy Young who shares her story and demonstrates vulnerability and how important it is as a leader.",
         "cat": "video"
+    },
+    {
+        "title": "“I Quit!” How to Tactfully Handle Employee Resignations",
+        "url": "https://fellow.app/blog/management/i-quit-how-to-tactfully-handle-employee-resignations",
+        "reason": "Helpful tips for dealing with someone leaving your team.",
+        "cat": "article"
     }
 ]

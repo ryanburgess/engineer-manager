@@ -191,6 +191,7 @@
  * [Too Many Meetings? Here’s How to Scale Back](https://fellow.app/blog/2021/too-many-meetings-heres-how-to-scale-back) - There are some good tips for scaling back on the number of meetings you attend.
  * [How can managers create a culture for women to thrive?](https://www.thefemalelead.com/post/how-can-managers-create-a-culture-for-women-to-thrive) - Tips to be more inclusive to women in your teams.
  * [Closing the gap: A manager’s guide to advancing gender equity in the workplace](https://fellow.app/blog/management/closing-the-gap-managers-guide-to-gender-equity-in-the-workplace) - Suggestions for managers to help reduce gender gaps in the workplace.
+ * [“I Quit!” How to Tactfully Handle Employee Resignations](https://fellow.app/blog/management/i-quit-how-to-tactfully-handle-employee-resignations) - Helpful tips for dealing with someone leaving your team.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
