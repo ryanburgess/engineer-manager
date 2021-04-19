@@ -76,6 +76,7 @@
  * [On being wrong](https://www.ted.com/talks/kathryn_schulz_on_being_wrong) - This is a great TED talk on highlighting how it's ok to be wrong
  * [Ignite the Fire - How Managers Can Spark New Leaders](https://www.infoq.com/presentations/managers-launch-leaders/) - A video of a talk about three ingredients for inspiring non-manager leaders to emerge and provides simple techniques any team member can apply
  * [How vulnerability makes you a better leader | Tracy Young](https://www.youtube.com/watch?v=uOvK8roYVUU&ab_channel=TED) - TED Talk by Tracy Young who shares her story and demonstrates vulnerability and how important it is as a leader.
+ * [Patty McCord: 8 lessons on building a company people enjoy working for](https://www.ted.com/talks/patty_mccord_8_lessons_on_building_a_company_people_enjoy_working_for) - An excellent TED talk by Patty McCord providing short tips for a better company working enviornment
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/) - In this episode of FEHH the panelists talk about being an engineering manager. A lot of great insights!
