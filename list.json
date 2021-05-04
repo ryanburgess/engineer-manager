@@ -1150,5 +1150,11 @@
         "url": "https://anchor.fm/happypathprogramming/episodes/24-Vulnerability--Additive-Hiring-with-Dianne-Marsh-eu4359/a-a41ih0t",
         "reason": "Some great insights into leading through vulnerability from Netflix Engineering Director, Dianne Marsh.",
         "cat": "podcast"
+    },
+    {
+        "title": "Let's talk about the D-word: DELEGATING",
+        "url": "https://fellow.app/blog/management/lets-talk-about-delegating",
+        "reason": "This article provides some tips for delegating as a manager.",
+        "cat": "article"
     }
 ]

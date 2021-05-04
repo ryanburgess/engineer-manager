@@ -194,6 +194,7 @@
  * [How can managers create a culture for women to thrive?](https://www.thefemalelead.com/post/how-can-managers-create-a-culture-for-women-to-thrive) - Tips to be more inclusive to women in your teams.
  * [Closing the gap: A manager’s guide to advancing gender equity in the workplace](https://fellow.app/blog/management/closing-the-gap-managers-guide-to-gender-equity-in-the-workplace) - Suggestions for managers to help reduce gender gaps in the workplace.
  * [“I Quit!” How to Tactfully Handle Employee Resignations](https://fellow.app/blog/management/i-quit-how-to-tactfully-handle-employee-resignations) - Helpful tips for dealing with someone leaving your team.
+ * [Let's talk about the D-word: DELEGATING](https://fellow.app/blog/management/lets-talk-about-delegating) - This article provides some tips for delegating as a manager.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
