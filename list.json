@@ -6,6 +6,12 @@
         "cat": "book"
     },
     {
+        "title": "Ryan Burgess' Manager Videos",
+        "url": "https://www.youtube.com/watch?v=eRtuBk7GMC4&list=PLoi4aiq4kBvt7gtoWFgp74-8YULZaM9LK",
+        "reason": "A YouTube playlist of short video clips that cover a variety of leadership topics focused on engineering management.",
+        "cat": "video"
+    },
+    {
         "title": "Behind Closed Doors: Secrets of Great Management",
         "url": "https://www.amazon.com/Behind-Closed-Doors-Management-Programmers-ebook/dp/B00A4OA6UQ/ref=mt_kindle?_encoding=UTF8&me=",
         "reason": "",
