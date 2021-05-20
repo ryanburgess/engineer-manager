@@ -60,6 +60,7 @@
  * [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186) - Written by a fellow Engineering Manager, Will Larson shows the challenges and demands of the discipline of engineering management viewed through the prism of systems thinking
  * [Better Allies: Everyday Actions to Create Inclusive, Engaging Workplaces](https://www.amazon.com/Better-Allies-Everyday-Inclusive-Workplaces/dp/1732723303) - The Better Allies is a great read on how to help build a more inclusive environment.
  * [Resilient Management](https://resilient-management.com/) - Fantastic, quick read on people management. Especially effective for new managers, but great for all levels.
+ * [Reset: My Fight for Inclusion and Lasting Change](https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change/dp/039959101X) - Ellen Pao shares her experiences in her career and focuses on the fight to make an more inclusive industry
 
 ## Videos
  * [Ryan Burgess' Manager Videos](https://www.youtube.com/watch?v=eRtuBk7GMC4&list=PLoi4aiq4kBvt7gtoWFgp74-8YULZaM9LK) - A YouTube playlist of short video clips that cover a variety of leadership topics focused on engineering management.
