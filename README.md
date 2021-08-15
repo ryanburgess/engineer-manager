@@ -199,6 +199,8 @@
  * [Closing the gap: A manager’s guide to advancing gender equity in the workplace](https://fellow.app/blog/management/closing-the-gap-managers-guide-to-gender-equity-in-the-workplace) - Suggestions for managers to help reduce gender gaps in the workplace.
  * [“I Quit!” How to Tactfully Handle Employee Resignations](https://fellow.app/blog/management/i-quit-how-to-tactfully-handle-employee-resignations) - Helpful tips for dealing with someone leaving your team.
  * [Let's talk about the D-word: DELEGATING](https://fellow.app/blog/management/lets-talk-about-delegating) - This article provides some tips for delegating as a manager.
+ * [How to hire](https://medium.com/eshares-blog/how-to-hire-34f4ded5f176#.jxkz3wrs3) - A good article on ways to think about hiring for your team.
+ * [When Do We Actually Need to Meet in Person?](https://hbr.org/2021/07/when-do-we-actually-need-to-meet-in-person) - An article that helps provide insights into the types of meetings that should be in person.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)

@@ -1168,5 +1168,17 @@
         "url": "https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change/dp/039959101X",
         "reason": "Ellen Pao shares her experiences in her career and focuses on the fight to make an more inclusive industry",
         "cat": "book"
+    },
+    {
+        "title": "How to hire",
+        "url": "https://medium.com/eshares-blog/how-to-hire-34f4ded5f176#.jxkz3wrs3",
+        "reason": "A good article on ways to think about hiring for your team.",
+        "cat": "article"
+    },
+    {
+        "title": "When Do We Actually Need to Meet in Person?",
+        "url": "https://hbr.org/2021/07/when-do-we-actually-need-to-meet-in-person",
+        "reason": "An article that helps provide insights into the types of meetings that should be in person.",
+        "cat": "article"
     }
 ]
