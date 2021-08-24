@@ -1180,5 +1180,11 @@
         "url": "https://hbr.org/2021/07/when-do-we-actually-need-to-meet-in-person",
         "reason": "An article that helps provide insights into the types of meetings that should be in person.",
         "cat": "article"
+    },
+    {
+        "title": "Leading leaders who lead engineers",
+        "url": "https://changelog.com/podcast/453",
+        "reason": "A podcast episode that discusses growing leaders with Lara Hogan, author of Resilient Management",
+        "cat": "podcast"
     }
 ]

@@ -107,6 +107,7 @@
  * [Super Managers](https://fellow.app/supermanagers) - A podcast from Fellow that focuses on management topics.
  * [Super Managers - Embracing Transparency, Iteration, and Asynchronous Workflows in a Remote World](https://fellow.app/supermanagers/darren-murph-gitlab-transparency-iteration-asynchronous-workflows) - Darren Murph, from GitLab, shares how remote work empowers people at work, and also in their everyday lives.
  * [Happy Path Programming - Vulnerability & Additive Hiring with Dianne Marsh](https://anchor.fm/happypathprogramming/episodes/24-Vulnerability--Additive-Hiring-with-Dianne-Marsh-eu4359/a-a41ih0t) - Some great insights into leading through vulnerability from Netflix Engineering Director, Dianne Marsh.
+ * [Leading leaders who lead engineers](https://changelog.com/podcast/453) - A podcast episode that discusses growing leaders with Lara Hogan, author of Resilient Management
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback
