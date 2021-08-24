@@ -61,6 +61,7 @@
  * [Better Allies: Everyday Actions to Create Inclusive, Engaging Workplaces](https://www.amazon.com/Better-Allies-Everyday-Inclusive-Workplaces/dp/1732723303) - The Better Allies is a great read on how to help build a more inclusive environment.
  * [Resilient Management](https://resilient-management.com/) - Fantastic, quick read on people management. Especially effective for new managers, but great for all levels.
  * [Reset: My Fight for Inclusion and Lasting Change](https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change/dp/039959101X) - Ellen Pao shares her experiences in her career and focuses on the fight to make an more inclusive industry
+ * [The Leadership Challenge: How to Make Extraordinary Things Happen in Organizations](https://www.amazon.com/Leadership-Challenge-Extraordinary-Things-Organizations-dp-1119278961/dp/1119278961) - Book that elaborates on 5 key leadership principles aimed to find and grow successful leaders.
 
 ## Videos
  * [Ryan Burgess' Manager Videos](https://www.youtube.com/watch?v=eRtuBk7GMC4&list=PLoi4aiq4kBvt7gtoWFgp74-8YULZaM9LK) - A YouTube playlist of short video clips that cover a variety of leadership topics focused on engineering management.
