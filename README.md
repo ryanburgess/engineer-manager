@@ -61,6 +61,7 @@
  * [Better Allies: Everyday Actions to Create Inclusive, Engaging Workplaces](https://www.amazon.com/Better-Allies-Everyday-Inclusive-Workplaces/dp/1732723303) - The Better Allies is a great read on how to help build a more inclusive environment.
  * [Resilient Management](https://resilient-management.com/) - Fantastic, quick read on people management. Especially effective for new managers, but great for all levels.
  * [Reset: My Fight for Inclusion and Lasting Change](https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change/dp/039959101X) - Ellen Pao shares her experiences in her career and focuses on the fight to make an more inclusive industry
+ * [Traction: Get a Grip on Your Business](https://www.amazon.com/Traction-Get-Grip-Your-Business-ebook/dp/B007QWLLV2/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1629887272&sr=8-1) - A great book meant to help entrepreneurs and business leaders create a system that works. It champions metrics, processes and putting the right people in the right seats.
  * [Managing to Change the World: The Nonprofit Manager's Guide to Getting Results](https://www.amazon.com/gp/product/1118137612) - This book goes into managing, hiring, firing, performance, and also has helpful cheat-sheets and worksheets for tough situations.
  * [The Leadership Challenge: How to Make Extraordinary Things Happen in Organizations](https://www.amazon.com/Leadership-Challenge-Extraordinary-Things-Organizations-dp-1119278961/dp/1119278961) - Book that elaborates on 5 key leadership principles aimed to find and grow successful leaders.
 
