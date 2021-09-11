@@ -62,6 +62,8 @@
  * [Resilient Management](https://resilient-management.com/) - Fantastic, quick read on people management. Especially effective for new managers, but great for all levels.
  * [Reset: My Fight for Inclusion and Lasting Change](https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change/dp/039959101X) - Ellen Pao shares her experiences in her career and focuses on the fight to make an more inclusive industry
  * [Traction: Get a Grip on Your Business](https://www.amazon.com/Traction-Get-Grip-Your-Business-ebook/dp/B007QWLLV2/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1629887272&sr=8-1) - A great book meant to help entrepreneurs and business leaders create a system that works. It champions metrics, processes and putting the right people in the right seats.
+ * [Managing to Change the World: The Nonprofit Manager's Guide to Getting Results](https://www.amazon.com/gp/product/1118137612) - This book goes into managing, hiring, firing, performance, and also has helpful cheat-sheets and worksheets for tough situations.
+ * [The Leadership Challenge: How to Make Extraordinary Things Happen in Organizations](https://www.amazon.com/Leadership-Challenge-Extraordinary-Things-Organizations-dp-1119278961/dp/1119278961) - Book that elaborates on 5 key leadership principles aimed to find and grow successful leaders.
 
 ## Videos
  * [Ryan Burgess' Manager Videos](https://www.youtube.com/watch?v=eRtuBk7GMC4&list=PLoi4aiq4kBvt7gtoWFgp74-8YULZaM9LK) - A YouTube playlist of short video clips that cover a variety of leadership topics focused on engineering management.
@@ -108,6 +110,7 @@
  * [Super Managers](https://fellow.app/supermanagers) - A podcast from Fellow that focuses on management topics.
  * [Super Managers - Embracing Transparency, Iteration, and Asynchronous Workflows in a Remote World](https://fellow.app/supermanagers/darren-murph-gitlab-transparency-iteration-asynchronous-workflows) - Darren Murph, from GitLab, shares how remote work empowers people at work, and also in their everyday lives.
  * [Happy Path Programming - Vulnerability & Additive Hiring with Dianne Marsh](https://anchor.fm/happypathprogramming/episodes/24-Vulnerability--Additive-Hiring-with-Dianne-Marsh-eu4359/a-a41ih0t) - Some great insights into leading through vulnerability from Netflix Engineering Director, Dianne Marsh.
+ * [Leading leaders who lead engineers](https://changelog.com/podcast/453) - A podcast episode that discusses growing leaders with Lara Hogan, author of Resilient Management
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback
