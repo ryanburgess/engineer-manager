@@ -1204,5 +1204,17 @@
         "url": "https://www.amazon.com/Leadership-Challenge-Extraordinary-Things-Organizations-dp-1119278961/dp/1119278961",
         "reason": "Book that elaborates on 5 key leadership principles aimed to find and grow successful leaders.",
         "cat": "book"
+    },
+    {
+        "title": "Front End Happy Hour - Individual contributor to manager",
+        "url": "https://frontendhappyhour.com/episodes/individual-contributor-to-manager-transitioning-into-a-bartender/",
+        "reason": "This podcast episode provides a lot of great insights and tips for transitioning from an individual contributor to a manager.",
+        "cat": "podcast"
+    },
+    {
+        "title": "Don’t Lose the Democratizing Effect of Remote Work",
+        "url": "https://hbr.org/2021/08/dont-lose-the-democratizing-effect-of-remote-work",
+        "reason": "A good article on remote work covers some interesting points on the hybrid work and how to avoid on-site favoritism.",
+        "cat": "article"
     }
 ]

@@ -111,6 +111,7 @@
  * [Super Managers - Embracing Transparency, Iteration, and Asynchronous Workflows in a Remote World](https://fellow.app/supermanagers/darren-murph-gitlab-transparency-iteration-asynchronous-workflows) - Darren Murph, from GitLab, shares how remote work empowers people at work, and also in their everyday lives.
  * [Happy Path Programming - Vulnerability & Additive Hiring with Dianne Marsh](https://anchor.fm/happypathprogramming/episodes/24-Vulnerability--Additive-Hiring-with-Dianne-Marsh-eu4359/a-a41ih0t) - Some great insights into leading through vulnerability from Netflix Engineering Director, Dianne Marsh.
  * [Leading leaders who lead engineers](https://changelog.com/podcast/453) - A podcast episode that discusses growing leaders with Lara Hogan, author of Resilient Management
+ * [Front End Happy Hour - Individual contributor to manager](https://frontendhappyhour.com/episodes/individual-contributor-to-manager-transitioning-into-a-bartender/) - This podcast episode provides a lot of great insights and tips for transitioning from an individual contributor to a manager.
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback
@@ -205,6 +206,7 @@
  * [Let's talk about the D-word: DELEGATING](https://fellow.app/blog/management/lets-talk-about-delegating) - This article provides some tips for delegating as a manager.
  * [How to hire](https://medium.com/eshares-blog/how-to-hire-34f4ded5f176#.jxkz3wrs3) - A good article on ways to think about hiring for your team.
  * [When Do We Actually Need to Meet in Person?](https://hbr.org/2021/07/when-do-we-actually-need-to-meet-in-person) - An article that helps provide insights into the types of meetings that should be in person.
+ * [Don’t Lose the Democratizing Effect of Remote Work](https://hbr.org/2021/08/dont-lose-the-democratizing-effect-of-remote-work) - A good article on remote work covers some interesting points on the hybrid work and how to avoid on-site favoritism.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
