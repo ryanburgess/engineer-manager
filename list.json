@@ -1216,5 +1216,11 @@
         "url": "https://hbr.org/2021/08/dont-lose-the-democratizing-effect-of-remote-work",
         "reason": "A good article on remote work covers some interesting points on the hybrid work and how to avoid on-site favoritism.",
         "cat": "article"
+    },
+    {
+        "title": "Engineering Managers Slack group",
+        "url": "https://engmanagers.github.io/",
+        "reason": "A Slack group for Engineering Managers to connect and learn from one another",
+        "cat": "community"
     }
 ]

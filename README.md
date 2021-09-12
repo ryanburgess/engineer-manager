@@ -217,6 +217,7 @@
 
 ## Communities
  * [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack) - Created by Michael Lopp, the Rands Leadership Slack exists to help longtime, new, and aspiring leaders to learn through conversation and sharing of ideas.
+ * [Engineering Managers Slack group](https://engmanagers.github.io/) - A Slack group for Engineering Managers to connect and learn from one another
 
 ## Contributing 
 1. Fork it
