@@ -1222,5 +1222,17 @@
         "url": "https://engmanagers.github.io/",
         "reason": "A Slack group for Engineering Managers to connect and learn from one another",
         "cat": "community"
+    },
+    {
+        "title": "Don’t Underestimate the Power of Silence",
+        "url": "https://hbr.org/2021/07/dont-underestimate-the-power-of-silence",
+        "reason": "A helpful article on goal setting and planning",
+        "cat": "article"
+    },
+    {
+        "title": "How to transition to a new manager role moving from an individual contributor?",
+        "url": "https://www.youtube.com/watch?v=QwN0xLBbqaQ",
+        "reason": "A short video with useful tips when you're making the transition from an individual contributor to a manager role.",
+        "cat": "video"
     }
 ]

@@ -84,6 +84,7 @@
  * [Ignite the Fire - How Managers Can Spark New Leaders](https://www.infoq.com/presentations/managers-launch-leaders/) - A video of a talk about three ingredients for inspiring non-manager leaders to emerge and provides simple techniques any team member can apply
  * [How vulnerability makes you a better leader | Tracy Young](https://www.youtube.com/watch?v=uOvK8roYVUU&ab_channel=TED) - TED Talk by Tracy Young who shares her story and demonstrates vulnerability and how important it is as a leader.
  * [Patty McCord: 8 lessons on building a company people enjoy working for](https://www.ted.com/talks/patty_mccord_8_lessons_on_building_a_company_people_enjoy_working_for) - An excellent TED talk by Patty McCord providing short tips for a better company working enviornment
+ * [How to transition to a new manager role moving from an individual contributor?](https://www.youtube.com/watch?v=QwN0xLBbqaQ) - A short video with useful tips when you're making the transition from an individual contributor to a manager role.
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/) - In this episode of FEHH the panelists talk about being an engineering manager. A lot of great insights!
@@ -207,6 +208,7 @@
  * [How to hire](https://medium.com/eshares-blog/how-to-hire-34f4ded5f176#.jxkz3wrs3) - A good article on ways to think about hiring for your team.
  * [When Do We Actually Need to Meet in Person?](https://hbr.org/2021/07/when-do-we-actually-need-to-meet-in-person) - An article that helps provide insights into the types of meetings that should be in person.
  * [Don’t Lose the Democratizing Effect of Remote Work](https://hbr.org/2021/08/dont-lose-the-democratizing-effect-of-remote-work) - A good article on remote work covers some interesting points on the hybrid work and how to avoid on-site favoritism.
+ * [Don’t Underestimate the Power of Silence](https://hbr.org/2021/07/dont-underestimate-the-power-of-silence) - A helpful article on goal setting and planning
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
