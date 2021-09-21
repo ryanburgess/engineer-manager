@@ -1240,5 +1240,23 @@
         "url": "https://github.com/ryanburgess/manager-interview-questions",
         "reason": "A helpful list of example manager interview questions.",
         "cat": "article"
+    },
+    {
+        "title": "Better Engineering Management: Top 3 Things Product Managers Dislike About Engineering Managers",
+        "url": "https://www.zumvie.com/better-engineering-management-top-3-things-product-managers-dislike-about-engineering-managers/?utm_source=github&utm_medium=repository&utm_campaign=content_views_from_github&utm_content=content_link",
+        "reason": "This article shares what engineering managers can do to better their relationship with product managers.",
+        "cat":"article"
+    },
+    {
+        "title": "The 3 Ways An Engineering Managers Role Differ Between a Startup and a Corporate",
+        "url": "https://www.zumvie.com/the-3-ways-an-engineering-managers-role-differ-between-a-startup-and-a-corporate/?utm_source=github&utm_medium=repository&utm_campaign=content_views_from_github&utm_content=content_link",
+        "reason": "This article covers the 3 ways the engineering manager’s role differs between a startup and an established corporation.",
+        "cat": "article"
+    },
+    {
+        "title": "Zumvie Slack Community",
+        "url": "https://www.zumvie.com/slack-community/?utm_source=github&utm_medium=repository&utm_campaign=slack_community&utm_content=join_link",
+        "reason": "Created by Zumvie, This Slack community is for Engineering Managers to connect and learn from one another-With AMA's, Lean coffees, etc.",
+        "cat": "community"
     }
 ]

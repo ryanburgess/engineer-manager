@@ -210,6 +210,8 @@
  * [Don’t Lose the Democratizing Effect of Remote Work](https://hbr.org/2021/08/dont-lose-the-democratizing-effect-of-remote-work) - A good article on remote work covers some interesting points on the hybrid work and how to avoid on-site favoritism.
  * [Don’t Underestimate the Power of Silence](https://hbr.org/2021/07/dont-underestimate-the-power-of-silence) - A helpful article on goal setting and planning
  * [Manager Interview Questions](https://github.com/ryanburgess/manager-interview-questions) - A helpful list of example manager interview questions.
+ * [Better Engineering Management: Top 3 Things Product Managers Dislike About Engineering Managers](https://www.zumvie.com/better-engineering-management-top-3-things-product-managers-dislike-about-engineering-managers/?utm_source=github&utm_medium=repository&utm_campaign=content_views_from_github&utm_content=content_link) - This article shares what engineering managers can do to better their relationship with product managers.
+ * [The 3 Ways An Engineering Managers Role Differ Between a Startup and a Corporate](https://www.zumvie.com/the-3-ways-an-engineering-managers-role-differ-between-a-startup-and-a-corporate/?utm_source=github&utm_medium=repository&utm_campaign=content_views_from_github&utm_content=content_link) - This article covers the 3 ways the engineering manager’s role differs between a startup and an established corporation.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
@@ -221,6 +223,7 @@
 ## Communities
  * [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack) - Created by Michael Lopp, the Rands Leadership Slack exists to help longtime, new, and aspiring leaders to learn through conversation and sharing of ideas.
  * [Engineering Managers Slack group](https://engmanagers.github.io/) - A Slack group for Engineering Managers to connect and learn from one another
+ * [Zumvie Slack Community](https://www.zumvie.com/slack-community/?utm_source=github&utm_medium=repository&utm_campaign=slack_community&utm_content=join_link) - Created by Zumvie, This Slack community is for Engineering Managers to connect and learn from one another-With AMA's, Lean coffees, etc.
 
 ## Contributing 
 1. Fork it
