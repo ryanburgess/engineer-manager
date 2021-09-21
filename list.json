@@ -1234,5 +1234,11 @@
         "url": "https://www.youtube.com/watch?v=QwN0xLBbqaQ",
         "reason": "A short video with useful tips when you're making the transition from an individual contributor to a manager role.",
         "cat": "video"
+    },
+    {
+        "title": "Manager Interview Questions",
+        "url": "https://github.com/ryanburgess/manager-interview-questions",
+        "reason": "A helpful list of example manager interview questions.",
+        "cat": "article"
     }
 ]

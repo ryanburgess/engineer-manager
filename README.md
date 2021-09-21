@@ -209,6 +209,7 @@
  * [When Do We Actually Need to Meet in Person?](https://hbr.org/2021/07/when-do-we-actually-need-to-meet-in-person) - An article that helps provide insights into the types of meetings that should be in person.
  * [Don’t Lose the Democratizing Effect of Remote Work](https://hbr.org/2021/08/dont-lose-the-democratizing-effect-of-remote-work) - A good article on remote work covers some interesting points on the hybrid work and how to avoid on-site favoritism.
  * [Don’t Underestimate the Power of Silence](https://hbr.org/2021/07/dont-underestimate-the-power-of-silence) - A helpful article on goal setting and planning
+ * [Manager Interview Questions](https://github.com/ryanburgess/manager-interview-questions) - A helpful list of example manager interview questions.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
