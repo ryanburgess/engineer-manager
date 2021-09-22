@@ -1264,5 +1264,11 @@
         "url": "https://www.amazon.com/Nonviolent-Communication-audiobook/dp/B00TKMBJKE",
         "reason": "This is an excellent book to help communicating with people and better understand being more empathetic to situations.",
         "cat": "book"
+    },
+    {
+        "title": "How to Intervene When a Manager Is Gaslighting Their Employees",
+        "url": "https://hbr.org/2021/09/how-to-intervene-when-a-manager-is-gaslighting-their-employees",
+        "reason": "A good article outlining what to look for when a manager might not be working collaboratively with their team.",
+        "cat": "article"
     }
 ]

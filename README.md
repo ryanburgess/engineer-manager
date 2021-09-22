@@ -213,6 +213,7 @@
  * [Manager Interview Questions](https://github.com/ryanburgess/manager-interview-questions) - A helpful list of example manager interview questions.
  * [Better Engineering Management: Top 3 Things Product Managers Dislike About Engineering Managers](https://www.zumvie.com/better-engineering-management-top-3-things-product-managers-dislike-about-engineering-managers/?utm_source=github&utm_medium=repository&utm_campaign=content_views_from_github&utm_content=content_link) - This article shares what engineering managers can do to better their relationship with product managers.
  * [The 3 Ways An Engineering Managers Role Differ Between a Startup and a Corporate](https://www.zumvie.com/the-3-ways-an-engineering-managers-role-differ-between-a-startup-and-a-corporate/?utm_source=github&utm_medium=repository&utm_campaign=content_views_from_github&utm_content=content_link) - This article covers the 3 ways the engineering manager’s role differs between a startup and an established corporation.
+ * [How to Intervene When a Manager Is Gaslighting Their Employees](https://hbr.org/2021/09/how-to-intervene-when-a-manager-is-gaslighting-their-employees) - A good article outlining what to look for when a manager might not be working collaboratively with their team.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
