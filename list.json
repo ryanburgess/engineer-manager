@@ -1276,5 +1276,11 @@
         "url": "https://www.tryexponent.com/courses/engineering-management",
         "reason": "This Try Exponent course on engineering leadership has a lot of useful topics to help prepare anyone for interviewing for an engineering manager role.",
         "cat": "courses"
+    },
+    {
+        "title": "Range: Why Generalists Triumph in a Specialized World",
+        "url": "https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484",
+        "reason": "An interesting read that provides a lot of great insights into specialists and generalists and how think about them when building teams.",
+        "cat": "book"
     }
 ]

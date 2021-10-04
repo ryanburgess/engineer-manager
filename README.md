@@ -65,6 +65,7 @@
  * [Managing to Change the World: The Nonprofit Manager's Guide to Getting Results](https://www.amazon.com/gp/product/1118137612) - This book goes into managing, hiring, firing, performance, and also has helpful cheat-sheets and worksheets for tough situations.
  * [The Leadership Challenge: How to Make Extraordinary Things Happen in Organizations](https://www.amazon.com/Leadership-Challenge-Extraordinary-Things-Organizations-dp-1119278961/dp/1119278961) - Book that elaborates on 5 key leadership principles aimed to find and grow successful leaders.
  * [Nonviolent Communication](https://www.amazon.com/Nonviolent-Communication-audiobook/dp/B00TKMBJKE) - This is an excellent book to help communicating with people and better understand being more empathetic to situations.
+ * [Range: Why Generalists Triumph in a Specialized World](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484) - An interesting read that provides a lot of great insights into specialists and generalists and how think about them when building teams.
 
 ## Videos
  * [Ryan Burgess' Manager Videos](https://www.youtube.com/watch?v=eRtuBk7GMC4&list=PLoi4aiq4kBvt7gtoWFgp74-8YULZaM9LK) - A YouTube playlist of short video clips that cover a variety of leadership topics focused on engineering management.
