@@ -227,6 +227,9 @@
  * [Engineering Managers Slack group](https://engmanagers.github.io/) - A Slack group for Engineering Managers to connect and learn from one another
  * [Zumvie Slack Community](https://www.zumvie.com/slack-community/?utm_source=github&utm_medium=repository&utm_campaign=slack_community&utm_content=join_link) - Created by Zumvie, This Slack community is for Engineering Managers to connect and learn from one another-With AMA's, Lean coffees, etc.
 
+## Courses
+ * [Engineering Management Interview Course](https://www.tryexponent.com/courses/engineering-management) - This Try Exponent course on engineering leadership has a lot of useful topics to help prepare anyone for interviewing for an engineering manager role.
+
 ## Contributing 
 1. Fork it
 2. Run `npm install`

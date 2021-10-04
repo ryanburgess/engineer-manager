@@ -1270,5 +1270,11 @@
         "url": "https://hbr.org/2021/09/how-to-intervene-when-a-manager-is-gaslighting-their-employees",
         "reason": "A good article outlining what to look for when a manager might not be working collaboratively with their team.",
         "cat": "article"
+    },
+    {
+        "title": "Engineering Management Interview Course",
+        "url": "https://www.tryexponent.com/courses/engineering-management",
+        "reason": "This Try Exponent course on engineering leadership has a lot of useful topics to help prepare anyone for interviewing for an engineering manager role.",
+        "cat": "courses"
     }
 ]
