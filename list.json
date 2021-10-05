@@ -1300,5 +1300,17 @@
         "url": "https://www.amazon.ca/15-Commitments-Conscious-Leadership-Sustainable/dp/0990976904/",
         "reason": "A book that covers some interesting insights for leadership in the short-term vs the long-term.",
         "cat": "book"
+    },
+    {
+        "title": "The Making of a Manager: What to Do When Everyone Looks to You",
+        "url": "https://www.amazon.ca/Making-Manager-What-Everyone-Looks/dp/0735219567",
+        "reason": "This book provides a lot of practical tips for early management.",
+        "cat": "book"
+    },
+    {
+        "title": "Becoming a Manager",
+        "url": "https://www.amazon.com/Becoming-Manager-Managers-Challenges-Leadership/dp/1633696960",
+        "reason": "A book full of useful tips for new managers.",
+        "cat": "book"
     }
 ]
