@@ -1282,5 +1282,23 @@
         "url": "https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484",
         "reason": "An interesting read that provides a lot of great insights into specialists and generalists and how think about them when building teams.",
         "cat": "book"
+    },
+    {
+        "title": "The Tech Exec Podcast",
+        "url": "https://www.techexecpodcast.com/",
+        "reason": "A podcast for CTOs, VPs, and other leaders in Tech wanting to instill vision instead of running a kindergarten, and working on creating high performant autonomous teams",
+        "cat": "podcast"
+    },
+    {
+        "title": "Staff Engineer: Leadership beyond the management track",
+        "url": "https://www.amazon.com/Staff-Engineer-Leadership-beyond-management-ebook/dp/B08RMSHYGG",
+        "reason": "A great book for an engineer wanting to level up their leadership skills but not head down the management track.",
+        "cat": "book"
+    },
+    {
+        "title": "The 15 Commitments of Conscious Leadership: A New Paradigm for Sustainable Success",
+        "url": "https://www.amazon.ca/15-Commitments-Conscious-Leadership-Sustainable/dp/0990976904/",
+        "reason": "A book that covers some interesting insights for leadership in the short-term vs the long-term.",
+        "cat": "book"
     }
 ]

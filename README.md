@@ -66,6 +66,8 @@
  * [The Leadership Challenge: How to Make Extraordinary Things Happen in Organizations](https://www.amazon.com/Leadership-Challenge-Extraordinary-Things-Organizations-dp-1119278961/dp/1119278961) - Book that elaborates on 5 key leadership principles aimed to find and grow successful leaders.
  * [Nonviolent Communication](https://www.amazon.com/Nonviolent-Communication-audiobook/dp/B00TKMBJKE) - This is an excellent book to help communicating with people and better understand being more empathetic to situations.
  * [Range: Why Generalists Triumph in a Specialized World](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484) - An interesting read that provides a lot of great insights into specialists and generalists and how think about them when building teams.
+ * [Staff Engineer: Leadership beyond the management track](https://www.amazon.com/Staff-Engineer-Leadership-beyond-management-ebook/dp/B08RMSHYGG) - A great book for an engineer wanting to level up their leadership skills but not head down the management track.
+ * [The 15 Commitments of Conscious Leadership: A New Paradigm for Sustainable Success](https://www.amazon.ca/15-Commitments-Conscious-Leadership-Sustainable/dp/0990976904/) - A book that covers some interesting insights for leadership in the short-term vs the long-term.
 
 ## Videos
  * [Ryan Burgess' Manager Videos](https://www.youtube.com/watch?v=eRtuBk7GMC4&list=PLoi4aiq4kBvt7gtoWFgp74-8YULZaM9LK) - A YouTube playlist of short video clips that cover a variety of leadership topics focused on engineering management.
@@ -115,6 +117,7 @@
  * [Happy Path Programming - Vulnerability & Additive Hiring with Dianne Marsh](https://anchor.fm/happypathprogramming/episodes/24-Vulnerability--Additive-Hiring-with-Dianne-Marsh-eu4359/a-a41ih0t) - Some great insights into leading through vulnerability from Netflix Engineering Director, Dianne Marsh.
  * [Leading leaders who lead engineers](https://changelog.com/podcast/453) - A podcast episode that discusses growing leaders with Lara Hogan, author of Resilient Management
  * [Front End Happy Hour - Individual contributor to manager](https://frontendhappyhour.com/episodes/individual-contributor-to-manager-transitioning-into-a-bartender/) - This podcast episode provides a lot of great insights and tips for transitioning from an individual contributor to a manager.
+ * [The Tech Exec Podcast](https://www.techexecpodcast.com/) - A podcast for CTOs, VPs, and other leaders in Tech wanting to instill vision instead of running a kindergarten, and working on creating high performant autonomous teams
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback
