@@ -1312,5 +1312,11 @@
         "url": "https://www.amazon.com/Becoming-Manager-Managers-Challenges-Leadership/dp/1633696960",
         "reason": "A book full of useful tips for new managers.",
         "cat": "book"
+    },
+    {
+        "title": "Leading the Unleadable: How to Manage Mavericks, Cynics, Divas, and Other Difficult People",
+        "url": "https://www.amazon.com/Leading-Unleadable-Manage-Mavericks-Difficult/dp/0814437605",
+        "reason": "This book provides tips for dealing with the difficult people on your team.",
+        "cat": "book"
     }
 ]
