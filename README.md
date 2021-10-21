@@ -71,6 +71,7 @@
  * [The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.ca/Making-Manager-What-Everyone-Looks/dp/0735219567) - This book provides a lot of practical tips for early management.
  * [Becoming a Manager](https://www.amazon.com/Becoming-Manager-Managers-Challenges-Leadership/dp/1633696960) - A book full of useful tips for new managers.
  * [Leading the Unleadable: How to Manage Mavericks, Cynics, Divas, and Other Difficult People](https://www.amazon.com/Leading-Unleadable-Manage-Mavericks-Difficult/dp/0814437605) - This book provides tips for dealing with the difficult people on your team.
+ * [Just Work: Get Sh*t Done, Fast & Fair](https://kimmalonescott.com/books/just-work-book/) - Kim Scott (the author of Radical Candor) revisits the advice of her first book through a lens of inclusion. It carries the tag-line 'How to root out bias, prejudice, and bullying to build a kick-ass culture of inclusivity.' 
 
 ## Videos
  * [Ryan Burgess' Manager Videos](https://www.youtube.com/watch?v=eRtuBk7GMC4&list=PLoi4aiq4kBvt7gtoWFgp74-8YULZaM9LK) - A YouTube playlist of short video clips that cover a variety of leadership topics focused on engineering management.
