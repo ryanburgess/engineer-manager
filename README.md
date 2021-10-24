@@ -122,6 +122,7 @@
  * [Leading leaders who lead engineers](https://changelog.com/podcast/453) - A podcast episode that discusses growing leaders with Lara Hogan, author of Resilient Management
  * [Front End Happy Hour - Individual contributor to manager](https://frontendhappyhour.com/episodes/individual-contributor-to-manager-transitioning-into-a-bartender/) - This podcast episode provides a lot of great insights and tips for transitioning from an individual contributor to a manager.
  * [The Tech Exec Podcast](https://www.techexecpodcast.com/) - A podcast for CTOs, VPs, and other leaders in Tech wanting to instill vision instead of running a kindergarten, and working on creating high performant autonomous teams
+ * [alphalist Podcast | Technical Leadership and Technology for Technical Leaders](https://alphalist.com/podcast/?utm_source=github&utm_medium=Referral&utm_campaign=outreach&utm_content=podcast) - Learn about technical leadership, technological trends and more from top CTOs and other technical leaders. A podcast for CTOs, VPs, and other leaders in Tech wanting to improve and grow their knowledge through interviews of top tech thought leaders.
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback
@@ -234,7 +235,7 @@
  * [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack) - Created by Michael Lopp, the Rands Leadership Slack exists to help longtime, new, and aspiring leaders to learn through conversation and sharing of ideas.
  * [Engineering Managers Slack group](https://engmanagers.github.io/) - A Slack group for Engineering Managers to connect and learn from one another
  * [Zumvie Slack Community](https://www.zumvie.com/slack-community/?utm_source=github&utm_medium=repository&utm_campaign=slack_community&utm_content=join_link) - Created by Zumvie, This Slack community is for Engineering Managers to connect and learn from one another-With AMA's, Lean coffees, etc.
- * [alphalist Community | Network for Technical Leaders](https://alphalist.com/?utm_source=github&utm_medium=Referral&utm_campaign=outreach&utm_content=community) - The alphalist community is an exclusive community for technical leaders (e.g. engineering managers, CTOs etc.) - that share ideas and advice on an active Slack group and at events.  Ideal for those with a tech product (e.g. They discourage CTO consultants, recruiters, and agencies from joining). 
+ * [alphalist Community | Network for Technical Leaders](https://alphalist.com/?utm_source=github&utm_medium=Referral&utm_campaign=outreach&utm_content=community) - A community where technical leaders (e.g. engineering managers, CTOs etc.)  share ideas and advice on an active Slack group and at events.  Ideal for those with a tech product (e.g. They discourage CTO consultants, recruiters, and agencies from joining). 
 
 ## Courses
  * [Engineering Management Interview Course](https://www.tryexponent.com/courses/engineering-management) - This Try Exponent course on engineering leadership has a lot of useful topics to help prepare anyone for interviewing for an engineering manager role.
