@@ -1348,5 +1348,11 @@
         "url": "https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2",
         "reason": "This book provides a lot of insights on how ownership is a key success factor. Jocko Willink shares his experiences as a Navy SEALs but gives a lot of enterprise examples on how we should push for more ownership as leaders.",
         "cat": "book"
+    },
+    {
+        "title": "The Top 5 Engineering Management Questions Answered",
+        "url": "https://www.zumvie.com/the-top-5-engineering-management-questions-answered/",
+        "reason": "An article highlighting 5 engineering management values.",
+        "cat": "article"
     }
 ]
