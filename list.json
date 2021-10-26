@@ -1318,5 +1318,11 @@
         "url": "https://www.amazon.com/Leading-Unleadable-Manage-Mavericks-Difficult/dp/0814437605",
         "reason": "This book provides tips for dealing with the difficult people on your team.",
         "cat": "book"
+    },
+    {
+        "title": "10 Things I Wish I Knew as a New Manager",
+        "url": "https://fellow.app/blog/management/things-you-need-to-know-as-a-new-manager",
+        "reason": "A good article that helps prepare new managers",
+        "cat": "article"
     }
 ]
