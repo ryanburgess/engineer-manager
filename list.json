@@ -1354,5 +1354,11 @@
         "url": "https://www.zumvie.com/the-top-5-engineering-management-questions-answered/",
         "reason": "An article highlighting 5 engineering management values.",
         "cat": "article"
+    },
+    {
+        "title": "Think Again: The Power of Knowing What You Don't Know",
+        "url": "https://www.amazon.com/Think-Again-Power-Knowing-What/dp/1984878107",
+        "reason": "A good book that highlights the importance to being open to new ideas and rethinking assumptions.",
+        "cat": "book"
     }
 ]
