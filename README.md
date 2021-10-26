@@ -72,6 +72,7 @@
  * [Becoming a Manager](https://www.amazon.com/Becoming-Manager-Managers-Challenges-Leadership/dp/1633696960) - A book full of useful tips for new managers.
  * [Leading the Unleadable: How to Manage Mavericks, Cynics, Divas, and Other Difficult People](https://www.amazon.com/Leading-Unleadable-Manage-Mavericks-Difficult/dp/0814437605) - This book provides tips for dealing with the difficult people on your team.
  * [Just Work: Get Sh*t Done, Fast & Fair](https://kimmalonescott.com/books/just-work-book/) - Kim Scott (the author of Radical Candor) revisits the advice of her first book through a lens of inclusion. It carries the tag-line 'How to root out bias, prejudice, and bullying to build a kick-ass culture of inclusivity.' 
+ * [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) - This book provides a lot of insights on how ownership is a key success factor. Jocko Willink shares his experiences as a Navy SEALs but gives a lot of enterprise examples on how we should push for more ownership as leaders.
 
 ## Videos
  * [Ryan Burgess' Manager Videos](https://www.youtube.com/watch?v=eRtuBk7GMC4&list=PLoi4aiq4kBvt7gtoWFgp74-8YULZaM9LK) - A YouTube playlist of short video clips that cover a variety of leadership topics focused on engineering management.
