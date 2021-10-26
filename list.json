@@ -1320,9 +1320,34 @@
         "cat": "book"
     },
     {
+<<<<<<< HEAD
         "title": "10 Things I Wish I Knew as a New Manager",
         "url": "https://fellow.app/blog/management/things-you-need-to-know-as-a-new-manager",
         "reason": "A good article that helps prepare new managers",
         "cat": "article"
+=======
+        "title": "Just Work: Get Sh*t Done, Fast & Fair",
+        "url": "https://kimmalonescott.com/books/just-work-book/",
+        "reason": "Kim Scott (the author of Radical Candor) revisits the advice of her first book through a lens of inclusion. It carries the tag-line 'How to root out bias, prejudice, and bullying to build a kick-ass culture of inclusivity.' ",
+        "cat": "book"
+    },
+    {
+        "title": "alphalist Community | Network for Technical Leaders",
+        "url": "https://alphalist.com/?utm_source=github&utm_medium=Referral&utm_campaign=outreach&utm_content=community",
+        "reason": "A community where technical leaders (e.g. engineering managers, CTOs etc.)  share ideas and advice on an active Slack group and at events.  Ideal for those with a tech product (e.g. They discourage CTO consultants, recruiters, and agencies from joining). ",
+        "cat": "community"
+    },
+    {
+        "title": "alphalist Podcast | Technical Leadership and Technology for Technical Leaders",
+        "url": "https://alphalist.com/podcast/?utm_source=github&utm_medium=Referral&utm_campaign=outreach&utm_content=podcast",
+        "reason": "Learn about technical leadership, technological trends and more from top CTOs and other technical leaders. A podcast for CTOs, VPs, and other leaders in Tech wanting to improve and grow their knowledge through interviews of top tech thought leaders.",
+        "cat": "podcast"
+    },
+    {
+        "title": "Extreme Ownership: How U.S. Navy SEALs Lead and Win",
+        "url": "https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2",
+        "reason": "This book provides a lot of insights on how ownership is a key success factor. Jocko Willink shares his experiences as a Navy SEALs but gives a lot of enterprise examples on how we should push for more ownership as leaders.",
+        "cat": "book"
+>>>>>>> 2a88b82fa66e414809765922919cbb4eec3a9d4c
     }
 ]

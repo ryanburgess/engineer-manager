@@ -71,6 +71,8 @@
  * [The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.ca/Making-Manager-What-Everyone-Looks/dp/0735219567) - This book provides a lot of practical tips for early management.
  * [Becoming a Manager](https://www.amazon.com/Becoming-Manager-Managers-Challenges-Leadership/dp/1633696960) - A book full of useful tips for new managers.
  * [Leading the Unleadable: How to Manage Mavericks, Cynics, Divas, and Other Difficult People](https://www.amazon.com/Leading-Unleadable-Manage-Mavericks-Difficult/dp/0814437605) - This book provides tips for dealing with the difficult people on your team.
+ * [Just Work: Get Sh*t Done, Fast & Fair](https://kimmalonescott.com/books/just-work-book/) - Kim Scott (the author of Radical Candor) revisits the advice of her first book through a lens of inclusion. It carries the tag-line 'How to root out bias, prejudice, and bullying to build a kick-ass culture of inclusivity.' 
+ * [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) - This book provides a lot of insights on how ownership is a key success factor. Jocko Willink shares his experiences as a Navy SEALs but gives a lot of enterprise examples on how we should push for more ownership as leaders.
 
 ## Videos
  * [Ryan Burgess' Manager Videos](https://www.youtube.com/watch?v=eRtuBk7GMC4&list=PLoi4aiq4kBvt7gtoWFgp74-8YULZaM9LK) - A YouTube playlist of short video clips that cover a variety of leadership topics focused on engineering management.
@@ -121,6 +123,7 @@
  * [Leading leaders who lead engineers](https://changelog.com/podcast/453) - A podcast episode that discusses growing leaders with Lara Hogan, author of Resilient Management
  * [Front End Happy Hour - Individual contributor to manager](https://frontendhappyhour.com/episodes/individual-contributor-to-manager-transitioning-into-a-bartender/) - This podcast episode provides a lot of great insights and tips for transitioning from an individual contributor to a manager.
  * [The Tech Exec Podcast](https://www.techexecpodcast.com/) - A podcast for CTOs, VPs, and other leaders in Tech wanting to instill vision instead of running a kindergarten, and working on creating high performant autonomous teams
+ * [alphalist Podcast | Technical Leadership and Technology for Technical Leaders](https://alphalist.com/podcast/?utm_source=github&utm_medium=Referral&utm_campaign=outreach&utm_content=podcast) - Learn about technical leadership, technological trends and more from top CTOs and other technical leaders. A podcast for CTOs, VPs, and other leaders in Tech wanting to improve and grow their knowledge through interviews of top tech thought leaders.
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback
@@ -234,6 +237,7 @@
  * [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack) - Created by Michael Lopp, the Rands Leadership Slack exists to help longtime, new, and aspiring leaders to learn through conversation and sharing of ideas.
  * [Engineering Managers Slack group](https://engmanagers.github.io/) - A Slack group for Engineering Managers to connect and learn from one another
  * [Zumvie Slack Community](https://www.zumvie.com/slack-community/?utm_source=github&utm_medium=repository&utm_campaign=slack_community&utm_content=join_link) - Created by Zumvie, This Slack community is for Engineering Managers to connect and learn from one another-With AMA's, Lean coffees, etc.
+ * [alphalist Community | Network for Technical Leaders](https://alphalist.com/?utm_source=github&utm_medium=Referral&utm_campaign=outreach&utm_content=community) - A community where technical leaders (e.g. engineering managers, CTOs etc.)  share ideas and advice on an active Slack group and at events.  Ideal for those with a tech product (e.g. They discourage CTO consultants, recruiters, and agencies from joining). 
 
 ## Courses
  * [Engineering Management Interview Course](https://www.tryexponent.com/courses/engineering-management) - This Try Exponent course on engineering leadership has a lot of useful topics to help prepare anyone for interviewing for an engineering manager role.
