@@ -39,7 +39,6 @@
  * [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.com/dp/0201835959/)
  * [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/dp/0062273205/)
  * [Quiet Leadership](https://www.amazon.com/Quiet-Leadership-Steps-Transforming-Performance/dp/0060835915)
- * [Multipliers](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395) - How The Best Leaders Make Everyone Smarter
  * [HBR's 10 Must Reads on Managing Yourself](https://www.amazon.com/Managing-Yourself-Measure-Clayton-Christensen/dp/1422157997) - A book with HBR's 10 must read articles on managing yourself.
  * [Originals - How Non-Conformists Move the World](https://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/0525429565)
  * [What Every Body Is Saying](https://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294)
@@ -75,6 +74,7 @@
  * [Just Work: Get Sh*t Done, Fast & Fair](https://kimmalonescott.com/books/just-work-book/) - Kim Scott (the author of Radical Candor) revisits the advice of her first book through a lens of inclusion. It carries the tag-line 'How to root out bias, prejudice, and bullying to build a kick-ass culture of inclusivity.' 
  * [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) - This book provides a lot of insights on how ownership is a key success factor. Jocko Willink shares his experiences as a Navy SEALs but gives a lot of enterprise examples on how we should push for more ownership as leaders.
  * [Think Again: The Power of Knowing What You Don't Know](https://www.amazon.com/Think-Again-Power-Knowing-What/dp/1984878107) - A good book that highlights the importance to being open to new ideas and rethinking assumptions.
+ * [Multipliers](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395) - How The Best Leaders Make Everyone Smarter
 
 ## Videos
  * [Ryan Burgess' Manager Videos](https://www.youtube.com/watch?v=eRtuBk7GMC4&list=PLoi4aiq4kBvt7gtoWFgp74-8YULZaM9LK) - A YouTube playlist of short video clips that cover a variety of leadership topics focused on engineering management.
