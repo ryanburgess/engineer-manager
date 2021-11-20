@@ -229,6 +229,8 @@
  * [10 Things I Wish I Knew as a New Manager](https://fellow.app/blog/management/things-you-need-to-know-as-a-new-manager) - A good article that helps prepare new managers
  * [The Top 5 Engineering Management Questions Answered](https://www.zumvie.com/the-top-5-engineering-management-questions-answered/) - An article highlighting 5 engineering management values.
  * [High-Performing Teams Need Psychological Safety. Here’s How to Create It](https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it) - Five helpful tips in this article to help build trust in a team.
+ * [5 New Rules for Leading a Hybrid Team](https://hbr.org/2021/11/5-new-rules-for-leading-a-hybrid-team) - Some great ideas for improving the hybrid working model for your team.
+ * [Managering in terrible times](https://larahogan.me/blog/being-a-manager-in-terrible-times/) - An article with some good insights into how to manage during difficult times
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
