@@ -1414,5 +1414,11 @@
         "url": "https://www.mentoring-club.com/",
         "reason": "A non-profit mentoring group.",
         "cat": "mentoring"
+    },
+    {
+        "title": "Guidance Counselor 2.0 w/Ryan Burgess on Hiring and Leadership in Tech",
+        "url": "https://www.youtube.com/watch?v=9_BmKocysd4&ab_channel=TaylorDesseyn",
+        "reason": "An interview with Ryan Burgess talking about hiring.",
+        "cat": "video"
     }
 ]
