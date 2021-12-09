@@ -1384,5 +1384,35 @@
         "url": "https://larahogan.me/blog/being-a-manager-in-terrible-times/",
         "reason": "An article with some good insights into how to manage during difficult times",
         "cat": "article"
+    },
+    {
+        "title": "Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs",
+        "url": "https://www.amazon.com/gp/product/B08GF7P3G8/ref=as_li_tl",
+        "reason": "This book focuses on specifics for engineering managers.",
+        "cat": "book"
+    },
+    {
+        "title": "An Elegant Puzzle: Systems of Engineering Management",
+        "url": "https://www.amazon.com/gp/product/B07QYCHJ7V/ref=as_li_tl",
+        "reason": "This book does a good job focusing on the challenges of being an engineering manager and provides examples of solutions.",
+        "cat": "book"
+    },
+    {
+        "title": "The Phoenix Project",
+        "url": "https://www.amazon.com/gp/product/1942788290/ref=as_li_tl",
+        "reason": "This book teaches about DevOps practices and looks at managing teams from perspective of inputs and outputs.",
+        "cat": "book"
+    },
+    {
+        "title": "Level Up",
+        "url": "https://levelup.patkua.com/",
+        "reason": "A curated newsletter for leaders in tech.",
+        "cat": "newsletter"
+    },
+    {
+        "title": "The Mentoring Club",
+        "url": "https://www.mentoring-club.com/",
+        "reason": "A non-profit mentoring group.",
+        "cat": "mentoring"
     }
 ]

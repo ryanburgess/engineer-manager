@@ -7,6 +7,7 @@
  * [Plato](https://www.platohq.com/)
  * [SCORE](https://www.score.org/)
  * [Tech Leader Mentoring Group](https://marcusblankenship.com/tech-lead-mentoring-group/)
+ * [The Mentoring Club](https://www.mentoring-club.com/) - A non-profit mentoring group.
 
 ## Books
  * [Talking with Tech Leads: From Novices to Practitioners](https://www.amazon.com/Talking-Tech-Leads-Novices-Practitioners/dp/150581748X)
@@ -75,6 +76,9 @@
  * [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) - This book provides a lot of insights on how ownership is a key success factor. Jocko Willink shares his experiences as a Navy SEALs but gives a lot of enterprise examples on how we should push for more ownership as leaders.
  * [Think Again: The Power of Knowing What You Don't Know](https://www.amazon.com/Think-Again-Power-Knowing-What/dp/1984878107) - A good book that highlights the importance to being open to new ideas and rethinking assumptions.
  * [Multipliers](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395) - How The Best Leaders Make Everyone Smarter
+ * [Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs](https://www.amazon.com/gp/product/B08GF7P3G8/ref=as_li_tl) - This book focuses on specifics for engineering managers.
+ * [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/gp/product/B07QYCHJ7V/ref=as_li_tl) - This book does a good job focusing on the challenges of being an engineering manager and provides examples of solutions.
+ * [The Phoenix Project](https://www.amazon.com/gp/product/1942788290/ref=as_li_tl) - This book teaches about DevOps practices and looks at managing teams from perspective of inputs and outputs.
 
 ## Videos
  * [Ryan Burgess' Manager Videos](https://www.youtube.com/watch?v=eRtuBk7GMC4&list=PLoi4aiq4kBvt7gtoWFgp74-8YULZaM9LK) - A YouTube playlist of short video clips that cover a variety of leadership topics focused on engineering management.
@@ -238,6 +242,7 @@
  * [Better Allies](https://betterallies.us19.list-manage.com/subscribe?u=cc808df089bf312fc1a37916d&id=575137cdc6) - This is a must have resource in your inbox. Each week there are five great tips to help foster a more inclusive environment.
  * [CTO Insights with Tosho Trajanov](https://insights.toshotrajanov.com/) - Weekly reading on software engineering & technical leadership.
  * [Fellow TLDR newsletter](https://fellow.app/newsletter/) - Helpful leadership tips in a regular newsletter.
+ * [Level Up](https://levelup.patkua.com/) - A curated newsletter for leaders in tech.
 
 ## Communities
  * [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack) - Created by Michael Lopp, the Rands Leadership Slack exists to help longtime, new, and aspiring leaders to learn through conversation and sharing of ideas.
