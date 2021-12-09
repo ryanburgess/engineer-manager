@@ -1420,5 +1420,11 @@
         "url": "https://www.youtube.com/watch?v=9_BmKocysd4&ab_channel=TaylorDesseyn",
         "reason": "An interview with Ryan Burgess talking about hiring.",
         "cat": "video"
+    },
+    {
+        "title": "Unicorn Finders w/Ryan Burgess + Netflix Engineer Manager on Leadership in Tech",
+        "url": "https://www.youtube.com/watch?v=neidYqY4VPc&t=847s&ab_channel=TheUnicornFinders",
+        "reason": "A panel discussion talking about Engineering Management.",
+        "cat": "video"
     }
 ]

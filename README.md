@@ -101,6 +101,7 @@
  * [Patty McCord: 8 lessons on building a company people enjoy working for](https://www.ted.com/talks/patty_mccord_8_lessons_on_building_a_company_people_enjoy_working_for) - An excellent TED talk by Patty McCord providing short tips for a better company working enviornment
  * [How to transition to a new manager role moving from an individual contributor?](https://www.youtube.com/watch?v=QwN0xLBbqaQ) - A short video with useful tips when you're making the transition from an individual contributor to a manager role.
  * [Guidance Counselor 2.0 w/Ryan Burgess on Hiring and Leadership in Tech](https://www.youtube.com/watch?v=9_BmKocysd4&ab_channel=TaylorDesseyn) - An interview with Ryan Burgess talking about hiring.
+ * [Unicorn Finders w/Ryan Burgess + Netflix Engineer Manager on Leadership in Tech](https://www.youtube.com/watch?v=neidYqY4VPc&t=847s&ab_channel=TheUnicornFinders) - A panel discussion talking about Engineering Management.
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/) - In this episode of FEHH the panelists talk about being an engineering manager. A lot of great insights!
