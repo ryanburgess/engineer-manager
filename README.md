@@ -237,6 +237,7 @@
  * [High-Performing Teams Need Psychological Safety. Here’s How to Create It](https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it) - Five helpful tips in this article to help build trust in a team.
  * [5 New Rules for Leading a Hybrid Team](https://hbr.org/2021/11/5-new-rules-for-leading-a-hybrid-team) - Some great ideas for improving the hybrid working model for your team.
  * [Managering in terrible times](https://larahogan.me/blog/being-a-manager-in-terrible-times/) - An article with some good insights into how to manage during difficult times
+ * [Forget New Year’s Resolutions and Conduct a ‘Past Year Review’ Instead](https://tim.blog/2021/12/27/past-year-review/) - An interesting perspective on New Year's resolutions and focusing more on the year in review from the past year.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
