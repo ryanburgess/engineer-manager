@@ -238,6 +238,7 @@
  * [5 New Rules for Leading a Hybrid Team](https://hbr.org/2021/11/5-new-rules-for-leading-a-hybrid-team) - Some great ideas for improving the hybrid working model for your team.
  * [Managering in terrible times](https://larahogan.me/blog/being-a-manager-in-terrible-times/) - An article with some good insights into how to manage during difficult times
  * [Forget New Year’s Resolutions and Conduct a ‘Past Year Review’ Instead](https://tim.blog/2021/12/27/past-year-review/) - An interesting perspective on New Year's resolutions and focusing more on the year in review from the past year.
+ * [Ruthless Prioritization](https://www.projectmanagement.com/contentPages/article.cfm?ID=637771&thisPageURL=/articles/637771/Ruthless-Prioritization#_=_) - An article outlining how to prioritize better as a leader.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
