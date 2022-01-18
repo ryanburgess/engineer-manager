@@ -32,7 +32,6 @@
  * [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency-ebook/dp/B004SOVC2Y)
  * [The Principles of Product Development Flow: Second Generation Lean Product Development](https://www.amazon.com/Principles-Product-Development-Flow-Generation-ebook/dp/B007TKU0O0)
  * [Drive: The Surprising Truth About What Motivates Us](http://www.danpink.com/books/drive/)
- * [The Phoenix Project](https://www.bookdepository.com/The-Phoenix-Project/9780988262508)
  * [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around) - A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.
  * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
  * [Building Great Startup Teams](https://www.amazon.co.uk/Building-Great-Startup-Teams-Attracting-ebook/dp/B01BVQS62A/)
