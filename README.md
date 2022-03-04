@@ -238,6 +238,7 @@
  * [Managering in terrible times](https://larahogan.me/blog/being-a-manager-in-terrible-times/) - An article with some good insights into how to manage during difficult times
  * [Forget New Year’s Resolutions and Conduct a ‘Past Year Review’ Instead](https://tim.blog/2021/12/27/past-year-review/) - An interesting perspective on New Year's resolutions and focusing more on the year in review from the past year.
  * [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) - An article outlining how to prioritize better as a leader.
+ * [Overcoming Imposter Syndrome When Starting a Career in Tech](https://doordash.engineering/2022/02/03/overcoming-imposter-syndrome-when-starting-a-career-in-tech%ef%bf%bc/) - An interesting article that may help some managers who may be suffering with imposter syndrome. 
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
