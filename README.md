@@ -239,6 +239,7 @@
  * [Forget New Year’s Resolutions and Conduct a ‘Past Year Review’ Instead](https://tim.blog/2021/12/27/past-year-review/) - An interesting perspective on New Year's resolutions and focusing more on the year in review from the past year.
  * [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) - An article outlining how to prioritize better as a leader.
  * [Overcoming Imposter Syndrome When Starting a Career in Tech￼](https://doordash.engineering/2022/02/03/overcoming-imposter-syndrome-when-starting-a-career-in-tech%ef%bf%bc/) - An interesting article that may help some managers who may be suffering with imposter syndrome.
+ * [The Only Place to Lead is From the Front](https://www.inc.com/tony-hunter/the-only-place-to-lead-is-from-front.html) - A good article that helps leaders prepare for the challenging times and get ahead of them.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
