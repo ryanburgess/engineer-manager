@@ -1438,5 +1438,11 @@
         "url": "https://doordash.engineering/2022/02/03/overcoming-imposter-syndrome-when-starting-a-career-in-tech%ef%bf%bc/",
         "reason": "An interesting article that may help some managers who may be suffering with imposter syndrome.",
         "cat": "article"
+    },
+    {
+        "title": "Developing Leadership - Episode 5 | Should Engineers be Masters of None? with Anton Drukh from Snyk",
+        "url": "https://www.developingleadership.co/episode/episode-5-should-engineers-be-masters-of-none-with-anton-drukh-from-snyk",
+        "reason": "Engineering leaders build organizations, and do more than just contribute lines of code.",
+        "cat": "podcast"
     }
 ]

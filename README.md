@@ -131,6 +131,7 @@
  * [Front End Happy Hour - Individual contributor to manager](https://frontendhappyhour.com/episodes/individual-contributor-to-manager-transitioning-into-a-bartender/) - This podcast episode provides a lot of great insights and tips for transitioning from an individual contributor to a manager.
  * [The Tech Exec Podcast](https://www.techexecpodcast.com/) - A podcast for CTOs, VPs, and other leaders in Tech wanting to instill vision instead of running a kindergarten, and working on creating high performant autonomous teams
  * [alphalist Podcast | Technical Leadership and Technology for Technical Leaders](https://alphalist.com/podcast/?utm_source=github&utm_medium=Referral&utm_campaign=outreach&utm_content=podcast) - Learn about technical leadership, technological trends and more from top CTOs and other technical leaders. A podcast for CTOs, VPs, and other leaders in Tech wanting to improve and grow their knowledge through interviews of top tech thought leaders.
+ * [Developing Leadership - Episode 5 | Should Engineers be Masters of None? with Anton Drukh from Snyk](https://www.developingleadership.co/episode/episode-5-should-engineers-be-masters-of-none-with-anton-drukh-from-snyk) - Engineering leaders build organizations, and do more than just contribute lines of code.
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback
