@@ -1,7 +1,4 @@
-# Engineering Manager Resources 
- A list of engineering manager resource links. 
- 
- Follow [Ryan Burgess on Twitter](http://twitter.com/burgessdryan)
+
 
 ## Mentoring
  * [Plato](https://www.platohq.com/)
