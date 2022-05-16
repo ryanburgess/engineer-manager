@@ -131,6 +131,7 @@
  * [Front End Happy Hour - Individual contributor to manager](https://frontendhappyhour.com/episodes/individual-contributor-to-manager-transitioning-into-a-bartender/) - This podcast episode provides a lot of great insights and tips for transitioning from an individual contributor to a manager.
  * [The Tech Exec Podcast](https://www.techexecpodcast.com/) - A podcast for CTOs, VPs, and other leaders in Tech wanting to instill vision instead of running a kindergarten, and working on creating high performant autonomous teams
  * [alphalist Podcast | Technical Leadership and Technology for Technical Leaders](https://alphalist.com/podcast/?utm_source=github&utm_medium=Referral&utm_campaign=outreach&utm_content=podcast) - Learn about technical leadership, technological trends and more from top CTOs and other technical leaders. A podcast for CTOs, VPs, and other leaders in Tech wanting to improve and grow their knowledge through interviews of top tech thought leaders.
+ * [Developing Leadership - Episode 5 | Should Engineers be Masters of None? with Anton Drukh from Snyk](https://www.developingleadership.co/episode/episode-5-should-engineers-be-masters-of-none-with-anton-drukh-from-snyk) - Engineering leaders build organizations, and do more than just contribute lines of code.
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback
@@ -240,6 +241,8 @@
  * [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) - An article outlining how to prioritize better as a leader.
  * [Overcoming Imposter Syndrome When Starting a Career in Tech￼](https://doordash.engineering/2022/02/03/overcoming-imposter-syndrome-when-starting-a-career-in-tech%ef%bf%bc/) - An interesting article that may help some managers who may be suffering with imposter syndrome.
  * [The Only Place to Lead is From the Front](https://www.inc.com/tony-hunter/the-only-place-to-lead-is-from-front.html) - A good article that helps leaders prepare for the challenging times and get ahead of them.
+ * [Migrations Done Well: Typical Migration Approaches](https://blog.pragmaticengineer.com/typical-migration-approaches/) - As a company’s operations grow, new systems and approaches are adopted to cope with extra load, more use cases, or more constraints. From time to time, engineers need to migrate over from an old system or approach, to a new one.
+ * [Which commonly-used metrics aren't working and why?](https://leaddev.com/reporting-metrics/flawed-five-engineering-productivity-metrics) - An article highlighting metrics that don't work for tracking engineering productivity
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)

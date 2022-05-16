@@ -1444,5 +1444,23 @@
         "url": "https://www.inc.com/tony-hunter/the-only-place-to-lead-is-from-front.html",
         "reason": "A good article that helps leaders prepare for the challenging times and get ahead of them.",
         "cat": "article"
+    },
+    {
+        "title": "Developing Leadership - Episode 5 | Should Engineers be Masters of None? with Anton Drukh from Snyk",
+        "url": "https://www.developingleadership.co/episode/episode-5-should-engineers-be-masters-of-none-with-anton-drukh-from-snyk",
+        "reason": "Engineering leaders build organizations, and do more than just contribute lines of code.",
+        "cat": "podcast"
+    },
+    {
+        "title": "Migrations Done Well: Typical Migration Approaches",
+        "url": "https://blog.pragmaticengineer.com/typical-migration-approaches/",
+        "reason": "As a company’s operations grow, new systems and approaches are adopted to cope with extra load, more use cases, or more constraints. From time to time, engineers need to migrate over from an old system or approach, to a new one.",
+        "cat": "article"
+    },
+    {
+        "title": "Which commonly-used metrics aren't working and why?",
+        "url": "https://leaddev.com/reporting-metrics/flawed-five-engineering-productivity-metrics",
+        "reason": "An article highlighting metrics that don't work for tracking engineering productivity",
+        "cat": "article"
     }
 ]
