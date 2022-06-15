@@ -243,6 +243,7 @@
  * [The Only Place to Lead is From the Front](https://www.inc.com/tony-hunter/the-only-place-to-lead-is-from-front.html) - A good article that helps leaders prepare for the challenging times and get ahead of them.
  * [Migrations Done Well: Typical Migration Approaches](https://blog.pragmaticengineer.com/typical-migration-approaches/) - As a company’s operations grow, new systems and approaches are adopted to cope with extra load, more use cases, or more constraints. From time to time, engineers need to migrate over from an old system or approach, to a new one.
  * [Which commonly-used metrics aren't working and why?](https://leaddev.com/reporting-metrics/flawed-five-engineering-productivity-metrics) - An article highlighting metrics that don't work for tracking engineering productivity
+ * [Advice for engineering managers who want to climb the ladder](https://charity.wtf/2022/06/13/advice-for-engineering-managers-who-want-to-climb-the-ladder/) - A good article on ways for managers to think about their career growth.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
