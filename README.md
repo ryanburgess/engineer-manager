@@ -1,5 +1,5 @@
 # Engineering Manager Resources 
- A list of engineering manager resource links. 
+ A list of engineering leadership resource links. 
  
  Follow [Ryan Burgess on Twitter](http://twitter.com/burgessdryan)
 
