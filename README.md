@@ -244,6 +244,7 @@
  * [Migrations Done Well: Typical Migration Approaches](https://blog.pragmaticengineer.com/typical-migration-approaches/) - As a company’s operations grow, new systems and approaches are adopted to cope with extra load, more use cases, or more constraints. From time to time, engineers need to migrate over from an old system or approach, to a new one.
  * [Which commonly-used metrics aren't working and why?](https://leaddev.com/reporting-metrics/flawed-five-engineering-productivity-metrics) - An article highlighting metrics that don't work for tracking engineering productivity
  * [Advice for engineering managers who want to climb the ladder](https://charity.wtf/2022/06/13/advice-for-engineering-managers-who-want-to-climb-the-ladder/) - A good article on ways for managers to think about their career growth.
+ * [The Best Managers Are Boring Managers](https://hbr.org/2015/09/the-best-managers-are-boring-managers) - An aritcle on what makes a good manager
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
