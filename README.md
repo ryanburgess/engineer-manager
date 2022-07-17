@@ -78,6 +78,7 @@
  * [Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs](https://www.amazon.com/gp/product/B08GF7P3G8/ref=as_li_tl) - This book focuses on specifics for engineering managers.
  * [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/gp/product/B07QYCHJ7V/ref=as_li_tl) - This book does a good job focusing on the challenges of being an engineering manager and provides examples of solutions.
  * [The Phoenix Project](https://www.amazon.com/gp/product/1942788290/ref=as_li_tl) - This book teaches about DevOps practices and looks at managing teams from perspective of inputs and outputs.
+ * [The Software Engineering Manager Interview Guide](https://www.amazon.com/Software-Engineering-Manager-Interview-Guide-ebook/dp/B086JMXP28) - Interviewing can be challenging, time-consuming, stressful, frustrating, and full of disappointments. A no-nonsense book about landing an engineering leadership role at a top-tier tech company. 
 
 ## Videos
  * [Ryan Burgess' Manager Videos](https://www.youtube.com/watch?v=eRtuBk7GMC4&list=PLoi4aiq4kBvt7gtoWFgp74-8YULZaM9LK) - A YouTube playlist of short video clips that cover a variety of leadership topics focused on engineering management.
@@ -132,6 +133,7 @@
  * [The Tech Exec Podcast](https://www.techexecpodcast.com/) - A podcast for CTOs, VPs, and other leaders in Tech wanting to instill vision instead of running a kindergarten, and working on creating high performant autonomous teams
  * [alphalist Podcast | Technical Leadership and Technology for Technical Leaders](https://alphalist.com/podcast/?utm_source=github&utm_medium=Referral&utm_campaign=outreach&utm_content=podcast) - Learn about technical leadership, technological trends and more from top CTOs and other technical leaders. A podcast for CTOs, VPs, and other leaders in Tech wanting to improve and grow their knowledge through interviews of top tech thought leaders.
  * [Developing Leadership - Episode 5 | Should Engineers be Masters of None? with Anton Drukh from Snyk](https://www.developingleadership.co/episode/episode-5-should-engineers-be-masters-of-none-with-anton-drukh-from-snyk) - Engineering leaders build organizations, and do more than just contribute lines of code.
+ * [Managers Club, Interviews and Resources for Engineering Managers](https://podcasts.apple.com/us/podcast/managers-club-interviews-and-resources-for/id1465515449) - In-depth conversations about engineering management with lessons and tips to make you a better leader and improve your career.        
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback
