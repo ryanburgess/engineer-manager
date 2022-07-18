@@ -1474,5 +1474,17 @@
         "url": "https://hbr.org/2015/09/the-best-managers-are-boring-managers",
         "reason": "An aritcle on what makes a good manager",
         "cat": "article"
+    },
+    {
+        "title": "The Software Engineering Manager Interview Guide",
+        "url": "https://www.amazon.com/Software-Engineering-Manager-Interview-Guide-ebook/dp/B086JMXP28",
+        "reason": "Interviewing can be challenging, time-consuming, stressful, frustrating, and full of disappointments. A no-nonsense book about landing an engineering leadership role at a top-tier tech company. ",
+        "cat": "book"
+    },
+    {
+        "title": "Managers Club, Interviews and Resources for Engineering Managers",
+        "url": "https://podcasts.apple.com/us/podcast/managers-club-interviews-and-resources-for/id1465515449",
+        "reason": "In-depth conversations about engineering management with lessons and tips to make you a better leader and improve your career.        ",
+        "cat": "podcast"
     }
 ]
