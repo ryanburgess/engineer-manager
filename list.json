@@ -1486,5 +1486,11 @@
         "url": "https://podcasts.apple.com/us/podcast/managers-club-interviews-and-resources-for/id1465515449",
         "reason": "In-depth conversations about engineering management with lessons and tips to make you a better leader and improve your career.        ",
         "cat": "podcast"
+    },
+    {
+        "title": "Resources For Managers On Feedback & Performance Reviews",
+        "url": "https://larahogan.me/resources/feedback/",
+        "reason": "There are a lot of great resources that Lara Hogan has put together to help provide feedback.",
+        "cat": "article"
     }
 ]
