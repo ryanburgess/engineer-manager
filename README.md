@@ -248,6 +248,7 @@
  * [Advice for engineering managers who want to climb the ladder](https://charity.wtf/2022/06/13/advice-for-engineering-managers-who-want-to-climb-the-ladder/) - A good article on ways for managers to think about their career growth.
  * [The Best Managers Are Boring Managers](https://hbr.org/2015/09/the-best-managers-are-boring-managers) - An aritcle on what makes a good manager
  * [Resources For Managers On Feedback & Performance Reviews](https://larahogan.me/resources/feedback/) - There are a lot of great resources that Lara Hogan has put together to help provide feedback.
+ * [What is a Vice President of Engineering?](https://leaddev.com/career-ladders/what-vice-president-engineering) - An article that describes the role of a VP of engineering and what to expect
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
