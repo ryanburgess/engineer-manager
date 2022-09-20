@@ -250,6 +250,9 @@
  * [Resources For Managers On Feedback & Performance Reviews](https://larahogan.me/resources/feedback/) - There are a lot of great resources that Lara Hogan has put together to help provide feedback.
  * [What is a Vice President of Engineering?](https://leaddev.com/career-ladders/what-vice-president-engineering) - An article that describes the role of a VP of engineering and what to expect
  * [High-Performing Teams Don’t Leave Relationships to Chance](https://hbr.org/2022/09/high-performing-teams-dont-leave-relationships-to-chance) - An article emphasizing the importance of building close connections at work help teams be more productive, creative, and collaborative
+ * [The Nakazawa Management Starter Pack](https://cpojer.net/posts/the-nakazawa-management-starter-pack) - This practial blog post covers 10 priorities Engineering Managers should focus on
+ * [Mastering Tech Lead Management](https://cpojer.net/posts/mastering-tech-lead-management) - Learn about the Tech Lead Management role which is a hybrid Engineering Manager and Individual Contributor role
+ * [Inclusion in a Distributed World](https://cpojer.net/posts/inclusion-in-a-distributed-world) - This article explores how to make people feel connected and supported when working remotely
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
