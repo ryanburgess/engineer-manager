@@ -1504,5 +1504,23 @@
         "url": "https://hbr.org/2022/09/high-performing-teams-dont-leave-relationships-to-chance",
         "reason": "An article emphasizing the importance of building close connections at work help teams be more productive, creative, and collaborative",
         "cat": "article"
+    },
+    {
+        "title": "The Nakazawa Management Starter Pack",
+        "url": "https://cpojer.net/posts/the-nakazawa-management-starter-pack",
+        "reason": "This practial blog post covers 10 priorities Engineering Managers should focus on",
+        "cat": "article"
+    },
+    {
+        "title": "Mastering Tech Lead Management",
+        "url": "https://cpojer.net/posts/mastering-tech-lead-management",
+        "reason": "Learn about the Tech Lead Management role which is a hybrid Engineering Manager and Individual Contributor role",
+        "cat": "article"
+    },
+    {
+        "title": "Inclusion in a Distributed World",
+        "url": "https://cpojer.net/posts/inclusion-in-a-distributed-world",
+        "reason": "This article explores how to make people feel connected and supported when working remotely",
+        "cat": "article"
     }
 ]
