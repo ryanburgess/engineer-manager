@@ -254,6 +254,7 @@
  * [The Nakazawa Management Starter Pack](https://cpojer.net/posts/the-nakazawa-management-starter-pack) - This practial blog post covers 10 priorities Engineering Managers should focus on
  * [Mastering Tech Lead Management](https://cpojer.net/posts/mastering-tech-lead-management) - Learn about the Tech Lead Management role which is a hybrid Engineering Manager and Individual Contributor role
  * [Inclusion in a Distributed World](https://cpojer.net/posts/inclusion-in-a-distributed-world) - This article explores how to make people feel connected and supported when working remotely
+ * [The Hierarchy Is Bullshit (And Bad For Business)](https://charity.wtf/2022/09/23/the-hierarchy-is-bullshit-and-bad-for-business/) - An interesting article on why hierarchy is bad.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
