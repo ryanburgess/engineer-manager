@@ -255,6 +255,7 @@
  * [Mastering Tech Lead Management](https://cpojer.net/posts/mastering-tech-lead-management) - Learn about the Tech Lead Management role which is a hybrid Engineering Manager and Individual Contributor role
  * [Inclusion in a Distributed World](https://cpojer.net/posts/inclusion-in-a-distributed-world) - This article explores how to make people feel connected and supported when working remotely
  * [The Hierarchy Is Bullshit (And Bad For Business)](https://charity.wtf/2022/09/23/the-hierarchy-is-bullshit-and-bad-for-business/) - An interesting article on why hierarchy is bad.
+ * [Take care of middle managers in the hybrid world](https://www.axios.com/2022/09/29/take-care-of-middle-managers-in-the-hybrid-world) - An article highlighting ways to help support managers in a distributed workforce.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
