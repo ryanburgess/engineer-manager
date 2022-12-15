@@ -10,6 +10,7 @@
  * [The Mentoring Club](https://www.mentoring-club.com/) - A non-profit mentoring group.
 
 ## Books
+ * [Engineering Management for the Rest of Us](https://a.co/cMEFF7K)
  * [Talking with Tech Leads: From Novices to Practitioners](https://www.amazon.com/Talking-Tech-Leads-Novices-Practitioners/dp/150581748X)
  * [Behind Closed Doors: Secrets of Great Management](https://www.amazon.com/Behind-Closed-Doors-Management-Programmers-ebook/dp/B00A4OA6UQ/ref=mt_kindle?_encoding=UTF8&me=)
  * [The Advantage](https://www.amazon.com/dp/0470941529/?tag=googhydr-20&hvadid=30910543821&hvpos=1t1&hvnetw=g&hvrand=15028267282039044489&hvpone=&hvptwo=32&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032142&hvtargid=kwd-47506015307&ref=pd_sl_20vzz2ba7z_b)
