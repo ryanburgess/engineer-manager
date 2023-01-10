@@ -257,6 +257,7 @@
  * [The Hierarchy Is Bullshit (And Bad For Business)](https://charity.wtf/2022/09/23/the-hierarchy-is-bullshit-and-bad-for-business/) - An interesting article on why hierarchy is bad.
  * [Take care of middle managers in the hybrid world](https://www.axios.com/2022/09/29/take-care-of-middle-managers-in-the-hybrid-world) - An article highlighting ways to help support managers in a distributed workforce.
  * [Navigating power dynamics as a manager](https://leaddev.com/communication-relationships/navigating-power-dynamics-manager?utm_source=ActiveCampaign&utm_medium=email&utm_content=Navigating+power+dynamics+as+a+manager&utm_campaign=Originals+-+Issue+109+%28October+20%29) - A good article speaking to the power dynamics of a manager and how to reduce the imbalance.
+ * [How to spend your first 30 days in a new senior-level role](https://larahogan.me/blog/first-30-days-new-role/) - Helpful tips for starting a new leadership role.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
