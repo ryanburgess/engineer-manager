@@ -1564,5 +1564,11 @@
         "url": "https://www.youtube.com/watch?v=uUPH7-4IwSs&ab_channel=Sharethrough",
         "reason": "An excellent talk on how to do a better job communicating with your team and partners.",
         "cat": "video"
+    },
+    {
+        "title": "Engineering Management for the Rest of Us",
+        "url": "https://www.engmanagement.dev/",
+        "reason": "A great book by Sarah Drasner dedicated to engineering management packed with a lot of valuable advice",
+        "cat": "book"
     }
 ]

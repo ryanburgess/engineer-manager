@@ -80,6 +80,7 @@
  * [The Phoenix Project](https://www.amazon.com/gp/product/1942788290/ref=as_li_tl) - This book teaches about DevOps practices and looks at managing teams from perspective of inputs and outputs.
  * [The Software Engineering Manager Interview Guide](https://www.amazon.com/Software-Engineering-Manager-Interview-Guide-ebook/dp/B086JMXP28) - Interviewing can be challenging, time-consuming, stressful, frustrating, and full of disappointments. A no-nonsense book about landing an engineering leadership role at a top-tier tech company. 
  * [Smart Brevity: The Power of Saying More with Less](https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976) - A book that provides helpful tips for communicating more effectively with less words.
+ * [Engineering Management for the Rest of Us](https://www.engmanagement.dev/) - A great book by Sarah Drasner dedicated to engineering management packed with a lot of valuable advice
 
 ## Videos
  * [Ryan Burgess' Manager Videos](https://www.youtube.com/watch?v=eRtuBk7GMC4&list=PLoi4aiq4kBvt7gtoWFgp74-8YULZaM9LK) - A YouTube playlist of short video clips that cover a variety of leadership topics focused on engineering management.
