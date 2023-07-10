@@ -1570,5 +1570,11 @@
         "url": "https://www.engmanagement.dev/",
         "reason": "A great book by Sarah Drasner dedicated to engineering management packed with a lot of valuable advice",
         "cat": "book"
+    },
+    {
+        "title": "Be a Door Opener, Not a Gatekeeper: Inclusivity and Leadership",
+        "url": "https://fellow.app/supermanagers/karen-catlin-be-a-door-opener-not-a-gatekeeper-inclusivity-and-leadership/",
+        "reason": "A podcast episode with Karen Catlin talking about the difference between gatekeepers and door openers and underscores the importance of guiding rather than directing.",
+        "cat": "podcast"
     }
 ]
