@@ -1582,5 +1582,11 @@
         "url": "https://leaddev.com/team/managing-challenging-people",
         "reason": "A useful article with insights into managing challenging people.",
         "cat": "article"
+    },
+    {
+        "title": "Pointer",
+        "url": "https://www.pointer.io/",
+        "reason": "Handpicked articles from 100+ sources. Summarized into a 5-minute read.",
+        "cat": "newsletter"
     }
 ]

@@ -271,6 +271,7 @@
  * [CTO Insights with Tosho Trajanov](https://insights.toshotrajanov.com/) - Weekly reading on software engineering & technical leadership.
  * [Fellow TLDR newsletter](https://fellow.app/newsletter/) - Helpful leadership tips in a regular newsletter.
  * [Level Up](https://levelup.patkua.com/) - A curated newsletter for leaders in tech.
+ * [Pointer](https://www.pointer.io/) - Handpicked articles from 100+ sources. Summarized into a 5-minute read.
 
 ## Communities
  * [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack) - Created by Michael Lopp, the Rands Leadership Slack exists to help longtime, new, and aspiring leaders to learn through conversation and sharing of ideas.
