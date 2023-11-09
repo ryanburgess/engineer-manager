@@ -81,6 +81,7 @@
  * [The Software Engineering Manager Interview Guide](https://www.amazon.com/Software-Engineering-Manager-Interview-Guide-ebook/dp/B086JMXP28) - Interviewing can be challenging, time-consuming, stressful, frustrating, and full of disappointments. A no-nonsense book about landing an engineering leadership role at a top-tier tech company. 
  * [Smart Brevity: The Power of Saying More with Less](https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976) - A book that provides helpful tips for communicating more effectively with less words.
  * [Engineering Management for the Rest of Us](https://www.engmanagement.dev/) - A great book by Sarah Drasner dedicated to engineering management packed with a lot of valuable advice
+ * [Radical Candor](https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/B07XVQB7XV/?&_encoding=UTF8&tag=radicalcandor-20&linkCode=ur2&linkId=5dea4fb978cf2ab64fcf491a5032a01a&camp=1789&creative=9325) - This is an excellent book on how to give feedback and receive feedback effectively.
 
 ## Videos
  * [Ryan Burgess' Manager Videos](https://www.youtube.com/watch?v=eRtuBk7GMC4&list=PLoi4aiq4kBvt7gtoWFgp74-8YULZaM9LK) - A YouTube playlist of short video clips that cover a variety of leadership topics focused on engineering management.
