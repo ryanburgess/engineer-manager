@@ -264,6 +264,8 @@
  * [How to spend your first 30 days in a new senior-level role](https://larahogan.me/blog/first-30-days-new-role/) - Helpful tips for starting a new leadership role.
  * [Contemplating the Shift to Management? The WHY Matters Most](https://thinkandgrow.substack.com/p/contemplating-the-shift-to-management) - Ujjwal Tyagi shares his experience on moving into management and how to think about why you want to move into management
  * [Managing challenging people](https://leaddev.com/team/managing-challenging-people) - A useful article with insights into managing challenging people.
+ * [Lift-Off — Accelerating Innovation](https://medium.com/@eeiswerth/lift-off-accelerating-innovation-45b025795c14) - A good article on how to think about improving innovation in a team.
+ * [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) - Some insighful perspectives shared on what it means to be successful.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
