@@ -82,6 +82,7 @@
  * [Smart Brevity: The Power of Saying More with Less](https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976) - A book that provides helpful tips for communicating more effectively with less words.
  * [Engineering Management for the Rest of Us](https://www.engmanagement.dev/) - A great book by Sarah Drasner dedicated to engineering management packed with a lot of valuable advice
  * [Radical Candor](https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/B07XVQB7XV/?&_encoding=UTF8&tag=radicalcandor-20&linkCode=ur2&linkId=5dea4fb978cf2ab64fcf491a5032a01a&camp=1789&creative=9325) - This is an excellent book on how to give feedback and receive feedback effectively.
+ * [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.amazon.com/Coaching-Habit-Less-Change-Forever-ebook/dp/B01BUIBBZI/ref=sr_1_3_sspa?hvadid=410021952381&hvdev=c&hvlocphy=9031961&hvnetw=g&hvqmt=e&hvrand=17865363114741103483&hvtargid=kwd-156863084926&hydadcr=21873_11241706&keywords=coaching+habit&qid=1700244659&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) - A good book for helping coach your team.
 
 ## Videos
  * [Ryan Burgess' Manager Videos](https://www.youtube.com/watch?v=eRtuBk7GMC4&list=PLoi4aiq4kBvt7gtoWFgp74-8YULZaM9LK) - A YouTube playlist of short video clips that cover a variety of leadership topics focused on engineering management.
