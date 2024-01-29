@@ -5,6 +5,8 @@
 
 ## Courses
  * [Engineering Management Interview Course](https://www.tryexponent.com/courses/engineering-management) - This Try Exponent course on engineering leadership has a lot of useful topics to help prepare anyone for interviewing for an engineering manager role.
+ * [Engineering Management Fundamentals 101 - Frontend Masters](https://frontendmasters.com/courses/intro-management/) - Jem provides great insights into why you might want to be a manager and what it's like being a new manager
+ * [Enterprise Engineering Management 102 - Frontend Masters](https://frontendmasters.com/courses/engineering-management/) - This is a course I did to share insights into how to approach dealing with feedback, conflict, hiring, team success, and change management
 
 ## Mentoring
  * [Plato](https://www.platohq.com/)

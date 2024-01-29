@@ -1606,5 +1606,17 @@
         "url": "https://www.amazon.com/Coaching-Habit-Less-Change-Forever-ebook/dp/B01BUIBBZI/ref=sr_1_3_sspa?hvadid=410021952381&hvdev=c&hvlocphy=9031961&hvnetw=g&hvqmt=e&hvrand=17865363114741103483&hvtargid=kwd-156863084926&hydadcr=21873_11241706&keywords=coaching+habit&qid=1700244659&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
         "reason": "A good book for helping coach your team.",
         "cat": "book"
+    },
+    {
+        "title": "Engineering Management Fundamentals 101 - Frontend Masters",
+        "url": "https://frontendmasters.com/courses/intro-management/",
+        "reason": "Jem provides great insights into why you might want to be a manager and what it's like being a new manager",
+        "cat": "courses"
+    },
+    {
+        "title": "Enterprise Engineering Management 102 - Frontend Masters",
+        "url": "https://frontendmasters.com/courses/engineering-management/",
+        "reason": "This is a course I did to share insights into how to approach dealing with feedback, conflict, hiring, team success, and change management",
+        "cat": "courses"
     }
 ]
