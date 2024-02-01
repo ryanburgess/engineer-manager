@@ -1618,5 +1618,29 @@
         "url": "https://frontendmasters.com/courses/engineering-management/",
         "reason": "This is a course I did to share insights into how to approach dealing with feedback, conflict, hiring, team success, and change management",
         "cat": "courses"
+    },
+    {
+        "title": "Questionable advice: “my boss says we don’t need any engineering managers. Is he right?”",
+        "url": "https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/",
+        "reason": "Some interesting takes on hierarchy and why or why not you may need managers",
+        "cat": "article"
+    },
+    {
+        "title": "Are you a bottleneck in your team?",
+        "url": "https://princiya.com/blog/do-not-be-a-bottleneck/",
+        "reason": "Thoughts on how you can avoid being a bottleneck for your team",
+        "cat": "article"
+    },
+    {
+        "title": "How to find great engineers",
+        "url": "https://adamconrad.dev/blog/how-to-find-great-engineers/",
+        "reason": "Hiring tips for building a strong team",
+        "cat": "article"
+    },
+    {
+        "title": "Quit My Job As An Engineering Manager (What I Learned)",
+        "url": "https://www.youtube.com/watch?v=Rw-u9RH76Cs",
+        "reason": "An engineering manager shares his thoughts on what he's learned after quitting his job as a manager",
+        "cat": "video"
     }
 ]

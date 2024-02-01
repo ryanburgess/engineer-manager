@@ -112,6 +112,7 @@
  * [Guidance Counselor 2.0 w/Ryan Burgess on Hiring and Leadership in Tech](https://www.youtube.com/watch?v=9_BmKocysd4&ab_channel=TaylorDesseyn) - An interview with Ryan Burgess talking about hiring.
  * [Unicorn Finders w/Ryan Burgess + Netflix Engineer Manager on Leadership in Tech](https://www.youtube.com/watch?v=neidYqY4VPc&t=847s&ab_channel=TheUnicornFinders) - A panel discussion talking about Engineering Management.
  * [Communicate Like a Boss // Kathryn Koehler // Calibrate 2018](https://www.youtube.com/watch?v=uUPH7-4IwSs&ab_channel=Sharethrough) - An excellent talk on how to do a better job communicating with your team and partners.
+ * [Quit My Job As An Engineering Manager (What I Learned)](https://www.youtube.com/watch?v=Rw-u9RH76Cs) - An engineering manager shares his thoughts on what he's learned after quitting his job as a manager
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/) - In this episode of FEHH the panelists talk about being an engineering manager. A lot of great insights!
@@ -272,6 +273,9 @@
  * [Managing challenging people](https://leaddev.com/team/managing-challenging-people) - A useful article with insights into managing challenging people.
  * [Lift-Off — Accelerating Innovation](https://medium.com/@eeiswerth/lift-off-accelerating-innovation-45b025795c14) - A good article on how to think about improving innovation in a team.
  * [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) - Some insighful perspectives shared on what it means to be successful.
+ * [Questionable advice: “my boss says we don’t need any engineering managers. Is he right?”](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/) - Some interesting takes on hierarchy and why or why not you may need managers
+ * [Are you a bottleneck in your team?](https://princiya.com/blog/do-not-be-a-bottleneck/) - Thoughts on how you can avoid being a bottleneck for your team
+ * [How to find great engineers](https://adamconrad.dev/blog/how-to-find-great-engineers/) - Hiring tips for building a strong team
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
