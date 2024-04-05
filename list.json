@@ -1642,5 +1642,11 @@
         "url": "https://www.youtube.com/watch?v=Rw-u9RH76Cs",
         "reason": "An engineering manager shares his thoughts on what he's learned after quitting his job as a manager",
         "cat": "video"
+    },
+    {
+        "title": "How To Deal with Late Projects",
+        "url": "https://adevait.com/blog/workplace/engineering-management-late-projects/",
+        "reason": "An insightful article for Engineering Leaders managing late projects",
+        "cat": "article"
     }
 ]
