@@ -276,6 +276,7 @@
  * [Questionable advice: “my boss says we don’t need any engineering managers. Is he right?”](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/) - Some interesting takes on hierarchy and why or why not you may need managers
  * [Are you a bottleneck in your team?](https://princiya.com/blog/do-not-be-a-bottleneck/) - Thoughts on how you can avoid being a bottleneck for your team
  * [How to find great engineers](https://adamconrad.dev/blog/how-to-find-great-engineers/) - Hiring tips for building a strong team
+ * [How To Deal with Late Projects](https://adevait.com/blog/workplace/engineering-management-late-projects/) - An insightful article for Engineering Leaders managing late projects
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
