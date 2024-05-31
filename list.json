@@ -1648,5 +1648,11 @@
         "url": "https://adevait.com/blog/workplace/engineering-management-late-projects/",
         "reason": "An insightful article for Engineering Leaders managing late projects",
         "cat": "article"
+    },
+    {
+        "title": "From Engineer to Leader: The Path to Engineering Management",
+        "url": "https://www.youtube.com/watch?v=2Ci0dbaIFiI",
+        "reason": "This is a video conversation between Ryan Burgess and Jem Young, engineering managers from Netflix.",
+        "cat": "video"
     }
 ]

@@ -113,6 +113,7 @@
  * [Unicorn Finders w/Ryan Burgess + Netflix Engineer Manager on Leadership in Tech](https://www.youtube.com/watch?v=neidYqY4VPc&t=847s&ab_channel=TheUnicornFinders) - A panel discussion talking about Engineering Management.
  * [Communicate Like a Boss // Kathryn Koehler // Calibrate 2018](https://www.youtube.com/watch?v=uUPH7-4IwSs&ab_channel=Sharethrough) - An excellent talk on how to do a better job communicating with your team and partners.
  * [Quit My Job As An Engineering Manager (What I Learned)](https://www.youtube.com/watch?v=Rw-u9RH76Cs) - An engineering manager shares his thoughts on what he's learned after quitting his job as a manager
+ * [From Engineer to Leader: The Path to Engineering Management](https://www.youtube.com/watch?v=2Ci0dbaIFiI) - This is a video conversation between Ryan Burgess and Jem Young, engineering managers from Netflix.
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/) - In this episode of FEHH the panelists talk about being an engineering manager. A lot of great insights!
