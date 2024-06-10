@@ -278,6 +278,7 @@
  * [Are you a bottleneck in your team?](https://princiya.com/blog/do-not-be-a-bottleneck/) - Thoughts on how you can avoid being a bottleneck for your team
  * [How to find great engineers](https://adamconrad.dev/blog/how-to-find-great-engineers/) - Hiring tips for building a strong team
  * [How To Deal with Late Projects](https://adevait.com/blog/workplace/engineering-management-late-projects/) - An insightful article for Engineering Leaders managing late projects
+ * [Paradox of Resourcing](https://www.linkedin.com/pulse/paradox-resourcing-lisa-burgess-bnqbc/) - A short article on the paradox between being over resourced and under resourced.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)

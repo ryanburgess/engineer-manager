@@ -1654,5 +1654,11 @@
         "url": "https://www.youtube.com/watch?v=2Ci0dbaIFiI",
         "reason": "This is a video conversation between Ryan Burgess and Jem Young, engineering managers from Netflix.",
         "cat": "video"
+    },
+    {
+        "title": "Paradox of Resourcing",
+        "url": "https://www.linkedin.com/pulse/paradox-resourcing-lisa-burgess-bnqbc/",
+        "reason": "A short article on the paradox between being over resourced and under resourced.",
+        "cat": "article"
     }
 ]
