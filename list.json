@@ -1660,5 +1660,17 @@
         "url": "https://www.linkedin.com/pulse/paradox-resourcing-lisa-burgess-bnqbc/",
         "reason": "A short article on the paradox between being over resourced and under resourced.",
         "cat": "article"
+    },
+    {
+        "title": "Building Influence for Engineers and EMs",
+        "url": "https://maven.com/kellyvaughn/engineering-management",
+        "reason": "Learn the 3 key skills you need to be an impactful leader in your engineering org",
+        "cat": "courses"
+    },
+    {
+        "title": "Lessons in Engineering Leadership",
+        "url": "https://www.engineeringleadership.xyz/",
+        "reason": "I started this newsletter to share with you what I know, but more importantly to give you an inside view into what I’m learning, where I’m struggling, and to show you a real view of engineering leadership.",
+        "cat": "newsletter"
     }
 ]
