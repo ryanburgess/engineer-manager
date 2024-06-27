@@ -1584,6 +1584,7 @@
         "cat": "article"
     },
     {
+<<<<<<< HEAD
         "title": "Radical Candor",
         "url": "https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/B07XVQB7XV/?&_encoding=UTF8&tag=radicalcandor-20&linkCode=ur2&linkId=5dea4fb978cf2ab64fcf491a5032a01a&camp=1789&creative=9325",
         "reason": "This is an excellent book on how to give feedback and receive feedback effectively.",
@@ -1660,5 +1661,11 @@
         "url": "https://www.linkedin.com/pulse/paradox-resourcing-lisa-burgess-bnqbc/",
         "reason": "A short article on the paradox between being over resourced and under resourced.",
         "cat": "article"
+    },
+    {
+        "title": "Pointer",
+        "url": "https://www.pointer.io/",
+        "reason": "Handpicked articles from 100+ sources. Summarized into a 5-minute read.",
+        "cat": "newsletter"
     }
 ]
