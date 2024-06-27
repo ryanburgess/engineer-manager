@@ -280,6 +280,7 @@
  * [How to find great engineers](https://adamconrad.dev/blog/how-to-find-great-engineers/) - Hiring tips for building a strong team
  * [How To Deal with Late Projects](https://adevait.com/blog/workplace/engineering-management-late-projects/) - An insightful article for Engineering Leaders managing late projects
  * [Paradox of Resourcing](https://www.linkedin.com/pulse/paradox-resourcing-lisa-burgess-bnqbc/) - A short article on the paradox between being over resourced and under resourced.
+ * [Pointer](https://www.pointer.io/) - Handpicked articles from 100+ sources. Summarized into a 5-minute read.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
