@@ -3,7 +3,8 @@
  
 Follow [Ryan Burgess on Twitter](http://twitter.com/burgessdryan) 
  
-## What You’ll FindThis repository contains a comprehensive collection of articles, books, podcasts, and other resources that cover various aspects of engineering leadership, including:
+## What You’ll Find
+This repository contains a comprehensive collection of articles, books, podcasts, and other resources that cover various aspects of engineering leadership, including:
 
  * Communication: Tips and strategies for effective communication within your team and organization.
  * Team Building: Best practices for creating and nurturing a cohesive, high-performing team.
