@@ -1,5 +1,5 @@
 # Engineering Manager Resources 
- A list of engineering leadership resource links. 
+ Welcome to the Engineer Manager Resources repository! This curated list is designed for anyone in the engineering field who aspires to grow in leadership and enhance their "soft" skills. Whether you're a manager, an aspiring leader, or an individual contributor looking to improve your interpersonal skills, you'll find valuable resources here. 
  
  Follow [Ryan Burgess on Twitter](http://twitter.com/burgessdryan)
 
