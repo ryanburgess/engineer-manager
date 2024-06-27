@@ -7,6 +7,7 @@
  * [Engineering Management Interview Course](https://www.tryexponent.com/courses/engineering-management) - This Try Exponent course on engineering leadership has a lot of useful topics to help prepare anyone for interviewing for an engineering manager role.
  * [Engineering Management Fundamentals 101 - Frontend Masters](https://frontendmasters.com/courses/intro-management/) - Jem provides great insights into why you might want to be a manager and what it's like being a new manager
  * [Enterprise Engineering Management 102 - Frontend Masters](https://frontendmasters.com/courses/engineering-management/) - This is a course I did to share insights into how to approach dealing with feedback, conflict, hiring, team success, and change management
+ * [Building Influence for Engineers and EMs](https://maven.com/kellyvaughn/engineering-management) - Learn the 3 key skills you need to be an impactful leader in your engineering org
 
 ## Mentoring
  * [Plato](https://www.platohq.com/)
@@ -287,6 +288,7 @@
  * [CTO Insights with Tosho Trajanov](https://insights.toshotrajanov.com/) - Weekly reading on software engineering & technical leadership.
  * [Fellow TLDR newsletter](https://fellow.app/newsletter/) - Helpful leadership tips in a regular newsletter.
  * [Level Up](https://levelup.patkua.com/) - A curated newsletter for leaders in tech.
+ * [Lessons in Engineering Leadership](https://www.engineeringleadership.xyz/) - I started this newsletter to share with you what I know, but more importantly to give you an inside view into what I’m learning, where I’m struggling, and to show you a real view of engineering leadership.
 
 ## Communities
  * [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack) - Created by Michael Lopp, the Rands Leadership Slack exists to help longtime, new, and aspiring leaders to learn through conversation and sharing of ideas.
