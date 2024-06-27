@@ -1,7 +1,19 @@
-# Engineering Manager Resources 
+# Engineering Manager Resources
  Welcome to the Engineer Manager Resources repository! This curated list is designed for anyone in the engineering field who aspires to grow in leadership and enhance their "soft" skills. Whether you're a manager, an aspiring leader, or an individual contributor looking to improve your interpersonal skills, you'll find valuable resources here. 
  
- Follow [Ryan Burgess on Twitter](http://twitter.com/burgessdryan)
+Follow [Ryan Burgess on Twitter](http://twitter.com/burgessdryan) 
+ 
+## What You’ll FindThis repository contains a comprehensive collection of articles, books, podcasts, and other resources that cover various aspects of engineering leadership, including:
+
+ * Communication: Tips and strategies for effective communication within your team and organization.
+ * Team Building: Best practices for creating and nurturing a cohesive, high-performing team.
+ * Mentorship: Guidance on mentoring others and finding mentors to support your own growth.
+ * Conflict Resolution: Techniques for managing and resolving conflicts in a constructive manner.
+ * Emotional Intelligence: Insights into understanding and managing your emotions and those of others.
+ * Productivity: Methods to enhance personal and team productivity.
+ * Career Development: Resources to help you advance your career and achieve your professional goals.
+ * Diversity and Inclusion: Strategies for fostering an inclusive work environment that values diversity.## Why This MattersLeadership and soft skills are crucial for creating a positive and productive work environment. These skills not only help in managing teams effectively but also in building strong relationships, fostering innovation, and driving success in any organization.
+
 
 ## Courses
  * [Engineering Management Interview Course](https://www.tryexponent.com/courses/engineering-management) - This Try Exponent course on engineering leadership has a lot of useful topics to help prepare anyone for interviewing for an engineering manager role.
