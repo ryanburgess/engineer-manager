@@ -161,6 +161,7 @@ This repository contains a comprehensive collection of articles, books, podcasts
  * [Developing Leadership - Episode 5 | Should Engineers be Masters of None? with Anton Drukh from Snyk](https://www.developingleadership.co/episode/episode-5-should-engineers-be-masters-of-none-with-anton-drukh-from-snyk) - Engineering leaders build organizations, and do more than just contribute lines of code.
  * [Managers Club, Interviews and Resources for Engineering Managers](https://podcasts.apple.com/us/podcast/managers-club-interviews-and-resources-for/id1465515449) - In-depth conversations about engineering management with lessons and tips to make you a better leader and improve your career.        
  * [Be a Door Opener, Not a Gatekeeper: Inclusivity and Leadership](https://fellow.app/supermanagers/karen-catlin-be-a-door-opener-not-a-gatekeeper-inclusivity-and-leadership/) - A podcast episode with Karen Catlin talking about the difference between gatekeepers and door openers and underscores the importance of guiding rather than directing.
+ * [ReThinking – Adam Grant](https://adamgrant.net/podcasts/rethinking/) - Adam Grant shares a lot of valuable insights and has some amazing guests.
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback

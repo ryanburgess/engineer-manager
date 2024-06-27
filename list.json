@@ -1678,5 +1678,11 @@
         "url": "https://www.engineeringleadership.xyz/",
         "reason": "I started this newsletter to share with you what I know, but more importantly to give you an inside view into what I’m learning, where I’m struggling, and to show you a real view of engineering leadership.",
         "cat": "newsletter"
+    },
+    {
+        "title": "ReThinking – Adam Grant",
+        "url": "https://adamgrant.net/podcasts/rethinking/",
+        "reason": "Adam Grant shares a lot of valuable insights and has some amazing guests.",
+        "cat": "podcast"
     }
 ]
