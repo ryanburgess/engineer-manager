@@ -162,6 +162,7 @@ This repository contains a comprehensive collection of articles, books, podcasts
  * [Managers Club, Interviews and Resources for Engineering Managers](https://podcasts.apple.com/us/podcast/managers-club-interviews-and-resources-for/id1465515449) - In-depth conversations about engineering management with lessons and tips to make you a better leader and improve your career.        
  * [Be a Door Opener, Not a Gatekeeper: Inclusivity and Leadership](https://fellow.app/supermanagers/karen-catlin-be-a-door-opener-not-a-gatekeeper-inclusivity-and-leadership/) - A podcast episode with Karen Catlin talking about the difference between gatekeepers and door openers and underscores the importance of guiding rather than directing.
  * [ReThinking – Adam Grant](https://adamgrant.net/podcasts/rethinking/) - Adam Grant shares a lot of valuable insights and has some amazing guests.
+ * [How to Think Like a Software Engineering Manager - Akanksha Gupta](https://techleadjournal.dev/episodes/143/) - Akanksha Gupta is the author of “Think Like a Software Engineering Manager”. In this episode, Akanksha described the role of an engineering manager and the key traits of being a good engineering manager.
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback
