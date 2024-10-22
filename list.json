@@ -1696,5 +1696,11 @@
         "url": "https://www.amazon.com/Cracked-problems-solutions-strategy-consultants/dp/3319893742/",
         "reason": "A book that covers problem solving and selling solutions to an organization.",
         "cat": "book"
+    },
+    {
+        "title": "Never Split the Difference: Negotiating as if Your Life Depended on It",
+        "url": "https://www.amazon.com/Never-Split-Difference-audiobook/dp/B01COR1GM2/",
+        "reason": "A book that helps with high-stakes negotiations - whether in the boardroom or at home.",
+        "cat": "book"
     }
 ]
