@@ -2,8 +2,6 @@
  Welcome to the Engineer Manager Resources repository! This curated list is designed for anyone in the engineering field who aspires to grow in leadership and enhance their "soft" skills. Whether you're a manager, an aspiring leader, or an individual contributor looking to improve your interpersonal skills, you'll find valuable resources here. 
  
 Follow [Ryan Burgess on Twitter](http://twitter.com/burgessdryan) 
-
-[![Banner](banner.png)](https://www.youtube.com/@ryanburgess)
  
 ## What You’ll Find
 This repository contains a comprehensive collection of articles, books, podcasts, and other resources that cover various aspects of engineering leadership, including:
@@ -216,7 +214,7 @@ This repository contains a comprehensive collection of articles, books, podcasts
  * [How These Seven Tech Leaders Are Tackling Diversity in 2017](https://www.fastcompany.com/3069251/how-these-seven-tech-leaders-are-tackling-diversity-in-2017)
  * [Diversity Doesn’t Stick Without Inclusion](https://hbr.org/2017/02/diversity-doesnt-stick-without-inclusion)
  * [Culture is the Behavior You Reward and Punish](https://jocelyngoldfein.com/culture-is-the-behavior-you-reward-and-punish-7e8e75c6543e)
- * [First Round Management Articles](http://firstround.com/review/management/)
+ * [First Round Management Articles](http://firstround.com/review/articles/management/)
  * [First Round Review's 6 Must Reads to Run Fast, Efficient Meetings](http://firstround.com/review/first-round-reviews-6-must-reads-to-run-fast-efficient-meetings/)
  * [How I share information with my team](http://www.mikemcgarr.com/blog/week-in-review.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Tech%20People%20Leadership)
  * [Emotional Intelligence Needs a Rewrite](http://nautil.us/issue/51/limits/emotional-intelligence-needs-a-rewrite)
@@ -247,7 +245,7 @@ This repository contains a comprehensive collection of articles, books, podcasts
  * [Why Constraints Are Good for Innovation](https://hbr.org/2019/11/why-constraints-are-good-for-innovation) - An article that suggests that managers can innovate better by embracing constraints.
  * [Are You Leading Through the Crisis … or Managing the Response?](https://hbr.org/2020/03/are-you-leading-through-the-crisis-or-managing-the-response) - Helpful tips and insights into how to lead during a crisis.
  * [Mistakes I’ve Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) - Vulnerability as a leader goes a long way. This article shares mistakes to avoid.
- * [How Great Managers Give and Receive Feedback](https://fellow.app/blog/2019/how-managers-give-and-receive-feedback) - Helpful tips on giving and receiving feedback.
+ * [How Great Managers Give and Receive Feedback](https://medium.com/fellowai/how-great-managers-give-and-receive-feedback-fb914bd4d960) - Helpful tips on giving and receiving feedback.
  * [Should You Rehire an Employee Who Left Your Company?](https://hbr.org/2021/02/should-you-rehire-an-employee-who-left-your-company) - Interesting perspectives on thinking about hiring someone who had previously left the company.
  * [No, I’m not fine: A leader’s guide to building a culture where it’s ok to not be ok](https://fellow.app/blog/2021/building-a-culture-where-its-ok-to-not-be-ok/) - This article shares some helpful insights into building trust and vulnerability in your team.
  * [How to Build a Culture of Ownership, and Other Engineering Leadership Tips from Plaid & Dropbox](https://review.firstround.com/how-to-build-a-culture-of-ownership-and-other-engineering-leadership-tips-from-plaid-and-dropbox) - This article shares tips for getting alignment in a team.
