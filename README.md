@@ -18,6 +18,8 @@ This repository contains a comprehensive collection of articles, books, podcasts
 
 ## Courses
  * [Engineering Management Interview Course](https://www.tryexponent.com/courses/engineering-management) - This Try Exponent course on engineering leadership has a lot of useful topics to help prepare anyone for interviewing for an engineering manager role.
+ * [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
+ * [Blog for Engineering Managers](https://blog4ems.com) - Practical guidance, templates, and resources for engineering managers. Weekly newsletter with 50+ Notion templates and an Engineering Manager's Field Guide.
  * [Engineering Management Fundamentals 101 - Frontend Masters](https://frontendmasters.com/courses/intro-management/) - Jem provides great insights into why you might want to be a manager and what it's like being a new manager
  * [Enterprise Engineering Management 102 - Frontend Masters](https://frontendmasters.com/courses/engineering-management/) - This is a course I did to share insights into how to approach dealing with feedback, conflict, hiring, team success, and change management
  * [Building Influence for Engineers and EMs](https://maven.com/kellyvaughn/engineering-management) - Learn the 3 key skills you need to be an impactful leader in your engineering org
