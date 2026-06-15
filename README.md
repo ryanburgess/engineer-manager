@@ -143,6 +143,7 @@ This repository contains a comprehensive collection of articles, books, podcasts
  * [Endless Rewrites and Fake Deadlines](https://softskills.audio/2017/10/13/episode-78-endless-rewrites-and-fake-deadlines/)
  * [The Full Ratchet: VC | Venture Capital | Angel Investors | Startup Investing | Fundraising | Crowdfunding | Pitch | Private Equ](https://itunes.apple.com/ca/podcast/118.-economic-theory-in-venture/id888084300?i=1000378448924&mt=2)
  * [HBR Ideacast - Hiring the Best People](https://overcast.fm/+DiCC8OA) - Patty McCord, Netflix’s former Chief Talent Officer, talks about how to hire and retain top talent
+ * [Chain of Thought](https://chainofthought.show/) - A weekly AI podcast covering inference infrastructure, developer tools, strategy, and tech leadership.
  * [CTO Think - How important is a work-life or non-tech balance for a technology career?](https://www.ctothink.com/episodes/7-work-life-or-non-tech-balance-is-it-worth-the-hype) - This episode talks about the importance of work-life or non-tech balance for someone building a career in technology
  * [WorkLife with Adam Grant](https://itunes.apple.com/nz/podcast/how-to-love-criticism/id1346314086?i=1000404159792&mt=2) - A great podcast episode around how important it is to give critical feedback
  * [Randy Shoup on Creating High-Performance Cultures](https://www.infoq.com/podcasts/high-performance-cultures/) - A podcast episode on how to build high performance cultures
