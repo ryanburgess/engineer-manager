@@ -1074,6 +1074,12 @@
         "cat": "article"
     },
     {
+        "title": "You're Measuring AI Spend, Not AI Value",
+        "url": "https://sawinyh.com/blog/measuring-ai-spend-not-value/",
+        "reason": "AI broke velocity and lines-of-code as proxies. Proposes cost-per-verified-outcome (CPVO) plus review-tax and verified-share as a team-level dashboard for governing AI dev-tool spend, without resorting to per-person leaderboards.",
+        "cat": "article"
+    },
+    {
         "title": "1 Top Priority About Remote Work That Most Managers Are Forgetting",
         "url": "https://www.inc.com/marcel-schwantes/1-top-priority-about-remote-work-that-most-managers-are-forgetting.html",
         "reason": "How to improve remote work for your team.",
