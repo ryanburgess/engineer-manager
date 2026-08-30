@@ -27,7 +27,7 @@ This repository contains a comprehensive collection of articles, books, podcasts
 ## Mentoring
  * [SCORE](https://www.score.org/)
  * [Tech Leader Mentoring Group](https://marcusblankenship.com/tech-lead-mentoring-group/)
- * [The Mentoring Club](https://www.mentoring-club.com/) - A non-profit mentoring group.
+ * [ADPList](https://adplist.org/) - Free 1:1 mentorship with 40,000+ verified mentors.
 
 ## Books
  * [Talking with Tech Leads: From Novices to Practitioners](https://www.amazon.com/Talking-Tech-Leads-Novices-Practitioners/dp/150581748X)
