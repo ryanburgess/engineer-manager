@@ -191,6 +191,7 @@ This repository contains a comprehensive collection of articles, books, podcasts
  * [Meetings that don't suck](https://techcrunch.com/2015/07/17/meetings-that-dont-suck) - Some good tips on how to improve meetings.
  * [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c#.53msecvc3) - A good article on improving 1:1s
  * [101 Questions to Ask in One on Ones](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/) - Some helpful ideas for what questions to ask in a one on one.
+ * [Check-in questions for team meetings, daily check-ins and 1:1s](https://eodly.io/templates/check-in-questions) - Check-in questions grouped by meeting type (team, daily, weekly, one-on-one, engineering), with notes on when to use them and which ones to leave out.
  * [Hire a Top Performer Every Time with These Interview Questions](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/) - Example interview questions to help find the top performers.
  * [The biggest lie in HR: “People quit managers](https://42hire.com/the-biggest-lie-in-hr-people-quit-managers-592e68ee6623#.yj669qfn2) - This article shares some good insights into how important a manager is for people.
  * [Want to hire faster? Write about “learning,” not “brilliance”](https://textio.ai/growth-mindset-language-41d51c91432#.ru880yn61) - This article has some great advice to help you communicate in your job posts to reflect your company culture.
